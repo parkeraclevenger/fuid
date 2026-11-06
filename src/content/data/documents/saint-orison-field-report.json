@@ -1,0 +1,89 @@
+{
+  "id": "document.la-2013-006-field-report-01",
+  "slug": "saint-orison-field-report-01",
+  "documentNumber": "FUID-LA-2013-006-FR-01",
+  "type": "field-report",
+  "title": "Initial Biological and Infrastructure Observation",
+  "abstract": "Field observations of the unidentified amphibious animal using the Saint Orison flood-control network.",
+  "createdDate": "2013-04-29",
+  "byline": {
+    "name": "Celia Wren",
+    "role": "Field Investigator"
+  },
+  "caseId": "case.la-2013-006",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Saint Orison", "amphibious animal", "pump house", "survey flags", "canal"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "distribution": [
+    "Public Records Reading Room",
+    "Office of Field Investigations",
+    "Saint Orison Parish Drainage Board"
+  ],
+  "metadata": [
+    {
+      "label": "Observation period",
+      "value": "April 24–26, 2013"
+    },
+    {
+      "label": "Estimated length",
+      "value": "2.1–2.6 meters"
+    },
+    {
+      "label": "Public hazard",
+      "value": "Low; do not approach or feed"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Description"
+    },
+    {
+      "type": "paragraph",
+      "text": "The animal was observed on four occasions in Canal 3C and once on the concrete apron of Pump House Three. It is low-bodied, broad-headed, and apparently tailed, with four short limbs and a dorsal surface patterned in parallel ridges. Estimated length varied because the tail remained submerged. The ridges resemble tire tread at a distance but flex independently when the animal turns."
+    },
+    {
+      "type": "paragraph",
+      "text": "Color under daylight was dark gray-green. At night the skin reflected amber work lights without visible eyeshine. The animal produced a series of three clicks followed by a rising chirp. The pump controller interpreted the chirp as a cabinet alarm on two occasions, though the frequencies are not an exact match."
+    },
+    {
+      "type": "heading",
+      "text": "Flag-return behavior"
+    },
+    {
+      "type": "paragraph",
+      "text": "Drainage staff reported 23 missing survey flags during the prior month. Seventeen were found in a dry pile beside the pump-house personnel door, grouped by color. During controlled observation, Investigator Wren placed six expired orange flags along the east bank. The animal removed four after sunset and deposited them beside the existing orange group. It ignored unmarked dowels and current yellow flags."
+    },
+    {
+      "type": "paragraph",
+      "text": "No food reward, scent marker, or handling cue was used. The recovered flags showed shallow paired impressions but no saliva suitable for analysis. One flag still carried a metal inspection tag. The tag was returned separately on top of the pile."
+    },
+    {
+      "type": "heading",
+      "text": "Infrastructure assessment"
+    },
+    {
+      "type": "paragraph",
+      "text": "The animal entered a 46-centimeter culvert without visible compression and emerged from Canal 3C approximately nine minutes later. Dye testing found no direct water connection between the culvert and the emergence point. No blockage, undermining, or pump damage was identified."
+    },
+    {
+      "type": "callout",
+      "label": "Interim guidance",
+      "text": "Continue normal drainage operations. Store unused survey flags indoors. Do not use active inspection tags as lures, and do not block a culvert while the animal is visible inside it."
+    },
+    {
+      "type": "heading",
+      "text": "Finding"
+    },
+    {
+      "type": "paragraph",
+      "text": "Available observations do not match a known local species at the reported size. The animal appears tolerant of routine machinery and has not behaved aggressively. Noninvasive quarterly observation is recommended in cooperation with the parish wildlife office."
+    }
+  ]
+}

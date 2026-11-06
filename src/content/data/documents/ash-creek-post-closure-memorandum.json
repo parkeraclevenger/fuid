@@ -1,0 +1,51 @@
+{
+  "id": "document.ne-2019-021-memorandum-02",
+  "slug": "ash-creek-post-closure-memorandum-02",
+  "documentNumber": "FUID-NE-2019-021-M-02",
+  "type": "memorandum",
+  "title": "One-Year Post-Closure Verification",
+  "abstract": "Routine one-year verification that the Ash Creek siren remained inactive after removal of the shared conductor.",
+  "createdDate": "2020-07-07",
+  "from": {
+    "name": "Omar Dale",
+    "role": "Field Investigator"
+  },
+  "to": ["OFI Central Desk"],
+  "cc": ["Ash Creek Township Clerk"],
+  "subject": "One-Year Post-Closure Verification",
+  "caseId": "case.ne-2019-021",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Ash Creek", "post-closure", "siren", "maintenance verification"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "metadata": [
+    {
+      "label": "Verification period",
+      "value": "July 2019–June 2020"
+    },
+    {
+      "label": "Reported activations",
+      "value": "None"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Ash Creek Township provided maintenance logs covering the first full year after closure. No siren activation, unexplained cabinet voltage, or recurrence at the irrigation well was reported. The abandoned telephone pair remains physically separated and capped at both facilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "The township removed the siren rotor in March 2020 and retained the cabinet as a historical fixture. The cabinet label accurately states that an undocumented energized conductor was removed in 2019. It does not imply that the siren operated without a power source."
+    },
+    {
+      "type": "callout",
+      "label": "Status confirmation",
+      "text": "The case remains Closed — Explained. No monitoring extension, access restriction, or paranormal designation is warranted."
+    }
+  ]
+}

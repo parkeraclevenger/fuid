@@ -1,0 +1,97 @@
+{
+  "id": "document.or-1986-011-field-report-01",
+  "slug": "harrow-station-field-report-01",
+  "documentNumber": "FUID-OR-1986-011-FR-01",
+  "type": "field-report",
+  "title": "Personnel and Site Reconciliation",
+  "abstract": "Comparison of Harrow Station staffing records, physical inventory, shift logs, and the reported lower-tower route.",
+  "createdDate": "1986-09-08",
+  "byline": {
+    "name": "Jonah Rusk",
+    "role": "Special Investigator"
+  },
+  "caseId": "case.or-1986-011",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Harrow Station", "R. Vale", "shift ledger", "lower tower", "personnel"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "distribution": [
+    "Public Records Reading Room",
+    "Office of Field Investigations",
+    "Regional Forestry Personnel Office"
+  ],
+  "metadata": [
+    {
+      "label": "Site visit",
+      "value": "September 2–4, 1986"
+    },
+    {
+      "label": "Authorized staffing",
+      "value": "Three seasonal observers"
+    },
+    {
+      "label": "Physical work positions",
+      "value": "Four"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Background"
+    },
+    {
+      "type": "paragraph",
+      "text": "The regional forestry office requested reconciliation after the Harrow Station supervisor listed four desks on the annual property sheet. Payroll, vehicle, ration, and assignment records supported three seasonal observers. The station supervisor stated that the fourth desk belonged to relief observer R. Vale, who had departed on foot for the lower tower on August 26 and had not returned. Regional maps show no lower tower."
+    },
+    {
+      "type": "heading",
+      "text": "Personnel interviews"
+    },
+    {
+      "type": "paragraph",
+      "text": "All three assigned observers recalled working with a person they identified as Vale from June through August. Their descriptions were incompatible. One described a man in his late fifties, one described a woman approximately thirty years old, and one could not assign an age or sex but remembered a pronounced southern accent. Each observer independently stated that Vale preferred the lower tower during evening shifts."
+    },
+    {
+      "type": "paragraph",
+      "text": "None could provide a home address, emergency contact, arrival date, or means of transportation. Two believed another observer had trained Vale. The third believed Vale had trained the entire group. No observer reported the absence until the inventory question was raised the following morning."
+    },
+    {
+      "type": "heading",
+      "text": "Records and property"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shift ledgers contain the initials R.V. on 47 dates. Handwriting comparison indicates that the initials were entered by at least three writers, including two assigned observers. The fourth desk contained a rain jacket, one right-foot boot, a chipped enamel cup, and a ring of keys that did not operate any station lock. Clothing sizes were not mutually consistent."
+    },
+    {
+      "type": "paragraph",
+      "text": "The desk and the station's second desk carry the same federal property number. Both tags show comparable wear and use the correct 1978 label stock. Removing either item from the inventory would leave the property record numerically correct and the physical count incorrect."
+    },
+    {
+      "type": "heading",
+      "text": "Site survey"
+    },
+    {
+      "type": "paragraph",
+      "text": "A maintained footpath descends from the west side of the station for 112 yards and terminates at survey monument HR-0. No foundation, utility, cut timber, or other evidence of a former tower was located beyond the monument. Station personnel agreed this was the route to the lower tower and expressed surprise that the path ended."
+    },
+    {
+      "type": "callout",
+      "label": "Search disposition",
+      "text": "A two-day ground search located no missing person and no evidence sufficient to define a search subject. The sheriff's office declined to open a missing-person file without a consistent description or proof that Vale existed outside station records."
+    },
+    {
+      "type": "heading",
+      "text": "Finding"
+    },
+    {
+      "type": "paragraph",
+      "text": "The extra work position and associated property are genuine. The shift entries and staff recollections do not establish the identity of a fourth employee. No conventional explanation accounts for the maintained path or the shared property number. Further field search is not recommended without new identifying information."
+    }
+  ]
+}

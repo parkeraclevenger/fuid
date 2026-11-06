@@ -1,0 +1,70 @@
+{
+  "id": "document.co-2004-014-internal-memorandum-01",
+  "slug": "bellwether-controlled-addendum-01",
+  "documentNumber": "FUID-CO-2004-014-M-INT-01",
+  "type": "memorandum",
+  "title": "Controlled Addendum: Endpoint Observation Protocol",
+  "abstract": "Internal observation protocol for duplicate endpoint reports associated with the Bellwether service-road interval.",
+  "createdDate": "2005-03-04",
+  "from": {
+    "name": "Mara Venn",
+    "role": "Field Investigator"
+  },
+  "to": ["OFI Western Desk", "Records Review Console"],
+  "cc": ["Acting Administrative Officer Lena Ortez"],
+  "subject": "Controlled Addendum: Endpoint Observation Protocol",
+  "caseId": "case.co-2004-014",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "restricted",
+    "minClearance": 2,
+    "departments": ["department.field-investigations"],
+    "grants": ["archive.internal"]
+  },
+  "search": {
+    "indexable": false,
+    "keywords": []
+  },
+  "classificationMarking": "FUID INTERNAL // CONTROLLED",
+  "metadata": [
+    {
+      "label": "Control",
+      "value": "OFI endpoint-observation procedure"
+    },
+    {
+      "label": "Public indexing",
+      "value": "Excluded"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "This addendum consolidates observations withheld from routine public route guidance because the described test requires coordinated road closure and may encourage unsafe attempts by unaffiliated drivers. It does not establish a classified program or a separate investigation."
+    },
+    {
+      "type": "heading",
+      "text": "Endpoint persistence"
+    },
+    {
+      "type": "paragraph",
+      "text": "During three westbound variance events, marker 6-B remained visible in the center rear mirror after the vehicle had traveled far enough that the post should have been obscured by the first curve. Side mirrors and the rear-facing camera showed the expected empty road. The persistent image did not enlarge, recede, or respond when the mirror was adjusted."
+    },
+    {
+      "type": "paragraph",
+      "text": "On February 17, the persistent image was visible for 52 seconds. At second 31, a second post appeared beside it. The physical endpoint observer reported one post. The reservoir dispatcher reported two. The vehicle occupants reported that both posts carried the same intact evidence seal."
+    },
+    {
+      "type": "heading",
+      "text": "Controlled procedure"
+    },
+    {
+      "type": "paragraph",
+      "text": "Future tests require one endpoint observer, one control-building observer, and a vehicle crew of two. The driver will not stop during a variance event. The passenger may record mirror observations but will not turn to view the rear window until the marker image has disappeared. No loose replacement signage will be transported in the vehicle."
+    },
+    {
+      "type": "callout",
+      "label": "Termination condition",
+      "text": "End the test immediately if a marker is visible ahead of the vehicle while either endpoint observer continues to report the vehicle between 6-A and 6-B. Do not approach the forward marker. Continue to the staffed reservoir gate and reconcile personnel before equipment."
+    }
+  ]
+}

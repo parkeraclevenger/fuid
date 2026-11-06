@@ -1,0 +1,55 @@
+{
+  "id": "document.la-2013-006-memorandum-01",
+  "slug": "saint-orison-conduct-memorandum-01",
+  "documentNumber": "FUID-LA-2013-006-M-01",
+  "type": "memorandum",
+  "title": "Feeding, Naming, and Pump-House Access Guidance",
+  "abstract": "Operational guidance for parish employees working near the Saint Orison drainage animal.",
+  "createdDate": "2013-05-02",
+  "from": {
+    "name": "Celia Wren",
+    "role": "Field Investigator"
+  },
+  "to": ["Saint Orison Parish Drainage Board", "Pump House Three Personnel"],
+  "cc": ["Parish Wildlife Office"],
+  "subject": "Feeding, Naming, and Pump-House Access Guidance",
+  "caseId": "case.la-2013-006",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Saint Orison", "Ledgerback", "feeding guidance", "pump house", "cryptid"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "metadata": [
+    {
+      "label": "Effective",
+      "value": "May 2, 2013"
+    },
+    {
+      "label": "Review interval",
+      "value": "Quarterly"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Employees may continue routine work near Canal 3C and Pump House Three. Report sightings through the existing wildlife log and note the animal's direction of travel, water level, and any objects carried. An object returned to the pump house should be photographed before it is moved."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not feed the animal, offer active inspection materials, or leave colored household objects along the canal. The animal has already moved one lunch cooler and a red fuel funnel to the flag pile. Neither item was damaged, but retrieving personal property is not an approved observation method."
+    },
+    {
+      "type": "callout",
+      "label": "Official terminology",
+      "text": "Use “unidentified drainage animal” in logs and work orders. “Ledgerback” may remain on the break-room board but is not a taxonomic designation and should not be entered in the state wildlife database."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not lock the exterior personnel door open to permit access. The animal has not attempted entry and should not be encouraged to associate the building with stored flags. Personnel who hear the three-click call inside the pump house should first verify the cabinet alarm before assuming the animal is present."
+    }
+  ]
+}

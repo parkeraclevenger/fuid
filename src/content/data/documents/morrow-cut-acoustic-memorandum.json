@@ -1,0 +1,63 @@
+{
+  "id": "document.wv-2008-009-memorandum-01",
+  "slug": "morrow-cut-acoustic-memorandum-01",
+  "documentNumber": "FUID-WV-2008-009-M-01",
+  "type": "memorandum",
+  "title": "Acoustic Path and Mine-Map Reconciliation",
+  "abstract": "Comparison of Morrow Cut recordings with mapped mine workings, radio traffic, and geological transmission paths.",
+  "createdDate": "2008-02-20",
+  "from": {
+    "name": "Elias Kade",
+    "role": "Field Investigator"
+  },
+  "to": ["OFI Appalachian Desk", "West Virginia Division of Highways"],
+  "cc": ["State Mine Safety Office"],
+  "subject": "Acoustic Path and Mine-Map Reconciliation",
+  "caseId": "case.wv-2008-009",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Morrow Cut", "acoustic survey", "mine maps", "voice recording", "MC-B7"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "metadata": [
+    {
+      "label": "Recordings analyzed",
+      "value": "Eight"
+    },
+    {
+      "label": "Nearest mapped working",
+      "value": "1.7 kilometers northeast"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Historical mine maps, drilling ledgers, and modern resistivity data show no working within 1.7 kilometers of MC-B7. The nearest seam lies 94 meters below the bore terminus and is separated by competent sandstone. Smoke, pressure, and tracer-sound tests found no communication with drainage structures or the opposite slope."
+    },
+    {
+      "type": "paragraph",
+      "text": "Recorded speech occupies the ordinary human vocal range but lacks a single point of origin. Microphones placed at depths of 5, 20, and 40 meters received near-identical levels. A collar microphone received the same words 0.8 seconds later at lower volume, consistent with sound traveling outward from the bore but not with a source at its measured terminus."
+    },
+    {
+      "type": "heading",
+      "text": "Language review"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most speech consists of number sequences, crew surnames, and short work instructions. Phrases repeat in several overlapping voices with variations of less than 20 milliseconds. One recording includes the instruction “bring the light down” followed by the names Kade, Mercer, and Ives. Site logs establish that all three names were spoken near the bore before that recording."
+    },
+    {
+      "type": "callout",
+      "label": "Technical conclusion",
+      "text": "No conventional acoustic route has been identified. The data are insufficient to determine whether the sound originates within the bore, is coupled into it through unmeasured fractures, or is produced by an unknown local source."
+    },
+    {
+      "type": "paragraph",
+      "text": "Recommend permanent fill after one final instrument descent. The bore does not contribute to drainage and may be closed without affecting slope stability."
+    }
+  ]
+}

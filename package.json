@@ -1,0 +1,40 @@
+{
+  "name": "fuid-archive",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0",
+    "pnpm": ">=11.0.0"
+  },
+  "packageManager": "pnpm@11.25.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "typecheck": "tsc -b --pretty false",
+    "test": "vitest run && node --test scripts/create-content.test.mjs scripts/report-content.test.mjs",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "validate:content": "vitest run src/content/catalog.validation.test.ts",
+    "new:content": "node scripts/create-content.mjs",
+    "report:content": "pnpm validate:content && node scripts/report-content.mjs",
+    "report:bundle": "pnpm build && node scripts/report-bundle.mjs",
+    "check": "pnpm test && pnpm typecheck && pnpm build && pnpm test:e2e"
+  },
+  "dependencies": {
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "react-router-dom": "7.18.5",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.65.0",
+    "@types/node": "26.6.6",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@vitejs/plugin-react": "6.2.1",
+    "typescript": "7.0.2",
+    "vite": "8.3.6",
+    "vitest": "5.1.0"
+  }
+}

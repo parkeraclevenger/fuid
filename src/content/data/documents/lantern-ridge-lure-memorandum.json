@@ -1,0 +1,55 @@
+{
+  "id": "document.mt-1997-019-memorandum-01",
+  "slug": "lantern-ridge-lure-memorandum-01",
+  "documentNumber": "FUID-MT-1997-019-M-01",
+  "type": "memorandum",
+  "title": "Salt Block and Camera Placement Restrictions",
+  "abstract": "Operational restrictions following unsuccessful attempts to photograph the Lantern Ridge animal with wildlife lures.",
+  "createdDate": "1998-01-09",
+  "from": {
+    "name": "Irene Bell",
+    "role": "Field Investigator"
+  },
+  "to": ["State Wildlife District 4", "Lantern Ridge Highway Maintenance Yard"],
+  "cc": ["OFI Mountain Desk"],
+  "subject": "Salt Block and Camera Placement Restrictions",
+  "caseId": "case.mt-1997-019",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Lantern Ridge", "salt block", "camera trap", "long elk", "lure restriction"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "metadata": [
+    {
+      "label": "Effective",
+      "value": "Immediately"
+    },
+    {
+      "label": "Area",
+      "value": "Mile 47–49 wildlife corridor"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Discontinue placement of mineral blocks within 100 meters of the mile 48 culvert. The blocks attract ordinary elk to the highway shoulder, interfere with track comparison, and create a traffic hazard unrelated to the reported animal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Two blocks placed near the west exit were consumed overnight without tracks, tooth marks, fragments, or disturbance of the snow. This absence does not justify additional blocks. A missing lure is not improved by increasing the quantity of missing lure."
+    },
+    {
+      "type": "callout",
+      "label": "Camera placement",
+      "text": "Mount cameras outside the traveled shoulder and aim them away from oncoming traffic. Do not place a camera inside the culvert. The pipe is active drainage infrastructure, not a blind, den entrance, or personnel shelter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wildlife officers may continue ordinary seasonal surveys. Reports should use “unidentified cervid” or the case number. “Long elk” is acceptable in quoted witness statements but should not be entered as a species in harvest, collision, or feed-allocation databases."
+    }
+  ]
+}

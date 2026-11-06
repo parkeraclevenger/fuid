@@ -1,0 +1,72 @@
+{
+  "id": "document.la-2013-006-internal-field-report-01",
+  "slug": "saint-orison-pumphouse-supplement-01",
+  "documentNumber": "FUID-LA-2013-006-FR-INT-01",
+  "type": "field-report",
+  "title": "Pump House Acoustic and Cabinet-Access Supplement",
+  "abstract": "Controlled follow-up concerning alarm-like calls and unexplained access to secured pump-control storage.",
+  "createdDate": "2013-05-06",
+  "byline": {
+    "name": "Celia Wren",
+    "role": "Field Investigator"
+  },
+  "caseId": "case.la-2013-006",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "restricted",
+    "minClearance": 2,
+    "departments": ["department.field-investigations"],
+    "grants": ["archive.internal"]
+  },
+  "search": {
+    "indexable": false,
+    "keywords": []
+  },
+  "classificationMarking": "FUID INTERNAL // CONTROLLED",
+  "distribution": ["Office of Field Investigations", "FUID Infrastructure Security", "Records Review Console"],
+  "metadata": [
+    {
+      "label": "Observation window",
+      "value": "May 3–5, 2013"
+    },
+    {
+      "label": "Control basis",
+      "value": "Pump-station access and alarm vulnerabilities"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Concurrent observation"
+    },
+    {
+      "type": "paragraph",
+      "text": "At 01:42 on May 4, the pump-house cabinet microphone recorded three clicks and a rising chirp from inside the secured control cabinet. Investigator Wren and two parish employees were outside the building at that time and had continuous visual contact with the drainage animal in Canal 3C, approximately 320 meters east. The animal was stationary and did not visibly vocalize."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cabinet door remained locked. Its mechanical seal, hinge paint, and electronic access log showed no entry. When opened at 06:10, the cabinet contained seven expired inspection tags that had been stored in a sealed drawer. The tags were arranged by color on the cabinet floor. One was wet with canal water."
+    },
+    {
+      "type": "heading",
+      "text": "Signal comparison"
+    },
+    {
+      "type": "paragraph",
+      "text": "The recorded chirp matches the duration and rising contour of the animal's field call but begins 0.4 seconds before the outdoor recorder captures the first click from the canal. Repeated playback did not activate the cabinet alarm. The pump controller registered the live cabinet signal as an alarm despite its frequency falling outside the programmed band."
+    },
+    {
+      "type": "heading",
+      "text": "Material handling"
+    },
+    {
+      "type": "paragraph",
+      "text": "All inspection tags were removed from Pump House Three and placed in evidence sleeves. The following morning, a dry white tag with no serial number was found on the exterior personnel-door threshold. Neither FUID nor the parish uses white tags in the Saint Orison drainage system."
+    },
+    {
+      "type": "callout",
+      "label": "Internal handling instruction",
+      "text": "Do not disclose the cabinet-access detail in parish operating notices. Continue to describe the three-click call as an observation cue, not an alarm override. Infrastructure Security will replace the cabinet recorder without changing the lock or leaving unused tags on site."
+    }
+  ]
+}

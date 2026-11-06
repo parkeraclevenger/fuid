@@ -1,0 +1,11 @@
+{
+  "id": "discovery.lantern-ridge-direction",
+  "caseId": "case.mt-1997-019",
+  "label": "Evidence correlation",
+  "title": "Direction remains reversed",
+  "summary": "Beyond the culvert, the public report's hoofprints continue west while pointing east. Inside the culvert, the controlled thermal record also moves west while retaining an east-facing hoof outline. Two different recording media preserve the same impossible disagreement between orientation and travel.",
+  "requiredDocumentIds": [
+    "document.mt-1997-019-field-report-01",
+    "document.mt-1997-019-internal-memorandum-01"
+  ]
+}

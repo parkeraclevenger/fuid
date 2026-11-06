@@ -1,0 +1,55 @@
+{
+  "id": "document.co-2004-014-memorandum-02",
+  "slug": "bellwether-marker-memorandum-02",
+  "documentNumber": "FUID-CO-2004-014-M-02",
+  "type": "memorandum",
+  "title": "Service Road Marker 6-B Replacement Request",
+  "abstract": "Disposition of a facilities request to replace marker 6-B during the Bellwether monitoring period.",
+  "createdDate": "2005-04-11",
+  "from": {
+    "name": "Lena Ortez",
+    "role": "Acting Administrative Officer"
+  },
+  "to": ["Tri-County Water Authority Facilities Office", "OFI Western Desk"],
+  "cc": ["Regional Survey Coordinator"],
+  "subject": "Service Road Marker 6-B Replacement Request",
+  "caseId": "case.co-2004-014",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Bellwether Reservoir", "marker 6-B", "replacement request", "survey baseline"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "metadata": [
+    {
+      "label": "Facilities request",
+      "value": "TCWA-05-188"
+    },
+    {
+      "label": "Disposition",
+      "value": "Denied pending case closure"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The request to replace marker post 6-B is denied while quarterly monitoring remains active. The post is structurally serviceable, carries the original evidence seal, and defines one endpoint of the established survey baseline. Surface fading does not prevent identification at ordinary road speed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Facilities cited three reports that two 6-B markers were visible at the same time. Replacing the confirmed post would not resolve those reports because no second physical post has been located, inventoried, or made available for removal. A work order cannot be issued for an item that is present only while the observer is in motion."
+    },
+    {
+      "type": "callout",
+      "label": "Temporary maintenance authorization",
+      "text": "Facilities may clean the existing post by hand between 10:00 and 14:00. Do not detach it, obscure the evidence seal, or arrive with a second replacement post in the service vehicle."
+    },
+    {
+      "type": "paragraph",
+      "text": "This denial is not a finding that the duplicate-marker reports are accurate. It preserves the only endpoint whose location and chain of custody are not disputed. Submit ordinary vegetation-clearance costs under the reservoir maintenance code rather than the investigative travel code."
+    }
+  ]
+}

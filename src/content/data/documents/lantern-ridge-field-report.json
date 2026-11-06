@@ -1,0 +1,89 @@
+{
+  "id": "document.mt-1997-019-field-report-01",
+  "slug": "lantern-ridge-field-report-01",
+  "documentNumber": "FUID-MT-1997-019-FR-01",
+  "type": "field-report",
+  "title": "Night Crossing and Culvert Track Survey",
+  "abstract": "Survey of witness locations, track evidence, and culvert dimensions following reports of the Lantern Ridge animal.",
+  "createdDate": "1997-11-18",
+  "byline": {
+    "name": "Irene Bell",
+    "role": "Field Investigator"
+  },
+  "caseId": "case.mt-1997-019",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Lantern Ridge", "long elk", "culvert", "tracks", "wildlife corridor"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "distribution": [
+    "Public Records Reading Room",
+    "Office of Field Investigations",
+    "State Wildlife District 4"
+  ],
+  "metadata": [
+    {
+      "label": "Survey dates",
+      "value": "November 5–12, 1997"
+    },
+    {
+      "label": "Culvert diameter",
+      "value": "1.22 meters"
+    },
+    {
+      "label": "Witness estimate",
+      "value": "3.0–3.4 meters at shoulder"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Witness summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "Five highway employees and two wildlife officers observed an elk-like animal near mile 48 between October 31 and November 4. Estimates placed the shoulder above the roofline of a standard maintenance truck. Witnesses agreed that the animal carried broad antlers and moved slowly without visible distress. None reported eye reflection despite direct illumination."
+    },
+    {
+      "type": "paragraph",
+      "text": "The common description “long elk” refers to vertical height, not body length. Two witnesses reported that the forelegs appeared to contain an additional joint when the animal stepped over the right-of-way fence. Photographs show an overexposed silhouette and cannot confirm limb structure."
+    },
+    {
+      "type": "heading",
+      "text": "Track survey"
+    },
+    {
+      "type": "paragraph",
+      "text": "A single line of cloven-hoof impressions approached the east culvert entrance through fresh snow. Print dimensions fall within the upper range for adult elk. Stride length varied from 1.4 to 2.2 meters. No kneeling, sliding, or disturbance of the culvert rim was present."
+    },
+    {
+      "type": "paragraph",
+      "text": "Matching impressions began 6.8 meters beyond the west exit. The points of both hoof halves faced east, toward the culvert, while the track sequence continued west. No prints occupied the intervening ground. Investigators verified that the apparent reversal was not caused by overlapping animals or a backward-moving elk."
+    },
+    {
+      "type": "heading",
+      "text": "Culvert examination"
+    },
+    {
+      "type": "paragraph",
+      "text": "The concrete pipe is 1.22 meters in diameter and 31 meters long. Interior dust, spider webs, and a suspended survey thread remained intact after the second reported crossing. Thermal observation showed a moving cool area traveling east to west through the pipe at 02:11 on November 9. No visible animal accompanied the temperature change."
+    },
+    {
+      "type": "callout",
+      "label": "Public safety guidance",
+      "text": "Motorists should treat any large animal near the roadway as ordinary wildlife: reduce speed, remain in the vehicle, and notify highway patrol. Do not stop inside the culvert or attempt to test whether the animal fits."
+    },
+    {
+      "type": "heading",
+      "text": "Disposition"
+    },
+    {
+      "type": "paragraph",
+      "text": "Evidence supports the presence of a large hoofed animal but does not establish its reported height or means of passage. Camera monitoring continued through January without a usable image. The case is closed unresolved pending new physical evidence or a verifiable seasonal recurrence."
+    }
+  ]
+}

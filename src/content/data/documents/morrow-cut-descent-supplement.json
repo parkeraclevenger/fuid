@@ -1,0 +1,84 @@
+{
+  "id": "document.wv-2008-009-internal-field-report-01",
+  "slug": "morrow-cut-descent-supplement-01",
+  "documentNumber": "FUID-WV-2008-009-FR-INT-01",
+  "type": "field-report",
+  "title": "Final Instrument Descent and Capsule Examination",
+  "abstract": "Controlled final recording descent documenting anticipatory speech and material recovered inside a sealed microphone capsule.",
+  "createdDate": "2008-02-22",
+  "byline": {
+    "name": "Elias Kade",
+    "role": "Field Investigator"
+  },
+  "caseId": "case.wv-2008-009",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "restricted",
+    "minClearance": 2,
+    "departments": ["department.field-investigations"],
+    "grants": ["archive.internal"]
+  },
+  "search": {
+    "indexable": false,
+    "keywords": []
+  },
+  "classificationMarking": "FUID INTERNAL // CONTROLLED",
+  "distribution": ["Office of Field Investigations", "OFI Appalachian Desk", "Records Review Console"],
+  "metadata": [
+    {
+      "label": "Descent window",
+      "value": "February 21, 2008 · 23:40–00:18"
+    },
+    {
+      "label": "Instrument package",
+      "value": "MC-B7-AUDIO-4"
+    },
+    {
+      "label": "Control basis",
+      "value": "Employee-identifying speech and unexplained biological residue"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Pre-descent controls"
+    },
+    {
+      "type": "paragraph",
+      "text": "The microphone and recorder were enclosed in a clear polycarbonate capsule with a pressure membrane, tamper wire, and numbered wax seal. Investigators Kade and Norwood inspected the empty housing before closure. Highway staff Mercer and Ives were not scheduled and had left Morrow County earlier that evening."
+    },
+    {
+      "type": "heading",
+      "text": "Recovered audio"
+    },
+    {
+      "type": "paragraph",
+      "text": "At a logged depth of 32 meters, several voices said “Mercer first, Ives second, Kade last.” The site remained silent at the collar. At 23:52, the voices stated that Mercer was at the north gate and Ives was behind him. Vehicle logs show Mercer entered the north gate at 00:01 with Ives in the passenger seat. Neither had notified the site team that they were returning."
+    },
+    {
+      "type": "paragraph",
+      "text": "When Investigator Kade ordered retrieval, the voices stopped counting and spoke directly beside the microphone without the expected change in level: “Elias, there is room after sixty-one.” The capsule struck the measured terminus six seconds later. The cable tension did not change."
+    },
+    {
+      "type": "heading",
+      "text": "Capsule examination"
+    },
+    {
+      "type": "paragraph",
+      "text": "The wax seal, tamper wire, housing seam, and pressure membrane were intact on recovery. Condensation covered the inside surface although the capsule interior had been dried and packed with indicator paper. Beneath the recorder were six human primary teeth arranged in a straight line from smallest to largest. All retained root resorption consistent with ordinary childhood loss."
+    },
+    {
+      "type": "paragraph",
+      "text": "The teeth were clean, warm, and free of coal or sandstone dust. Preliminary dental age estimates describe at least four individuals. No DNA profile matched site personnel or missing-person references available to the regional office. The capsule recording contains quiet breathing for eleven minutes after power was removed."
+    },
+    {
+      "type": "callout",
+      "label": "Handling instruction",
+      "text": "Do not play the final eleven minutes within hearing distance of an open shaft, bore, culvert, or ventilation duct. Do not publish the anticipated-arrival sequence or the recovered dental material."
+    },
+    {
+      "type": "paragraph",
+      "text": "Permanent grout placement was authorized immediately after evidence transfer. No additional descent, verbal challenge, or attempt to identify the voices is approved."
+    }
+  ]
+}

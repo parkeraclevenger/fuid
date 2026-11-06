@@ -1,0 +1,73 @@
+{
+  "id": "document.co-2004-014-field-report-01",
+  "slug": "bellwether-field-report-01",
+  "documentNumber": "FUID-CO-2004-014-FR-01",
+  "type": "field-report",
+  "title": "Initial Route Survey and Mileage Reconciliation",
+  "abstract": "Initial field measurements of the variable-distance interval on Service Road 6 at Bellwether Reservoir.",
+  "createdDate": "2004-11-22",
+  "byline": {
+    "name": "Mara Venn",
+    "role": "Field Investigator"
+  },
+  "caseId": "case.co-2004-014",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Bellwether Reservoir", "survey", "odometer", "Service Road 6"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "distribution": ["Public Records Reading Room", "Office of Field Investigations"],
+  "metadata": [
+    {
+      "label": "Survey window",
+      "value": "06:40–12:15 MST"
+    },
+    {
+      "label": "Weather",
+      "value": "Clear, 28–44 °F"
+    },
+    {
+      "label": "Vehicle",
+      "value": "GSA 41-773, odometer verified"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Purpose"
+    },
+    {
+      "type": "paragraph",
+      "text": "At the request of the Tri-County Water Authority, the Office of Field Investigations conducted a route survey of the signed one-mile interval on Service Road 6. The Authority requested an independent measurement after two maintenance employees submitted mileage logs exceeding the expected route distance."
+    },
+    {
+      "type": "heading",
+      "text": "Method"
+    },
+    {
+      "type": "paragraph",
+      "text": "The interval was measured on foot with a survey wheel and by vehicle using two independently calibrated odometers. The walking survey returned 5,281 feet. The first eastbound vehicle pass returned 1.02 miles. Three westbound passes returned 1.18, 1.26, and 1.31 miles respectively. No turn, grade change, obstruction, or loss of sightline was observed during the longer passes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investigator Venn placed a paper evidence seal on marker post 6-B before the final pass. The vehicle reached post 6-A after 1.31 miles. The seal remained intact and was visible in the rear mirror for approximately forty seconds after the vehicle had passed the post. No second post was located."
+    },
+    {
+      "type": "callout",
+      "label": "Administrative note",
+      "text": "Mileage claims associated with this survey should use the vehicle odometer reading. Form OFI-12 requires an explanatory attachment when the claimed distance exceeds the mapped route by more than ten percent. This report satisfies that requirement."
+    },
+    {
+      "type": "heading",
+      "text": "Disposition"
+    },
+    {
+      "type": "paragraph",
+      "text": "No immediate hazard was identified. The interval is approved for quarterly monitoring. Personnel should avoid stopping between posts 6-A and 6-B until the duration of the rearward visual persistence can be documented under controlled conditions."
+    }
+  ]
+}

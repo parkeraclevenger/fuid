@@ -1,0 +1,11 @@
+{
+  "id": "discovery.saint-orison-signal-order",
+  "caseId": "case.la-2013-006",
+  "label": "Signal comparison",
+  "title": "The cabinet answers first",
+  "summary": "The public report treats the three-click call as an observation cue. The controlled supplement shows the secured cabinet recording the same pattern 0.4 seconds before the outdoor recorder captures the animal's first click. If the cabinet is responding to the animal, it begins its response before the initiating sound exists.",
+  "requiredDocumentIds": [
+    "document.la-2013-006-field-report-01",
+    "document.la-2013-006-internal-field-report-01"
+  ]
+}

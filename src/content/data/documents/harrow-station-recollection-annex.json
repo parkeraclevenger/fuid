@@ -1,0 +1,78 @@
+{
+  "id": "document.or-1986-011-internal-memorandum-01",
+  "slug": "harrow-station-recollection-annex-01",
+  "documentNumber": "FUID-OR-1986-011-M-INT-01",
+  "type": "memorandum",
+  "title": "Controlled Annex: Personnel Recollection Matrix",
+  "abstract": "Controlled comparison of staff statements concerning the unidentified fourth position at Harrow Ridge Fire Station.",
+  "createdDate": "1986-09-15",
+  "from": {
+    "name": "Jonah Rusk",
+    "role": "Special Investigator"
+  },
+  "to": ["OFI Northwest Desk", "Regional Personnel Review"],
+  "cc": ["Records Review Console"],
+  "subject": "Controlled Annex: Personnel Recollection Matrix",
+  "caseId": "case.or-1986-011",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "restricted",
+    "minClearance": 2,
+    "departments": ["department.field-investigations"],
+    "grants": ["archive.internal"]
+  },
+  "search": {
+    "indexable": false,
+    "keywords": []
+  },
+  "classificationMarking": "FUID INTERNAL // CONTROLLED",
+  "metadata": [
+    {
+      "label": "Control basis",
+      "value": "Personnel statements and identifying details"
+    },
+    {
+      "label": "Interview period",
+      "value": "September 3–10, 1986"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "This annex compares statements removed from the public field report because they identify seasonal employees and contain unresolved personnel information. The statements were taken separately. No witness was shown the station log, the recovered property, or another witness's account before interview."
+    },
+    {
+      "type": "heading",
+      "text": "Observer A"
+    },
+    {
+      "type": "paragraph",
+      "text": "Observer A recalled that R. Vale worked the desk opposite the radio cabinet for eleven weeks and routinely covered the 02:00 weather report. The observer could not describe Vale's face, voice, vehicle, or assigned bunk. When asked how Vale entered the station each day, the observer replied, “They were already on shift when I woke up,” then stated that all observers slept during the same hours."
+    },
+    {
+      "type": "heading",
+      "text": "Observer B"
+    },
+    {
+      "type": "paragraph",
+      "text": "Observer B denied that a fourth person worked at Harrow Ridge and correctly named all three authorized staff. Ten minutes later, the same observer described borrowing a green vacuum bottle from Vale during a lightning watch. A green bottle marked R.V. was recovered from the fourth desk. Observer B identified it immediately, then withdrew the identification after being reminded that no Vale personnel record exists."
+    },
+    {
+      "type": "heading",
+      "text": "Observer C"
+    },
+    {
+      "type": "paragraph",
+      "text": "Observer C remembered that Vale preferred the lower tower and volunteered that this explained why Vale was absent from most group meals. The witness drew a route from the station to the same maintained path later surveyed by Investigator Rusk. After drawing the route, Observer C stated that Harrow Ridge has never had a lower tower and asked why it appeared on the interview form. No lower tower was mentioned on the form."
+    },
+    {
+      "type": "callout",
+      "label": "Shared limitation",
+      "text": "All three witnesses can recall an action attributed to R. Vale. None can provide one physical description, direct conversation, arrival, departure, or circumstance in which Vale and all three authorized observers were simultaneously present."
+    },
+    {
+      "type": "paragraph",
+      "text": "The pattern is not consistent with an ordinary payroll omission, but it does not establish a missing person. Continue property control and records reconciliation. Do not contact next of kin until an identity capable of having next of kin has been verified."
+    }
+  ]
+}

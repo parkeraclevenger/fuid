@@ -1,0 +1,67 @@
+{
+  "id": "document.ga-1971-002-memorandum-01",
+  "slug": "bellglass-orchard-evidence-memorandum-01",
+  "documentNumber": "FUID-GA-1971-002-M-01",
+  "type": "memorandum",
+  "title": "Fruit and Track Evidence Examination",
+  "abstract": "Laboratory and casting results for the intact hollow fruit and discontinuous tracks recovered at Bellglass Orchard.",
+  "createdDate": "1971-08-13",
+  "from": {
+    "name": "Miriam Saye",
+    "role": "Field Investigator"
+  },
+  "to": ["OFI Southeast Desk", "Georgia Agricultural Inspection Service"],
+  "cc": ["Bellglass County Health Officer"],
+  "subject": "Fruit and Track Evidence Examination",
+  "caseId": "case.ga-1971-002",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Bellglass", "hollow peaches", "seed cavity", "track casts", "evidence"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "metadata": [
+    {
+      "label": "Evidence lots",
+      "value": "GA-71-BG-1 through GA-71-BG-6"
+    },
+    {
+      "label": "Examining facility",
+      "value": "Southeast Regional Agricultural Laboratory"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Fruit examination"
+    },
+    {
+      "type": "paragraph",
+      "text": "Radiographs show that flesh was removed outward from the seed cavity, leaving a shell between 3 and 7 millimeters thick beneath intact skin. Pits are split along their natural seam. Parallel scoring begins inside each pit and continues into the surrounding cavity. No entry cut, puncture, healed growth defect, fungal channel, or insect damage connects the cavity to the exterior."
+    },
+    {
+      "type": "paragraph",
+      "text": "Residue recovered from the cavities consists of peach sugars, fine orchard soil, and a clear mucous protein not matched to common regional mammals, birds, reptiles, or insects. The protein degraded before additional comparison could be completed. There is no evidence that the fruit was altered before ripening."
+    },
+    {
+      "type": "heading",
+      "text": "Track examination"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casts from trees N-17 and N-23 show the same paired forward pads and rear groove despite different soil moisture. Pressure ridges indicate downward loading rather than a stamp or dragged implement. The deepest impressions occur nearest each trunk; none shows the acceleration pattern expected from an animal jumping across the aisle."
+    },
+    {
+      "type": "callout",
+      "label": "Evidence conclusion",
+      "text": "The fruit was opened from its interior after normal development. The available evidence does not identify an access path through the skin, stem, or blossom end."
+    },
+    {
+      "type": "paragraph",
+      "text": "Retain six fruit under refrigeration and return the remaining lots to the county for controlled disposal. Track casts may be released for training use provided the orchard location remains attached to each cast."
+    }
+  ]
+}

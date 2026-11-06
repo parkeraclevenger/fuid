@@ -1,0 +1,33 @@
+{
+  "id": "case.ne-2019-021",
+  "slug": "ash-creek-siren",
+  "caseNumber": "FUID-NE-2019-021",
+  "title": "The Ash Creek Siren",
+  "status": "closed-explained",
+  "incidentDate": "2019-05-07",
+  "openedDate": "2019-06-07",
+  "location": {
+    "locality": "Ash Creek Township",
+    "region": "NE"
+  },
+  "departmentId": "department.field-investigations",
+  "summary": "A decommissioned civil-defense siren sounded at 2:17 p.m. on seven consecutive Tuesdays despite having no municipal electrical service. FUID traced the activation to an undocumented connection between an irrigation controller, a retired telephone pair, and the siren relay. The hazardous circuit was removed and the case was closed as explained.",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": [
+      "Ash Creek Township",
+      "civil defense siren",
+      "irrigation controller",
+      "electrical backfeed",
+      "Nebraska"
+    ]
+  },
+  "relatedDocumentIds": [
+    "document.ne-2019-021-field-report-01",
+    "document.ne-2019-021-memorandum-01",
+    "document.ne-2019-021-memorandum-02"
+  ]
+}

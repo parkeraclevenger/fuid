@@ -1,0 +1,55 @@
+{
+  "id": "document.ga-1971-002-memorandum-02",
+  "slug": "bellglass-orchard-disposition-memorandum-02",
+  "documentNumber": "FUID-GA-1971-002-M-02",
+  "type": "memorandum",
+  "title": "Orchard Clearance and Case Disposition",
+  "abstract": "Final public disposition following removal of the abandoned Bellglass orchard and six months without a confirmed sighting.",
+  "createdDate": "1972-01-14",
+  "from": {
+    "name": "Miriam Saye",
+    "role": "Field Investigator"
+  },
+  "to": ["OFI Southeast Desk", "Bellglass County Agricultural Office"],
+  "cc": ["Property Owner of Record"],
+  "subject": "Orchard Clearance and Case Disposition",
+  "caseId": "case.ga-1971-002",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Bellglass", "orchard clearance", "case disposition", "monitoring"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "metadata": [
+    {
+      "label": "Clearance completed",
+      "value": "November 22, 1971"
+    },
+    {
+      "label": "Case status",
+      "value": "Closed — unresolved"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Bellglass property owner removed the north orchard after crop disease made rehabilitation uneconomical. FUID personnel observed tree removal and found no den, constructed passage, buried enclosure, or continuous track route. Trees N-17 and N-23 were solid at the recorded track height and showed no internal cavity beyond ordinary insect channels."
+    },
+    {
+      "type": "paragraph",
+      "text": "No verified sighting occurred after September 3, 1971. Two later reports involved deer at the southern property line. A row of empty shipping trays found after clearance contained no fruit, biological residue, or tracks and is not treated as a confirmed recurrence."
+    },
+    {
+      "type": "paragraph",
+      "text": "The investigation is closed without identifying the observed animal or explaining the altered fruit. The site presents no continuing public hazard. The retained evidence may be reexamined if a comparable internal-feeding pattern is documented elsewhere."
+    },
+    {
+      "type": "callout",
+      "label": "Disposition",
+      "text": "Closed — unresolved. No access restriction or continued property monitoring is recommended."
+    }
+  ]
+}

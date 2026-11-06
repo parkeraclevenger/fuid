@@ -1,0 +1,33 @@
+{
+  "id": "case.mt-1997-019",
+  "slug": "lantern-ridge-long-elk",
+  "caseNumber": "FUID-MT-1997-019",
+  "title": "The Lantern Ridge Long Elk",
+  "status": "closed-unresolved",
+  "incidentDate": "1997-10-31",
+  "openedDate": "1997-11-03",
+  "location": {
+    "locality": "Lantern Ridge Wildlife Corridor",
+    "region": "MT"
+  },
+  "departmentId": "department.field-investigations",
+  "summary": "Highway crews and wildlife officers reported an exceptionally tall elk-like animal crossing Lantern Ridge after dark and entering a drainage culvert substantially smaller than its observed body. Track evidence was ordinary until the culvert entrance and reversed orientation beyond the exit. No specimen, den, or conventional path through the structure was located.",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": [
+      "Lantern Ridge",
+      "long elk",
+      "antlered animal",
+      "culvert tracks",
+      "Montana cryptid"
+    ]
+  },
+  "relatedDocumentIds": [
+    "document.mt-1997-019-field-report-01",
+    "document.mt-1997-019-memorandum-01",
+    "document.mt-1997-019-internal-memorandum-01"
+  ]
+}

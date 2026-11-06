@@ -1,0 +1,12 @@
+{
+  "id": "discovery.bellglass-inside-path",
+  "caseId": "case.ga-1971-002",
+  "label": "Analyst correlation",
+  "title": "The feeding path begins inside",
+  "summary": "Laboratory scoring begins inside the peach pits without an exterior breach. During the controlled watch, chewing begins inside a sealed crate while its inspection tape and locked building remain undisturbed. Both events place the first physical change inside a closed boundary rather than showing anything pass through it.",
+  "requiredDocumentIds": [
+    "document.ga-1971-002-field-report-01",
+    "document.ga-1971-002-memorandum-01",
+    "document.ga-1971-002-internal-field-report-01"
+  ]
+}

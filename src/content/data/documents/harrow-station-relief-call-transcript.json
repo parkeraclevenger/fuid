@@ -1,0 +1,100 @@
+{
+  "id": "document.or-1986-011-internal-field-report-02",
+  "slug": "harrow-station-relief-call-transcript-01",
+  "documentNumber": "FUID-OR-1986-011-FR-INT-02",
+  "type": "field-report",
+  "title": "Property Storage Incident and Relief Call Transcript",
+  "abstract": "Controlled report concerning an unpowered telephone recovered with the Harrow Station desk and a call received after the 1994 claimant letter.",
+  "createdDate": "1994-03-19",
+  "byline": {
+    "name": "Ada Keene",
+    "role": "Regional Property Specialist"
+  },
+  "caseId": "case.or-1986-011",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "restricted",
+    "minClearance": 2,
+    "departments": ["department.field-investigations"],
+    "grants": ["archive.internal", "archive.harrow-appendix"]
+  },
+  "search": {
+    "indexable": false,
+    "keywords": []
+  },
+  "classificationMarking": "FUID INTERNAL // CONTROLLED",
+  "distribution": ["OFI Northwest Desk", "Regional Property Management", "Records Review Console"],
+  "metadata": [
+    {
+      "label": "Incident time",
+      "value": "March 19, 1994 · 02:13 PST"
+    },
+    {
+      "label": "Property lot",
+      "value": "OR-86-HR-4"
+    },
+    {
+      "label": "Control basis",
+      "value": "Unverified contact and employee-identifying audio"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Incident"
+    },
+    {
+      "type": "paragraph",
+      "text": "Property Specialist Keene entered secured aisle C to compare the unsigned claimant letter with the Harrow Ridge desk inventory. A black telephone handset recovered from the desk in 1986 was stored in the locked lower drawer. The handset has no cord, battery compartment, transmitter assembly, or connection to the warehouse telephone system."
+    },
+    {
+      "type": "paragraph",
+      "text": "At 02:13, the handset rang from inside the locked drawer. The sound continued after Keene opened the drawer and placed the handset on the desk. Warehouse camera C-4 confirms that no other person entered the aisle. Keene activated a pocket recorder before lifting the receiver."
+    },
+    {
+      "type": "heading",
+      "text": "Transcript excerpt"
+    },
+    {
+      "type": "paragraph",
+      "text": "VOICE: Harrow lower calling. Four on station. Relief overdue two thousand seven hundred seventy-six days."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEENE: Identify yourself and your present location."
+    },
+    {
+      "type": "paragraph",
+      "text": "VOICE: Vale. Lower tower. You are at my desk."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEENE: This desk is in regional storage. There is no lower tower."
+    },
+    {
+      "type": "paragraph",
+      "text": "VOICE: Then you are the relief. Do not let the other three see you leave."
+    },
+    {
+      "type": "paragraph",
+      "text": "The call ended after 47 seconds. During the final sentence, camera C-4 shows the empty desk chair move backward approximately eight centimeters. The recorder captures a second voice, too faint for identification, counting from four down to one beneath the line noise. Keene did not hear the counting in the room."
+    },
+    {
+      "type": "heading",
+      "text": "Post-incident examination"
+    },
+    {
+      "type": "paragraph",
+      "text": "The handset was warm and wet with condensation when bagged. Telephone service records show no call to the warehouse between 01:58 and 02:29. The lower drawer relocked without being closed and could not be opened again until 06:40, when a locksmith found the key already inserted on the inside of the lock."
+    },
+    {
+      "type": "callout",
+      "label": "Inventory discrepancy",
+      "text": "The following morning, the blank top sheet of the aisle inventory pad carried a carbon impression reading “R. VALE — RELIEVED 03/19/94.” No carbon paper was present, and the impression appears only when the sheet is viewed from its reverse side."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lot OR-86-HR-4 remains sealed. Personnel are not to answer a ringing device within the lot, acknowledge relief status, or sit at the desk. If a voice identifies the listener by name, terminate contact before confirming that the name is correct."
+    }
+  ]
+}

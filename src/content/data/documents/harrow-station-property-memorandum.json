@@ -1,0 +1,59 @@
+{
+  "id": "document.or-1986-011-memorandum-01",
+  "slug": "harrow-station-property-memorandum-01",
+  "documentNumber": "FUID-OR-1986-011-M-01",
+  "type": "memorandum",
+  "title": "Disposition of Unassigned Property at Harrow Station",
+  "abstract": "Administrative disposition of the duplicate desk and personal effects associated with the unresolved Harrow Station staffing discrepancy.",
+  "createdDate": "1986-10-02",
+  "from": {
+    "name": "Evelyn Shaw",
+    "role": "Deputy Regional Coordinator"
+  },
+  "to": ["Regional Property Management Unit", "Forestry Personnel Office"],
+  "cc": ["Office of Field Investigations — Northwest Desk"],
+  "subject": "Disposition of Unassigned Property at Harrow Station",
+  "caseId": "case.or-1986-011",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Harrow Station", "property inventory", "duplicate asset tag", "R. Vale"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "metadata": [
+    {
+      "label": "Case status",
+      "value": "Closed — Unresolved"
+    },
+    {
+      "label": "Property lot",
+      "value": "OR-86-HR-4"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The fourth desk and contents documented in Field Report FUID-OR-1986-011-FR-01 are transferred to property lot OR-86-HR-4. The transfer is administrative and does not establish that the items belonged to a federal employee named R. Vale."
+    },
+    {
+      "type": "paragraph",
+      "text": "Property Management shall retain the duplicate asset tag on the desk. Assigning a replacement number would resolve the database conflict by creating a history not supported by the physical item. The second desk at Harrow Station will retain the same number with a case notation."
+    },
+    {
+      "type": "callout",
+      "label": "Custody instruction",
+      "text": "Do not enter R. Vale as custodian, former custodian, or approving official. The property system accepts a typed name without verifying personnel status; that convenience is not evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rain jacket, boot, cup, and keys may be released if a claimant provides information not available in the public inventory. No claimant should be prompted with the initials, station name, or description of the lower tower. Unclaimed items will remain with the desk rather than being separated into general surplus."
+    },
+    {
+      "type": "paragraph",
+      "text": "Close the field investigation as unresolved. Reopen only upon receipt of an independently verifiable personnel record, a consistent identification of Vale, or physical evidence of a second observation structure on Harrow Ridge."
+    }
+  ]
+}

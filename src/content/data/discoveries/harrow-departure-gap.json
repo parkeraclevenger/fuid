@@ -1,0 +1,12 @@
+{
+  "id": "discovery.harrow-departure-gap",
+  "caseId": "case.or-1986-011",
+  "label": "Analyst correlation",
+  "title": "No recorded departure",
+  "summary": "The witness matrix contains memories of R. Vale working at Harrow Ridge but no arrival, departure, or occasion when all four observers were present. Eight years later, the first record written in Vale's voice also has no physical point of origin: the claimant letter arrived without a postmark or return address.",
+  "requiredDocumentIds": [
+    "document.or-1986-011-field-report-01",
+    "document.or-1986-011-memorandum-02",
+    "document.or-1986-011-internal-memorandum-01"
+  ]
+}

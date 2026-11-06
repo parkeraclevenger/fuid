@@ -1,0 +1,55 @@
+{
+  "id": "document.wv-2008-009-memorandum-02",
+  "slug": "morrow-cut-closure-memorandum-02",
+  "documentNumber": "FUID-WV-2008-009-M-02",
+  "type": "memorandum",
+  "title": "Bore Closure and One-Year Monitoring Review",
+  "abstract": "Final disposition following permanent fill of bore MC-B7 and a year of roadside vibration monitoring.",
+  "createdDate": "2009-02-24",
+  "from": {
+    "name": "Elias Kade",
+    "role": "Field Investigator"
+  },
+  "to": ["OFI Appalachian Desk", "West Virginia Division of Highways"],
+  "cc": ["State Mine Safety Office"],
+  "subject": "Bore Closure and One-Year Monitoring Review",
+  "caseId": "case.wv-2008-009",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Morrow Cut", "bore closure", "monitoring review", "MC-B7"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "metadata": [
+    {
+      "label": "Bore filled",
+      "value": "February 22, 2008"
+    },
+    {
+      "label": "Case status",
+      "value": "Closed — unresolved"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Bore MC-B7 was filled from terminus to collar with dyed cement grout and capped with a numbered steel survey disk. Continuous monitoring during placement detected no void, loss zone, pressure release, or unexpected material requirement. The final fill volume was within 1.8 percent of the calculated bore volume."
+    },
+    {
+      "type": "paragraph",
+      "text": "Four geophones remained at the cut for twelve months. They recorded traffic, freeze-thaw fracture, and two minor rockfalls. No signal matched the cadence or frequency structure of the February 2008 voices. Highway workers reported no further speech."
+    },
+    {
+      "type": "paragraph",
+      "text": "The source of the reproduced voices remains unidentified. Because the bore is closed and the slope is stable, continued restricted access is not justified. Preserve original audio, the final instrument package, and the closure core under their existing evidence numbers."
+    },
+    {
+      "type": "callout",
+      "label": "Disposition",
+      "text": "Closed — unresolved. Reopen only if speech recurs from the filled bore or a comparable voice pattern is documented in another verified rock boring."
+    }
+  ]
+}

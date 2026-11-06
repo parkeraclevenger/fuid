@@ -1,0 +1,89 @@
+{
+  "id": "document.ga-1971-002-field-report-01",
+  "slug": "bellglass-orchard-field-report-01",
+  "documentNumber": "FUID-GA-1971-002-FR-01",
+  "type": "field-report",
+  "title": "Initial Orchard and Wildlife Examination",
+  "abstract": "Site examination and witness reconciliation concerning an unidentified animal in the Bellglass peach orchard.",
+  "createdDate": "1971-08-09",
+  "byline": {
+    "name": "Miriam Saye",
+    "role": "Field Investigator"
+  },
+  "caseId": "case.ga-1971-002",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Bellglass orchard", "orchard visitor", "unidentified animal", "peach trees"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "distribution": [
+    "Public Records Reading Room",
+    "Office of Field Investigations",
+    "Georgia Agricultural Inspection Service"
+  ],
+  "metadata": [
+    {
+      "label": "Site visit",
+      "value": "August 6–8, 1971"
+    },
+    {
+      "label": "Witnesses interviewed",
+      "value": "Seven"
+    },
+    {
+      "label": "Estimated standing height",
+      "value": "1.8–2.2 meters"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Referral"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bellglass County requested assistance after agricultural inspectors found 43 market-ripe peaches placed in empty shipping trays beside a disused packing shed. Every fruit retained unbroken skin and stem. Each was substantially lighter than a control fruit and produced a loose rattling sound when moved. Workers associated the trays with a pale animal seen in the north orchard during the prior week."
+    },
+    {
+      "type": "heading",
+      "text": "Witness descriptions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Witnesses agreed on a narrow torso, four limbs, and a small head carried below shoulder height. Forelimb length was described as sufficient to touch the ground while the animal stood upright. No witness saw it enter or leave an open row. In five accounts, the animal passed behind one tree and appeared behind another tree between 18 and 41 meters away without becoming visible in the intervening aisle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Descriptions of color varied from chalk white to the gray-brown of peach bark. Two witnesses reported that the trunk behind the animal remained visible through the space where its ribs should have been. This feature was not confirmed during daylight examination and may reflect overlapping branches."
+    },
+    {
+      "type": "heading",
+      "text": "Site findings"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tracks began and ended at tree trunks. Each impression consisted of two forward pads and a narrow rear mark measuring 24 centimeters overall. The impressions did not continue across bare ground between trees. Investigators marked 16 track termini; none corresponded to a hollow trunk, burrow, or concealed ditch."
+    },
+    {
+      "type": "paragraph",
+      "text": "At 04:52 on August 8, Investigator Saye observed movement behind tree N-17 followed by three deliberate taps on its trunk. A matching three-tap sequence answered from tree N-23. No animal crossed the illuminated aisle. Fresh impressions were found at both trees at sunrise."
+    },
+    {
+      "type": "callout",
+      "label": "Public guidance",
+      "text": "Do not enter the abandoned orchard after dark or remove arranged fruit. Report new trays, track lines, or tapping sounds to the county agricultural office."
+    },
+    {
+      "type": "heading",
+      "text": "Preliminary finding"
+    },
+    {
+      "type": "paragraph",
+      "text": "Evidence supports the presence of an unidentified animal but does not establish its anatomy or means of movement. Ordinary scavenging does not account for the intact fruit. Controlled observation and laboratory examination are recommended before the orchard is cleared."
+    }
+  ]
+}

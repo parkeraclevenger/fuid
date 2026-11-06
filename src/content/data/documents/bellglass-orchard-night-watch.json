@@ -1,0 +1,80 @@
+{
+  "id": "document.ga-1971-002-internal-field-report-01",
+  "slug": "bellglass-orchard-night-watch-01",
+  "documentNumber": "FUID-GA-1971-002-FR-INT-01",
+  "type": "field-report",
+  "title": "Controlled Night Watch and Packing-Shed Incident",
+  "abstract": "Controlled observation of the orchard visitor and unexplained activity inside a sealed fruit crate.",
+  "createdDate": "1971-08-12",
+  "byline": {
+    "name": "Miriam Saye",
+    "role": "Field Investigator"
+  },
+  "caseId": "case.ga-1971-002",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "restricted",
+    "minClearance": 2,
+    "departments": ["department.field-investigations"],
+    "grants": ["archive.internal"]
+  },
+  "search": {
+    "indexable": false,
+    "keywords": []
+  },
+  "classificationMarking": "FUID INTERNAL // CONTROLLED",
+  "distribution": ["Office of Field Investigations", "OFI Southeast Desk", "Records Review Console"],
+  "metadata": [
+    {
+      "label": "Observation period",
+      "value": "August 10–11, 1971"
+    },
+    {
+      "label": "Personnel",
+      "value": "M. Saye; J. Cleary; County Deputy R. Moss"
+    },
+    {
+      "label": "Control basis",
+      "value": "Unverified animal contact and evidence contamination"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Observation controls"
+    },
+    {
+      "type": "paragraph",
+      "text": "Investigators placed twelve inspected peaches in a slatted shipping crate inside the packing shed. The crate was wrapped in continuous cotton tape, initialed across every overlap, and set on a mechanical platform scale visible through the west window. The shed door was padlocked. Three observers occupied separate positions with clear views of the north rows and the building."
+    },
+    {
+      "type": "heading",
+      "text": "Animal observation"
+    },
+    {
+      "type": "paragraph",
+      "text": "At 02:18, a pale figure became visible beside tree N-17. It extended one forelimb around the trunk and touched the bark at approximately shoulder height. The figure then drew its limbs and head inward until its visible width matched the tree. It did not pass behind the trunk. Within two seconds it was no longer distinguishable, although the trunk remained fully illuminated."
+    },
+    {
+      "type": "paragraph",
+      "text": "Three taps sounded from the packing shed. A second set of three answered from tree N-23. Deputy Moss reported someone standing inside the shed window. Investigators Saye and Cleary saw only the reflection of the north rows. All observers then heard slow chewing from inside the sealed crate."
+    },
+    {
+      "type": "heading",
+      "text": "Crate examination"
+    },
+    {
+      "type": "paragraph",
+      "text": "The platform scale fell by 4.6 kilograms over 38 seconds and returned to its starting weight when the chewing stopped. Entry tape, initials, padlock, window latches, and floor dust were undisturbed. Eleven fruit were intact and hollow. The twelfth retained its normal weight but was warm to the touch and carried five narrow impressions on the pit visible by radiograph."
+    },
+    {
+      "type": "callout",
+      "label": "Recorder note",
+      "text": "The audio reel contains the three taps and chewing. During the final seven seconds, a close voice says “leave the last one.” None of the three observers reported hearing speech at the site."
+    },
+    {
+      "type": "paragraph",
+      "text": "No further baiting is authorized. Retained fruit is to be stored individually rather than in trays or crates. Personnel should not stand between two marked track termini after dark."
+    }
+  ]
+}

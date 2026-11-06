@@ -1,0 +1,35 @@
+{
+  "id": "case.wv-2008-009",
+  "slug": "morrow-cut-choir",
+  "caseNumber": "FUID-WV-2008-009",
+  "title": "The Morrow Cut Choir",
+  "status": "closed-unresolved",
+  "incidentDate": "2008-02-11",
+  "openedDate": "2008-02-14",
+  "location": {
+    "locality": "Morrow Cut",
+    "region": "WV"
+  },
+  "departmentId": "department.field-investigations",
+  "summary": "Highway crews reopening a rock cut heard several human voices speaking in measured unison from a capped exploratory bore associated with no mapped mine working. Acoustic surveys found no connected void or transmission path. The bore was permanently filled after controlled recordings reproduced the voices and an instrument package returned with unexplained material inside its sealed housing.",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": [
+      "Morrow Cut",
+      "West Virginia",
+      "mine voices",
+      "singing borehole",
+      "acoustic anomaly",
+      "highway rock cut"
+    ]
+  },
+  "relatedDocumentIds": [
+    "document.wv-2008-009-field-report-01",
+    "document.wv-2008-009-memorandum-01",
+    "document.wv-2008-009-memorandum-02",
+    "document.wv-2008-009-internal-field-report-01"
+  ]
+}

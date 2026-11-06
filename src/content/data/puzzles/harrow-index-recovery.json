@@ -1,0 +1,17 @@
+{
+  "id": "puzzle.harrow-index-recovery",
+  "slug": "harrow-index-recovery",
+  "caseId": "case.or-1986-011",
+  "title": "Harrow property index recovery",
+  "prompt": "The sealed property follow-up was indexed under a two-word location remembered by station personnel but absent from every verified site plan. Enter that location to recover the misfiled record.",
+  "clueDocumentIds": [
+    "document.or-1986-011-field-report-01",
+    "document.or-1986-011-internal-memorandum-01"
+  ],
+  "prerequisiteDiscoveryIds": ["discovery.harrow-departure-gap"],
+  "answerNormalization": "phrase-v1",
+  "answerHashes": ["e8374c547aa0d61ccc34d9a6cd88419b1fa946fafd46e8bb2e58bbbf3b1a24e8"],
+  "resultGrant": "archive.harrow-appendix",
+  "unlockDocumentIds": ["document.or-1986-011-internal-field-report-02"],
+  "successMessage": "Index term accepted. The property-storage follow-up has been restored to the Harrow Station record group."
+}

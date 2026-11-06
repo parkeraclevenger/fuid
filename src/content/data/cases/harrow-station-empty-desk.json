@@ -1,0 +1,35 @@
+{
+  "id": "case.or-1986-011",
+  "slug": "harrow-station-empty-desk",
+  "caseNumber": "FUID-OR-1986-011",
+  "title": "The Empty Desk at Harrow Station",
+  "status": "closed-unresolved",
+  "incidentDate": "1986-08-27",
+  "openedDate": "1986-08-29",
+  "location": {
+    "locality": "Harrow Ridge Fire Station",
+    "region": "OR"
+  },
+  "departmentId": "department.field-investigations",
+  "summary": "An end-of-season inventory at a remote fire-observation station identified a fourth furnished work position, personal effects, and three months of shift entries for an employee named R. Vale. The station was authorized and supplied for three observers, and no personnel record for a fourth assignment could be located. The physical discrepancies were documented, but the employee's identity and departure remain unresolved.",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": [
+      "Harrow Ridge Fire Station",
+      "R. Vale",
+      "personnel discrepancy",
+      "empty desk",
+      "Oregon"
+    ]
+  },
+  "relatedDocumentIds": [
+    "document.or-1986-011-field-report-01",
+    "document.or-1986-011-memorandum-01",
+    "document.or-1986-011-memorandum-02",
+    "document.or-1986-011-internal-memorandum-01",
+    "document.or-1986-011-internal-field-report-02"
+  ]
+}

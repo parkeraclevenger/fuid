@@ -1,0 +1,12 @@
+{
+  "id": "discovery.morrow-arrival-order",
+  "caseId": "case.wv-2008-009",
+  "label": "Analyst correlation",
+  "title": "The bore reports arrivals before the gate",
+  "summary": "The public survey establishes that the bore repeats names spoken at the site. The final controlled descent changes that order: Mercer and Ives are named, placed at the north gate, and assigned an arrival sequence nine minutes before their unannounced vehicle reaches the property.",
+  "requiredDocumentIds": [
+    "document.wv-2008-009-field-report-01",
+    "document.wv-2008-009-memorandum-01",
+    "document.wv-2008-009-internal-field-report-01"
+  ]
+}

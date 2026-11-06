@@ -1,0 +1,55 @@
+{
+  "id": "document.ne-2019-021-memorandum-01",
+  "slug": "ash-creek-closure-memorandum-01",
+  "documentNumber": "FUID-NE-2019-021-M-01",
+  "type": "memorandum",
+  "title": "Case Closure and Equipment Removal Authorization",
+  "abstract": "Closure determination for the Ash Creek siren following removal of the undocumented energized conductor.",
+  "createdDate": "2019-07-03",
+  "from": {
+    "name": "Omar Dale",
+    "role": "Field Investigator"
+  },
+  "to": ["Office of Field Investigations — Central Desk", "Ash Creek Township Clerk"],
+  "cc": ["County Emergency Management Coordinator"],
+  "subject": "Case Closure and Equipment Removal Authorization",
+  "caseId": "case.ne-2019-021",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Ash Creek", "case closure", "siren removal", "explained"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "metadata": [
+    {
+      "label": "Final status",
+      "value": "Closed — Explained"
+    },
+    {
+      "label": "Hazard status",
+      "value": "Energized conductor removed"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Ash Creek siren activations are attributable to documented electrical and mechanical conditions described in Field Report FUID-NE-2019-021-FR-01. The abandoned telephone pair has been removed from both junction boxes, and the township reports no activation during the subsequent three-week observation period."
+    },
+    {
+      "type": "paragraph",
+      "text": "The township may remove or preserve the siren at its discretion. If preserved, the cabinet should remain labeled to show that disconnected equipment was previously energized through a nonstandard conductor. This label is intended for maintenance safety and should not describe the equipment as self-powered."
+    },
+    {
+      "type": "callout",
+      "label": "Disposition",
+      "text": "Close the investigation as explained. Return the borrowed clamp meter to County Engineering. The meter is not evidence and should not be retained merely because its case photograph has already been filed."
+    },
+    {
+      "type": "paragraph",
+      "text": "No continuing FUID monitoring is recommended. Any future activation should be handled first as an electrical fault and reported through ordinary emergency-management channels."
+    }
+  ]
+}

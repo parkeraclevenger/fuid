@@ -1,0 +1,55 @@
+{
+  "id": "document.or-1986-011-memorandum-02",
+  "slug": "harrow-station-claimant-memorandum-02",
+  "documentNumber": "FUID-OR-1986-011-M-02",
+  "type": "memorandum",
+  "title": "Review of Unverified Claimant Correspondence",
+  "abstract": "Assessment of an unsigned 1994 request concerning the duplicate desk retained from Harrow Station.",
+  "createdDate": "1994-03-18",
+  "from": {
+    "name": "Evelyn Shaw",
+    "role": "Regional Coordinator"
+  },
+  "to": ["Regional Property Management Unit", "OFI Northwest Desk"],
+  "cc": [],
+  "subject": "Review of Unverified Claimant Correspondence",
+  "caseId": "case.or-1986-011",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Harrow Station", "R. Vale", "claimant letter", "property lot OR-86-HR-4"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "metadata": [
+    {
+      "label": "Received",
+      "value": "March 7, 1994"
+    },
+    {
+      "label": "Return address",
+      "value": "None"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Property Management received an unmarked envelope containing a handwritten request to “hold my desk until fire season.” The letter identifies property lot OR-86-HR-4 but does not name the writer, Harrow Station, R. Vale, or the duplicate federal property number. No return address or postmark is present."
+    },
+    {
+      "type": "paragraph",
+      "text": "The lot number has appeared in public surplus notices since 1991, so knowledge of that number is not independently significant. The phrase “my desk” is consistent with the retained item but provides no identifying detail unavailable from the notice. The paper, ink, and envelope are commercially ordinary."
+    },
+    {
+      "type": "callout",
+      "label": "Disposition",
+      "text": "Retain the correspondence with the case file. Do not reopen the investigation and do not advertise a reply deadline when no destination for a reply exists."
+    },
+    {
+      "type": "paragraph",
+      "text": "The property lot remains on hold because the duplicate asset number has not been resolved, not because the letter establishes a claimant. If the writer contacts the office directly, staff should request a description of the keys and the missing left boot before disclosing any inventory details."
+    }
+  ]
+}

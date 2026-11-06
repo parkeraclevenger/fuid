@@ -1,0 +1,85 @@
+{
+  "id": "document.wv-2008-009-field-report-01",
+  "slug": "morrow-cut-field-report-01",
+  "documentNumber": "FUID-WV-2008-009-FR-01",
+  "type": "field-report",
+  "title": "Rock-Cut Bore and Voice Phenomenon Survey",
+  "abstract": "Initial investigation of coordinated voices reported from an unmapped exploratory bore at Morrow Cut.",
+  "createdDate": "2008-02-16",
+  "byline": {
+    "name": "Elias Kade",
+    "role": "Field Investigator"
+  },
+  "caseId": "case.wv-2008-009",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Morrow Cut", "borehole voices", "mine survey", "highway crew", "choir"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "distribution": [
+    "Public Records Reading Room",
+    "Office of Field Investigations",
+    "West Virginia Division of Highways"
+  ],
+  "metadata": [
+    {
+      "label": "Site visit",
+      "value": "February 14–16, 2008"
+    },
+    {
+      "label": "Bore designation",
+      "value": "MC-B7"
+    },
+    {
+      "label": "Measured depth",
+      "value": "61.4 meters"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Incident summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "A highway stabilization crew removed a rusted cap from bore MC-B7 and heard several voices reciting numbers in unison. The bore had been drilled during a 1959 slope survey and was believed to terminate in solid sandstone. Work stopped after the voices repeated the surnames of two crew members. No person entered the bore, which is 11 centimeters in diameter."
+    },
+    {
+      "type": "heading",
+      "text": "Site controls"
+    },
+    {
+      "type": "paragraph",
+      "text": "FUID established a 90-meter quiet zone, disconnected nearby radios, shut down traffic for two 20-minute intervals, and inspected the slope for vents, drain pipes, abandoned utilities, and accessible mine workings. No connected opening was found. Gas readings remained within ordinary background range and air at the collar moved outward at less than 0.1 meter per second."
+    },
+    {
+      "type": "paragraph",
+      "text": "At 21:06 on February 15, three investigators heard voices begin approximately 40 meters below the collar. The voices counted from 31 to 36, paused, and said “Kade, Mercer, Ives” in that order. Mercer and Ives were highway employees who had signed the site log that afternoon. Investigator Kade had not spoken his name at the cut."
+    },
+    {
+      "type": "heading",
+      "text": "Physical survey"
+    },
+    {
+      "type": "paragraph",
+      "text": "A laser rangefinder and weighted tape both place the bore terminus at 61.4 meters. The final 4.2 meters are obstructed by compacted drill spoil. Camera inspection shows continuous sandstone walls and no lateral branch. The bore diameter narrows with depth and cannot admit a person."
+    },
+    {
+      "type": "callout",
+      "label": "Interim restriction",
+      "text": "Keep MC-B7 capped except during supervised measurement. Personnel are not to answer questions, confirm names, or continue a count spoken from the bore."
+    },
+    {
+      "type": "heading",
+      "text": "Finding"
+    },
+    {
+      "type": "paragraph",
+      "text": "The reported voices were reproduced under controlled quiet conditions. No source, connected void, or viable transmission path was identified. Additional acoustic analysis is required before slope work resumes."
+    }
+  ]
+}

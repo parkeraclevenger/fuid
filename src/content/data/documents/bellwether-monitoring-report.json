@@ -1,0 +1,85 @@
+{
+  "id": "document.co-2004-014-field-report-02",
+  "slug": "bellwether-monitoring-report-02",
+  "documentNumber": "FUID-CO-2004-014-FR-02",
+  "type": "field-report",
+  "title": "First Quarterly Route Monitoring Report",
+  "abstract": "Quarterly monitoring results concerning route length, discontinuous tire impressions, and the reported duplicate marker.",
+  "createdDate": "2005-02-21",
+  "byline": {
+    "name": "Mara Venn",
+    "role": "Field Investigator"
+  },
+  "caseId": "case.co-2004-014",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Bellwether Reservoir", "tire impressions", "duplicate marker", "monitoring"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "distribution": [
+    "Public Records Reading Room",
+    "Office of Field Investigations",
+    "Tri-County Water Authority"
+  ],
+  "metadata": [
+    {
+      "label": "Monitoring date",
+      "value": "February 17, 2005"
+    },
+    {
+      "label": "Weather",
+      "value": "Overcast, 19–27 °F; no active snowfall"
+    },
+    {
+      "label": "Road condition",
+      "value": "Packed snow with exposed gravel at crown"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "The first scheduled monitoring visit was completed without injury, equipment loss, or public contact. Four vehicle passes returned distances between 0.99 and 1.02 miles. A fifth westbound pass returned 1.22 miles. The measured distance between marker posts remained 5,282 feet."
+    },
+    {
+      "type": "heading",
+      "text": "Surface observations"
+    },
+    {
+      "type": "paragraph",
+      "text": "Snow cover allowed the team to compare the vehicle path with the shoulder and ditch line. Tire impressions from the fifth pass were continuous except for an 84-foot interval beginning approximately 310 feet west of marker 6-B. Tracks before and after the interval were aligned. Snow inside the interval was undisturbed and showed no drifting, plow marks, or animal traffic."
+    },
+    {
+      "type": "paragraph",
+      "text": "The vehicle occupants reported no loss of traction, interruption, or change in surface. Both heard gravel beneath the tires throughout the interval, including the section where no tire impressions were present. The vehicle undercarriage and tires were inspected at the staging area; no packed snow or foreign material was found."
+    },
+    {
+      "type": "heading",
+      "text": "Radio discrepancy"
+    },
+    {
+      "type": "paragraph",
+      "text": "At 10:14, the reservoir dispatcher instructed the team to continue past “the second 6-B marker” before stopping. The field team observed one 6-B marker. The dispatcher later stated that two identical posts were visible from the control building for approximately one minute. Review of the fixed camera showed one post and no vehicle during the same minute."
+    },
+    {
+      "type": "callout",
+      "label": "Administrative follow-up",
+      "text": "The duplicate-marker statement has been retained as an observation, not a finding. Replacement signage is deferred because removing or relocating either marker would invalidate the established survey baseline."
+    },
+    {
+      "type": "heading",
+      "text": "Recommendation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Continue quarterly monitoring. Future visits should include one observer at the control building and one at each endpoint. Personnel are reminded that only the physical marker carrying the evidence seal is designated 6-B for reporting purposes."
+    }
+  ]
+}

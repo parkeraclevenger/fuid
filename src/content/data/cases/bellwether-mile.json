@@ -1,0 +1,35 @@
+{
+  "id": "case.co-2004-014",
+  "slug": "bellwether-mile",
+  "caseNumber": "FUID-CO-2004-014",
+  "title": "The Bellwether Mile",
+  "status": "open-monitoring",
+  "incidentDate": "2004-11-18",
+  "openedDate": "2004-11-19",
+  "location": {
+    "locality": "Bellwether Reservoir",
+    "region": "CO"
+  },
+  "departmentId": "department.field-investigations",
+  "summary": "A reservoir maintenance crew reported that one marked mile of Service Road 6 repeatedly required between 1.18 and 1.31 miles of travel, despite ordinary survey measurements and no observable change in the road. The discrepancy has not produced an accident, but it has complicated mileage reimbursement for three agencies.",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": [
+      "Bellwether Reservoir",
+      "Service Road 6",
+      "route variance",
+      "distance discrepancy",
+      "Colorado"
+    ]
+  },
+  "relatedDocumentIds": [
+    "document.co-2004-014-field-report-01",
+    "document.co-2004-014-memorandum-01",
+    "document.co-2004-014-field-report-02",
+    "document.co-2004-014-memorandum-02",
+    "document.co-2004-014-internal-memorandum-01"
+  ]
+}

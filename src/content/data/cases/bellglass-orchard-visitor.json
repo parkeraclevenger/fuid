@@ -1,0 +1,35 @@
+{
+  "id": "case.ga-1971-002",
+  "slug": "bellglass-orchard-visitor",
+  "caseNumber": "FUID-GA-1971-002",
+  "title": "The Bellglass Orchard Visitor",
+  "status": "closed-unresolved",
+  "incidentDate": "1971-08-03",
+  "openedDate": "1971-08-06",
+  "location": {
+    "locality": "Bellglass County",
+    "region": "GA"
+  },
+  "departmentId": "department.field-investigations",
+  "summary": "Agricultural inspectors and orchard workers reported a narrow, long-limbed animal moving through an abandoned peach orchard without crossing the open spaces between rows. Recovered fruit remained externally intact despite having been emptied from the seed cavity outward. The property was later cleared, but neither the animal nor its method of feeding was identified.",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": [
+      "Bellglass County",
+      "orchard animal",
+      "peach orchard",
+      "hollow fruit",
+      "Georgia cryptid",
+      "orchard visitor"
+    ]
+  },
+  "relatedDocumentIds": [
+    "document.ga-1971-002-field-report-01",
+    "document.ga-1971-002-memorandum-01",
+    "document.ga-1971-002-memorandum-02",
+    "document.ga-1971-002-internal-field-report-01"
+  ]
+}

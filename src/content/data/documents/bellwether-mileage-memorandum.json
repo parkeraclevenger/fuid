@@ -1,0 +1,70 @@
+{
+  "id": "document.co-2004-014-memorandum-01",
+  "slug": "bellwether-mileage-memorandum-01",
+  "documentNumber": "FUID-CO-2004-014-M-01",
+  "type": "memorandum",
+  "title": "Mileage Reconciliation Procedures for Service Road 6",
+  "abstract": "Administrative guidance for reimbursing documented mileage variances associated with the Bellwether investigation.",
+  "createdDate": "2004-12-03",
+  "from": {
+    "name": "Lena Ortez",
+    "role": "Acting Administrative Officer"
+  },
+  "to": [
+    "Office of Field Investigations — Western Desk",
+    "Travel and Reimbursement Unit"
+  ],
+  "cc": ["Tri-County Water Authority Liaison"],
+  "subject": "Mileage Reconciliation Procedures for Service Road 6",
+  "caseId": "case.co-2004-014",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Bellwether Reservoir", "mileage", "reimbursement", "travel voucher"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "metadata": [
+    {
+      "label": "Reference",
+      "value": "FUID-CO-2004-014"
+    },
+    {
+      "label": "Effective",
+      "value": "Immediately"
+    },
+    {
+      "label": "Directory reference",
+      "value": "LORTEZ"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "This memorandum establishes temporary reimbursement procedures for official travel through the signed one-mile interval of Service Road 6 at Bellwether Reservoir. The procedure applies only when the employee's recorded mileage exceeds the mapped interval and the travel is documented in connection with the referenced investigation."
+    },
+    {
+      "type": "heading",
+      "text": "Required documentation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Employees shall record the vehicle odometer reading at both marker posts and attach Form OFI-12 to the travel voucher. The actual recorded distance is reimbursable. Do not revise a reading to match the map, average multiple passes, or enter a negative adjustment on a later trip."
+    },
+    {
+      "type": "callout",
+      "label": "Terminology",
+      "text": "The descriptions “long mile,” “elastic road,” and “the extra part” are not approved accounting terms and must not appear in the Treasury interface. Use “documented route variance.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Three vouchers submitted on November 23 were returned after the central travel system replaced the attached odometer readings with 1.00 mile. System Administration found no edit history and no user account associated with the change. Resubmit the vouchers with a copy of this memorandum. The unexplained correction is being handled as a separate clerical issue and does not alter the field finding."
+    },
+    {
+      "type": "paragraph",
+      "text": "Supervisors should not delay otherwise complete reimbursements while awaiting closure of the route investigation. An unresolved distance remains a traveled distance for payroll purposes."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "document.mt-1997-019-internal-memorandum-01",
+  "slug": "lantern-ridge-thermal-addendum-01",
+  "documentNumber": "FUID-MT-1997-019-M-INT-01",
+  "type": "memorandum",
+  "title": "Controlled Addendum: Thermal Transit Timing",
+  "abstract": "Internal timing comparison for the Lantern Ridge culvert thermal event and witness observations.",
+  "createdDate": "1997-12-04",
+  "from": {
+    "name": "Irene Bell",
+    "role": "Field Investigator"
+  },
+  "to": ["OFI Mountain Desk", "Records Review Console"],
+  "cc": ["State Wildlife District 4"],
+  "subject": "Controlled Addendum: Thermal Transit Timing",
+  "caseId": "case.mt-1997-019",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "restricted",
+    "minClearance": 2,
+    "departments": ["department.field-investigations"],
+    "grants": ["archive.internal"]
+  },
+  "search": {
+    "indexable": false,
+    "keywords": []
+  },
+  "classificationMarking": "FUID INTERNAL // CONTROLLED",
+  "metadata": [
+    {
+      "label": "Event time",
+      "value": "November 9, 1997 · 02:11 MST"
+    },
+    {
+      "label": "Control basis",
+      "value": "Unsafe observation procedure and uncorroborated witness detail"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "This addendum reconciles timestamps from the east and west observation teams with the thermal recorder placed above the mile 48 culvert. It is withheld from the public report because one observer entered the drainage right-of-way contrary to the approved safety plan."
+    },
+    {
+      "type": "heading",
+      "text": "Sequence"
+    },
+    {
+      "type": "paragraph",
+      "text": "At 02:11:08, the east observer reported the tall cervid standing at the snow line, facing the culvert. At 02:11:14, the thermal recorder registered a moving cool region inside the pipe, already 8.2 meters from the east opening. The east observer reported that the animal did not lower its head or enter until 02:11:25."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cool region reached the west opening at 02:11:36. The west team heard two hoof impacts behind their position at 02:11:40 but saw no animal. At 02:11:43, both observers reported antler tips passing the west culvert rim from inside the pipe. The tips rose to an estimated height of 2.7 meters without a head, body, or shadow appearing beneath them."
+    },
+    {
+      "type": "heading",
+      "text": "Recorder discrepancy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Frame review shows that the cool region traveled west while its leading edge retained the outline of a cloven hoof pointed east. The recorder's internal clock, calibration plate, and film advance were functioning normally. A second camera aimed at the west opening exposed one frame at the correct time; the frame shows an empty culvert and a shadow crossing the snow toward the pipe."
+    },
+    {
+      "type": "callout",
+      "label": "Future observation limit",
+      "text": "No observer is to stand between the west opening and the tree line. If antlers appear without an accompanying animal, personnel will remain in vehicles and will not use the culvert opening to estimate height."
+    },
+    {
+      "type": "paragraph",
+      "text": "The event does not establish that the reported animal traveled through the pipe. It establishes that the available instruments and witnesses disagree about when transit began, what direction the recorded form faced, and which side of the culvert should be considered the exit."
+    }
+  ]
+}

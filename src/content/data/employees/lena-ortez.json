@@ -1,0 +1,9 @@
+{
+  "id": "employee.lena-ortez",
+  "directoryId": "lortez",
+  "name": "Lena Ortez",
+  "title": "Acting Administrative Officer",
+  "departmentId": "department.field-investigations",
+  "clearance": 2,
+  "status": "active"
+}

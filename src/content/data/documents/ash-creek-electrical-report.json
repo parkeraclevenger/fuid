@@ -1,0 +1,85 @@
+{
+  "id": "document.ne-2019-021-field-report-01",
+  "slug": "ash-creek-electrical-report-01",
+  "documentNumber": "FUID-NE-2019-021-FR-01",
+  "type": "field-report",
+  "title": "Electrical and Mechanical Site Examination",
+  "abstract": "Site examination of the disconnected Ash Creek civil-defense siren and its recurring Tuesday activation.",
+  "createdDate": "2019-06-12",
+  "byline": {
+    "name": "Omar Dale",
+    "role": "Field Investigator"
+  },
+  "caseId": "case.ne-2019-021",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Ash Creek", "siren", "irrigation", "telephone pair", "electrical survey"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "distribution": [
+    "Public Records Reading Room",
+    "Office of Field Investigations",
+    "Ash Creek Township Clerk"
+  ],
+  "metadata": [
+    {
+      "label": "Inspection date",
+      "value": "June 11, 2019"
+    },
+    {
+      "label": "Equipment status",
+      "value": "Municipal service disconnected in 1998"
+    },
+    {
+      "label": "Observed activation",
+      "value": "14:17 CDT, duration 43 seconds"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Referral"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ash Creek Township referred the siren after the county electrician confirmed that its service disconnect was open, the meter had been removed, and the local battery cabinet was empty. Residents had reported a single activation at approximately 2:17 p.m. on each Tuesday beginning May 7. Weather conditions and reported durations varied."
+    },
+    {
+      "type": "heading",
+      "text": "Observed event"
+    },
+    {
+      "type": "paragraph",
+      "text": "At 14:17 on June 11, the rotor began without visible movement of the control contactor. The signal continued for 43 seconds and stopped before completing the former county alert pattern. Voltage measured across the disconnected relay input peaked at 41.6 volts. No voltage was present at the former service conductors."
+    },
+    {
+      "type": "heading",
+      "text": "Circuit tracing"
+    },
+    {
+      "type": "paragraph",
+      "text": "The relay input was connected to a cloth-insulated telephone pair entering the foundation through the north conduit. Township drawings identified the pair as abandoned in 1974. Tracing located the opposite end in a shared junction box at the Ralston Cooperative irrigation well, 0.6 mile east of the siren."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cooperative's Tuesday irrigation program opened a motorized valve at 14:15. A failed suppression diode allowed the valve motor to energize the retired telephone pair. The induced current was insufficient to operate the siren under ordinary load; corrosion in the original relay had reduced the holding requirement to approximately 38 volts."
+    },
+    {
+      "type": "callout",
+      "label": "Safety action",
+      "text": "The retired pair was cut and capped at both facilities. The siren cabinet was tagged as unexpectedly energized pending removal. No further activation occurred during three repeated irrigation cycles."
+    },
+    {
+      "type": "heading",
+      "text": "Assessment"
+    },
+    {
+      "type": "paragraph",
+      "text": "The recurring schedule and activation are fully accounted for by the undocumented shared conductor and two equipment faults. The referral met FUID review criteria because the apparently disconnected device presented a public electrical hazard, not because the resulting sound was anomalous."
+    }
+  ]
+}
