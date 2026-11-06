@@ -86,6 +86,8 @@ Completed with three authored cross-record correlations and the Harrow property-
 
 Completed with seven investigations and twenty-seven documents after the requested addition of two cases. The Bellglass Orchard Visitor adds a cryptid-focused agricultural case built around discontinuous movement and fruit consumed from the inside; the Morrow Cut Choir adds an acoustic/physical anomaly involving anticipatory voices and a sealed instrument capsule. Each has three paced public records, one controlled escalation, a distinct investigator and location, and an earned analyst correlation. No cross-case conspiracy, new document type, or unnecessary location/organization entity was introduced.
 
+Post-completion expansion: “The Wrenfield Hotel” brings the archive to eight investigations and thirty-three documents. It adds a nationwide transient-building case, a second employee credential trail, two account-specific controlled records, a sixth analyst correlation, and a second phrase-recovery puzzle with a final hidden record. The existing content, access, progress, and puzzle boundaries were reused; the only general change limits puzzle visibility to sessions that can read their source records.
+
 ### Milestone 8: authoring and performance pass — complete locally (2026-11-05)
 
 - add case/document generation templates;
@@ -93,13 +95,13 @@ Completed with seven investigations and twenty-seven documents after the request
 - split detail payloads or indexes only if measurements justify it;
 - add reference and puzzle dependency reports for authors.
 
-Completed with draft templates for both document families, controlled records, discoveries, and puzzles; a validated content/reference/puzzle-dependency report; a production asset report; lazy route modules; and cacheable React/router, validation, and archive-data chunks. The original 521.54 kB application entry is now 17.10 kB. The largest chunk is React/router at 313.64 kB, followed by validation at 87.28 kB and archive data at 85.76 kB. Combined JavaScript/CSS is 572.37 kB uncompressed after the two-case expansion. A deeper summary/detail catalog split remains deferred because it would complicate synchronous progress/reference validation without a demonstrated user-facing need.
+Completed with draft templates for both document families, controlled records, discoveries, and puzzles; a validated content/reference/puzzle-dependency report; a production asset report; lazy route modules; and cacheable React/router, validation, and archive-data chunks. After the Wrenfield expansion, the original 521.54 kB application entry is 27.72 kB. The largest chunk is React/router at 313.64 kB, followed by archive data at 111.49 kB and validation at 87.28 kB. Combined JavaScript/CSS is 598.80 kB uncompressed. A deeper summary/detail catalog split remains deferred because it would complicate synchronous progress/reference validation without a demonstrated user-facing need.
 
 ## Phase 4 — Release hardening
 
 - broader end-to-end coverage of the canonical player flow;
 - responsive, accessibility, error, and reduced-motion audits;
-- GitHub Pages validation and deployment workflow — implemented locally; remote deployment verification pending repository push;
+- GitHub Pages validation and deployment workflow — live and verified at `https://parkeraclevenger.github.io/fuid/`;
 - deployment and rollback rehearsal;
 - source-map and artifact leakage audit;
 - content editing and continuity pass;

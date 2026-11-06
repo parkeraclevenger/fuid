@@ -46,6 +46,13 @@ describe("directory authentication", () => {
     expect(session?.grants).toContain("archive.internal");
   });
 
+  it("creates the Wrenfield records session from its released memorandum", async () => {
+    const session = await authenticateDirectoryAccount("NMERRITT", "Unassigned Room Variance");
+    expect(session?.displayName).toBe("Nadia Merritt");
+    expect(session?.departmentId).toBe("department.records-analysis");
+    expect(session?.grants).toContain("archive.wrenfield");
+  });
+
   it("rejects an incorrect passphrase", async () => {
     await expect(authenticateDirectoryAccount("lortez", "wrong phrase")).resolves.toBeNull();
   });

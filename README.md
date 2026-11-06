@@ -6,20 +6,21 @@ FUID is a browser-based interactive mystery presented as the public archive of a
 
 ## Current status
 
-Milestones 7 and 8 expand the archive and establish a measured authoring/performance workflow on top of the durable progress and puzzle foundation:
+Milestones 7 and 8 established a measured authoring/performance workflow on top of the durable progress and puzzle foundation. The subsequent Wrenfield expansion demonstrates that a new case can reuse those systems without a bespoke feature:
 
 - a responsive public agency shell;
 - a homepage;
 - a public investigations index;
-- seven schema-validated investigations and twenty-seven related documents;
+- eight schema-validated investigations and thirty-three related documents;
 - distinct field-report and memorandum presentations;
 - public search with explicit index visibility and record-type filtering;
-- an employee sign-in with progressive credential hints, centralized access checks, and an internal records console;
-- seven controlled records across six investigations that are excluded from public listings and search;
+- two employee sign-ins with progressive credential hints, centralized department/grant checks, and an internal records console;
+- ten controlled records across seven investigations that are excluded from public listings and search;
 - a versioned local profile that preserves sign-in, reviewed records, correlations, grants, and solved index tasks;
 - validated progress export/import with a supported migration fixture;
-- five cross-record analyst correlations and one Harrow Station index-recovery puzzle;
+- six cross-record analyst correlations and two index-recovery puzzles;
 - the Bellglass Orchard Visitor and Morrow Cut Choir investigations, each with three public records and a controlled escalation;
+- the nationwide Wrenfield Hotel investigation, with released credential clues, an account-specific controlled archive, and an “eighth basement” recovery path;
 - GitHub Pages-safe routing;
 - safe content-draft templates for cases, document families, discoveries, and puzzles;
 - author-facing reference, puzzle-dependency, search-size, and production-asset reports;
@@ -85,3 +86,5 @@ Start with `docs/ARCHITECTURE.md` for technical decisions and `docs/CONTENT_GUID
 The app is static and uses hash routing plus relative asset URLs, so it works under a GitHub Pages repository subpath and survives direct navigation/refresh without a server rewrite.
 
 `.github/workflows/pages.yml` validates every pull request targeting `main`. A push to `main` installs the pinned toolchain, runs the complete test/build/browser gate, uploads the tested `dist/` directory, and deploys that exact artifact through GitHub Pages. In the repository settings, Pages must use **GitHub Actions** as its publishing source.
+
+Live site: <https://parkeraclevenger.github.io/fuid/>

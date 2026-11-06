@@ -1,0 +1,9 @@
+{
+  "id": "employee.nadia-merritt",
+  "directoryId": "nmerritt",
+  "name": "Nadia Merritt",
+  "title": "Interjurisdictional Records Analyst",
+  "departmentId": "department.records-analysis",
+  "clearance": 3,
+  "status": "active"
+}

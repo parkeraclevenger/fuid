@@ -5,7 +5,7 @@ import { formatDate, formatDocumentType } from "../../content/formatters";
 import { canAccess } from "../access/accessService";
 import { useAuth } from "../access/AuthContext";
 import { useProgress } from "../progress/ProgressContext";
-import { isPuzzleAvailable } from "../puzzles/puzzleEngine";
+import { canAccessPuzzleSources, isPuzzleAvailable } from "../puzzles/puzzleEngine";
 
 export function InternalArchivePage() {
   const { session } = useAuth();
@@ -17,7 +17,7 @@ export function InternalArchivePage() {
     progress.discoveryIds.includes(discovery.id),
   );
   const availablePuzzles = catalog.puzzles.filter((puzzle) =>
-    isPuzzleAvailable(puzzle, progress),
+    isPuzzleAvailable(puzzle, progress) && canAccessPuzzleSources(puzzle, session),
   );
 
   return (

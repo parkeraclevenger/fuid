@@ -1,0 +1,79 @@
+{
+  "id": "document.us-2017-031-memorandum-02",
+  "slug": "wrenfield-hotel-address-floor-study-02",
+  "documentNumber": "FUID-US-2017-031-M-02",
+  "type": "memorandum",
+  "title": "Address Footprint and Floor-Directory Comparison",
+  "abstract": "Comparison of Wrenfield manifestation sites, reported floor plans, and recurring service-level references.",
+  "createdDate": "2018-01-12",
+  "from": {
+    "name": "Nadia Merritt",
+    "role": "Interjurisdictional Records Analyst"
+  },
+  "to": ["Office of Records Analysis", "OFI Regional Desks"],
+  "cc": ["Federal Records Center Liaison"],
+  "subject": "Address Footprint and Floor-Directory Comparison",
+  "caseId": "case.us-2017-031",
+  "departmentId": "department.records-analysis",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Wrenfield floors", "B8", "eighth basement", "hotel footprint", "service elevator"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "metadata": [
+    {
+      "label": "Sites compared",
+      "value": "9"
+    },
+    {
+      "label": "Apparent height",
+      "value": "7 stories at all verified sites"
+    },
+    {
+      "label": "Subsurface capacity",
+      "value": "None verified beyond one utility level"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Surface footprint"
+    },
+    {
+      "type": "paragraph",
+      "text": "No manifestation address provides a legal parcel large enough for the reported building. Surveyed gaps range from 2.8 to 11.6 meters wide. Guests consistently estimate a lobby wider than 20 meters and corridors containing at least 24 rooms per floor. Exterior photographs show seven stories regardless of local setback, neighboring roof height, or the width available at street level."
+    },
+    {
+      "type": "heading",
+      "text": "Floor directories"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eleven guests independently drew the same elevator panel: L, 2, 3, 4, 5, 6, 7, and B8. No button was provided for the first floor or basements one through seven. Guests described B8 as a service selection that required a staff key. None reported seeing the button used during an ordinary stay."
+    },
+    {
+      "type": "paragraph",
+      "text": "Three retained key sleeves carry a handwritten transfer instruction reading EIGHTH BASEMENT. The words appear in block capitals beneath different room numbers and were written in different inks. The corresponding guests did not remember requesting a transfer. Municipal plans at all nine sites show no subsurface volume capable of containing eight levels."
+    },
+    {
+      "type": "heading",
+      "text": "Interior consistency"
+    },
+    {
+      "type": "paragraph",
+      "text": "Room-number ranges remain consistent across statements, but reported window views do not. Guests at the Tulsa manifestation described snow against upper-floor windows on a clear September night. A Reno guest described an elevated train passing at eye level. No verified manifestation site had an elevated rail line within view."
+    },
+    {
+      "type": "callout",
+      "label": "Survey limitation",
+      "text": "The repeated floor directory is witness-derived. FUID has not released personnel to enter a Wrenfield manifestation or operate a service lift."
+    },
+    {
+      "type": "paragraph",
+      "text": "Continue collecting floor sketches without showing witnesses prior examples. Flag any reference to B8, an eighth basement, or a missing first-floor control for records comparison."
+    }
+  ]
+}

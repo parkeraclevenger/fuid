@@ -1,0 +1,38 @@
+{
+  "id": "case.us-2017-031",
+  "slug": "wrenfield-hotel",
+  "caseNumber": "FUID-US-2017-031",
+  "title": "The Wrenfield Hotel",
+  "status": "open-monitoring",
+  "incidentDate": "1998-02-17",
+  "openedDate": "2017-10-18",
+  "location": {
+    "locality": "Multiple jurisdictions",
+    "region": "US"
+  },
+  "departmentId": "department.records-analysis",
+  "summary": "Travelers in seven states have reported checking into a hotel called the Wrenfield at addresses where no licensed lodging property exists. The building remains visible for minutes or hours, then leaves no structure or legal parcel behind. Thirty-one recovered guests described ordinary multi-night stays despite much shorter elapsed times and emerged disoriented, carrying matching keys and receipts from mutually incompatible locations.",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": [
+      "Wrenfield Hotel",
+      "moving hotel",
+      "unlicensed lodging",
+      "dazed guests",
+      "missing address",
+      "transient building",
+      "hotel key"
+    ]
+  },
+  "relatedDocumentIds": [
+    "document.us-2017-031-field-report-01",
+    "document.us-2017-031-memorandum-01",
+    "document.us-2017-031-memorandum-02",
+    "document.us-2017-031-internal-memorandum-01",
+    "document.us-2017-031-internal-field-report-01",
+    "document.us-2017-031-internal-field-report-02"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "account.nadia-merritt",
+  "employeeId": "employee.nadia-merritt",
+  "username": "nmerritt",
+  "passwordHash": "78fd8f09212e7691e7e48b5e16f915a3c063a998ebf2ddc76d0be4a2e8ef8304",
+  "grants": ["archive.internal", "archive.wrenfield"],
+  "applications": ["records-review"]
+}

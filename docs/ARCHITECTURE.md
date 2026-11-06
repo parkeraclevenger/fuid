@@ -6,7 +6,7 @@ Status: accepted for the initial foundation on 2026-11-05.
 
 The architecture optimizes for years of content growth while keeping the first release small. Content authors should usually add validated data, not React routes or bespoke components. The initial host is GitHub Pages, so everything shipped must work as static files without server-side secrecy, authentication, or database access.
 
-The completed foundation proves a content-driven seven-case public archive, public search, fictional access, versioned progress, cross-record discoveries, and one puzzle/unlock path with two document families. It does not pre-build encryption or a general workflow engine.
+The completed foundation proves a content-driven eight-case public archive, public search, two fictional account paths, versioned progress, cross-record discoveries, and two puzzle/unlock paths using one deliberately narrow puzzle shape. It does not pre-build encryption or a general workflow engine.
 
 ## Technology decisions
 
@@ -87,7 +87,7 @@ Public search is implemented as a small index derived once at application startu
 
 Queries are normalized and require every query token to match. Ranking favors exact record numbers, exact titles, then title, keyword, and summary matches. Content-type filtering is deterministic. Deliberately unindexed records are explicit metadata, never random omissions.
 
-For the current archive, in-memory search across 27 explicitly indexable case/document entries is adequate and avoids another dependency. The same query engine can later receive an already-authorized internal dataset. A build-emitted index, fuzzy-search library, or lazy detail chunks will be introduced only after measured archive size or query quality justifies them.
+For the current archive, in-memory search across 31 explicitly indexable case/document entries is adequate and avoids another dependency. The same query engine can later receive an already-authorized internal dataset. A build-emitted index, fuzzy-search library, or lazy detail chunks will be introduced only after measured archive size or query quality justifies them.
 
 ## Persistence strategy
 
@@ -97,7 +97,7 @@ Progress uses one versioned JSON document in `localStorage`, because current sta
 
 ## Puzzle strategy
 
-The implemented puzzle engine has one deliberately narrow shape: normalize a short phrase deterministically, compare its SHA-256 digest with authored hashes, and issue an explicit grant on success. A puzzle becomes visible only after its prerequisite discovery IDs exist. Puzzle definitions name their clue records and unlocked records, and catalog validation confirms every reference and required grant.
+The implemented puzzle engine has one deliberately narrow shape, now exercised by Harrow and Wrenfield: normalize a short phrase deterministically, compare its SHA-256 digest with authored hashes, and issue an explicit grant on success. A puzzle becomes visible only after its prerequisite discovery IDs exist and the active employee session can access every source record. Puzzle definitions name their clue records and unlocked records, and catalog validation confirms every reference and required grant.
 
 This hashing is an anti-spoiler convenience, not security; a static bundle remains inspectable. The engine does not support branching conversations, arbitrary scripts, scoring, retries, timers, or a universal condition language. Add another answer or condition shape only when a second authored puzzle proves it necessary.
 
@@ -106,7 +106,7 @@ This hashing is an anti-spoiler convenience, not security; a static bundle remai
 - Vite emits static files to `dist/`.
 - `base: './'` keeps scripts and assets repository-subpath safe.
 - The hash router keeps all navigable state after `#`, so the host only needs to return `index.html`.
-- A future GitHub Actions workflow will run the full check, upload `dist/`, and deploy through the official Pages actions.
+- The GitHub Actions workflow runs the full check, uploads `dist/`, and deploys the tested artifact through the official Pages actions.
 - Developer documentation is outside `src/` and `public/`; Vite does not copy it to `dist/`.
 
 ## Validation and tests
@@ -123,7 +123,7 @@ The verification gate is:
 
 The authoring helper creates `.draft.json` files outside the deployable content glob for cases, departments, public field reports, public memoranda, controlled field reports, discoveries, and phrase puzzles. This lets an author work from a structurally representative template without breaking every build before the draft is complete. `pnpm report:content` validates first, then prints case coverage, public/restricted and searchable counts, unresolved references, and puzzle dependency chains.
 
-Production routes load lazily. Vite separates archive JSON, Zod, and React/router code into cacheable chunks, while individual pages remain small route chunks. After Milestone 8, the former 521.54 kB application entry is 17.10 kB; the largest chunks are React/router at 313.64 kB, validation at 87.28 kB, and archive data at 85.76 kB. Combined JavaScript and CSS are 572.37 kB uncompressed. This improves caching and avoids one monolithic entry but does not claim to eliminate initial catalog availability: progress/reference validation still uses the complete catalog. `pnpm report:bundle` records future changes.
+Production routes load lazily. Vite separates archive JSON, Zod, and React/router code into cacheable chunks, while individual pages remain small route chunks. After the Wrenfield expansion, the former 521.54 kB monolithic application entry is 27.72 kB; the largest chunks are React/router at 313.64 kB, archive data at 111.49 kB, and validation at 87.28 kB. Combined JavaScript and CSS are 598.80 kB uncompressed. This improves caching and avoids one monolithic entry but does not claim to eliminate initial catalog availability: progress/reference validation still uses the complete catalog. `pnpm report:bundle` records future changes.
 
 ## Complexity deliberately deferred
 

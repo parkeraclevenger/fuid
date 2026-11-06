@@ -1,4 +1,6 @@
+import { catalog } from "../../content/catalog";
 import type { Puzzle } from "../../content/schemas";
+import { canAccess, type DirectorySession } from "../access/accessService";
 import type { PlayerProgress } from "../progress/progressService";
 
 export function normalizePuzzleAnswer(answer: string): string {
@@ -24,4 +26,14 @@ export async function evaluatePuzzleAnswer(puzzle: Puzzle, answer: string): Prom
 
 export function isPuzzleAvailable(puzzle: Puzzle, progress: PlayerProgress): boolean {
   return puzzle.prerequisiteDiscoveryIds.every((id) => progress.discoveryIds.includes(id));
+}
+
+export function canAccessPuzzleSources(
+  puzzle: Puzzle,
+  session: DirectorySession | null,
+): boolean {
+  return puzzle.clueDocumentIds.every((id) => {
+    const document = catalog.getDocument(id);
+    return Boolean(document && canAccess(document.access, session));
+  });
 }

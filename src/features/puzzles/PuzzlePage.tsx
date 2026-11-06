@@ -2,12 +2,18 @@ import { type FormEvent, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 
 import { catalog } from "../../content/catalog";
+import { useAuth } from "../access/AuthContext";
 import { useProgress } from "../progress/ProgressContext";
-import { evaluatePuzzleAnswer, isPuzzleAvailable } from "./puzzleEngine";
+import {
+  canAccessPuzzleSources,
+  evaluatePuzzleAnswer,
+  isPuzzleAvailable,
+} from "./puzzleEngine";
 
 export function PuzzlePage() {
   const { puzzleSlug } = useParams();
   const puzzle = puzzleSlug ? catalog.getPuzzleBySlug(puzzleSlug) : undefined;
+  const { session } = useAuth();
   const { progress, solvePuzzle } = useProgress();
   const [answer, setAnswer] = useState("");
   const [error, setError] = useState<string | null>(null);
@@ -26,7 +32,8 @@ export function PuzzlePage() {
   }
 
   const solved = progress.solvedPuzzleIds.includes(puzzle.id);
-  const available = solved || isPuzzleAvailable(puzzle, progress);
+  const available =
+    canAccessPuzzleSources(puzzle, session) && (solved || isPuzzleAvailable(puzzle, progress));
   const unlockedDocuments = puzzle.unlockDocumentIds.flatMap((id) => {
     const document = catalog.getDocument(id);
     return document ? [document] : [];
@@ -40,7 +47,7 @@ export function PuzzlePage() {
     const accepted = await evaluatePuzzleAnswer(puzzle, answer);
     setIsChecking(false);
     if (!accepted) {
-      setError("Index term not recognized. Compare the location language in the listed records.");
+      setError("Index term not recognized. Compare the index language in the listed records.");
       return;
     }
     solvePuzzle(puzzle.id);
@@ -59,7 +66,10 @@ export function PuzzlePage() {
 
       {!available ? (
         <div className="internal-panel--message">
-          <p>The task metadata is incomplete. Review the associated case records first.</p>
+          <p>
+            This task is unavailable to the current directory session, or its source record set is
+            incomplete. Review the associated case records first.
+          </p>
           <Link className="internal-button" to="/internal/archive/index-tasks">
             Return to index tasks
           </Link>

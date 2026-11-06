@@ -1,0 +1,92 @@
+{
+  "id": "document.us-2017-031-internal-field-report-02",
+  "slug": "wrenfield-hotel-eighth-basement-recovery-02",
+  "documentNumber": "FUID-US-2017-031-FR-INT-02",
+  "type": "field-report",
+  "title": "Service-Lift Instrument Recovery: Eighth Basement",
+  "abstract": "Controlled entry operation documenting a service level inconsistent with the Wrenfield footprint and views into multiple manifestation cities.",
+  "createdDate": "2019-04-16",
+  "byline": {
+    "name": "Soren Bell",
+    "role": "Records Operations Liaison"
+  },
+  "caseId": "case.us-2017-031",
+  "departmentId": "department.records-analysis",
+  "access": {
+    "kind": "restricted",
+    "minClearance": 3,
+    "departments": ["department.records-analysis"],
+    "grants": ["archive.wrenfield", "archive.wrenfield-basement"]
+  },
+  "search": {
+    "indexable": false,
+    "keywords": []
+  },
+  "classificationMarking": "FUID INTERNAL // CONTROLLED",
+  "distribution": ["Office of Records Analysis", "OFI Director", "Records Review Console"],
+  "metadata": [
+    {
+      "label": "Operation site",
+      "value": "Baltimore, Maryland manifestation address"
+    },
+    {
+      "label": "Entry window",
+      "value": "April 14, 2019 · 02:18–02:31 EDT"
+    },
+    {
+      "label": "Instrument package",
+      "value": "ORA-LIFT-2 tethered camera cart"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Authorization and entry"
+    },
+    {
+      "type": "paragraph",
+      "text": "A monitored Wrenfield manifestation remained stable long enough for a two-person team to enter the lobby while four personnel maintained exterior visual contact. No guests or staff were present. The public elevator responded only to L. A gray service lift behind the desk contained buttons marked L and B8 and accepted a retained Wrenfield key regardless of the key's cut. No person was authorized to descend."
+    },
+    {
+      "type": "paragraph",
+      "text": "The team placed camera cart ORA-LIFT-2 inside the service lift with a power tether, fiber line, inertial logger, and mechanical brake. B8 illuminated after the key was turned. The doors closed at 02:22:08. The cart descended for 12 seconds while the exterior tether paid out 2.1 meters. Building survey showed less than 0.8 meter between the lift floor and the paved alley beneath it."
+    },
+    {
+      "type": "heading",
+      "text": "Lower corridor"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the doors reopened, the camera faced a carpeted corridor extending beyond the light's measurable range. Doors on both sides were numbered with city abbreviations rather than rooms. Thirty-two doors were open. Visible through separate openings were daylight streets matching prior manifestation sites in Tulsa, Reno, Newark, Spokane, and Richmond. Weather, traffic, and storefront displays correspond to the recorded date of each earlier appearance rather than the operation date."
+    },
+    {
+      "type": "paragraph",
+      "text": "The door marked BALTIMORE showed the lobby team from behind, including the closed service-lift doors and the unattended tether leading into them. The view was approximately 23 minutes ahead of the operation. Personnel watched themselves remove equipment, speak to an arriving police supervisor, and leave the building. At 02:29, the actual team performed those actions in the same order despite being instructed to change the removal sequence. Team members later stated that the revised instruction seemed familiar but temporarily irrelevant."
+    },
+    {
+      "type": "heading",
+      "text": "Occupied doorway"
+    },
+    {
+      "type": "paragraph",
+      "text": "A woman wearing a hotel robe stepped into the doorway marked TULSA and asked the cart whether the lobby had reopened. Image comparison identifies her as a guest recovered from the Tulsa manifestation in 2006. The guest was interviewed in 2006 and died of natural causes in 2014. The recorded woman appeared approximately the age documented at recovery and repeated a statement absent from the public file: “That city had already closed.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before staff could respond, a bell sounded and every visible city door closed at once. The camera continued transmitting an empty corridor for 34 minutes. Only 41 seconds elapsed on the lobby instruments. The lift then returned to L. The cart's clock had advanced 2 hours 34 minutes, its battery had lost 9 percent charge, and a damp Wrenfield towel had been folded across the camera housing. No person entered the lift on the recorded feed."
+    },
+    {
+      "type": "callout",
+      "label": "Standing prohibition",
+      "text": "No person is to enter the Wrenfield service lift, answer a room announcement, or cross a doorway bearing a city name. Instrument entry requires Director-level approval and continuous exterior supervision."
+    },
+    {
+      "type": "heading",
+      "text": "Assessment"
+    },
+    {
+      "type": "paragraph",
+      "text": "The eighth basement is not a floor beneath any verified manifestation site. Available evidence supports a persistent internal service space connecting Wrenfield appearances across place and event order. This assessment does not establish where guests enter the hotel or whether an ordinary exit remains available after a manifestation ends. Passive monitoring remains in effect."
+    }
+  ]
+}

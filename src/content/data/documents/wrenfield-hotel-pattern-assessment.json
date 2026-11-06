@@ -1,0 +1,89 @@
+{
+  "id": "document.us-2017-031-field-report-01",
+  "slug": "wrenfield-hotel-pattern-assessment-01",
+  "documentNumber": "FUID-US-2017-031-FR-01",
+  "type": "field-report",
+  "title": "Interstate Lodging Pattern Assessment",
+  "abstract": "Initial consolidation of Wrenfield Hotel appearances, recovered guests, and incompatible property records across seven states.",
+  "createdDate": "2017-10-24",
+  "byline": {
+    "name": "Nadia Merritt",
+    "role": "Interjurisdictional Records Analyst"
+  },
+  "caseId": "case.us-2017-031",
+  "departmentId": "department.records-analysis",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Wrenfield Hotel", "guest confusion", "hotel appearance", "brass room key", "interstate pattern"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "distribution": [
+    "Public Records Reading Room",
+    "Office of Records Analysis",
+    "Office of Field Investigations"
+  ],
+  "metadata": [
+    {
+      "label": "Verified manifestations",
+      "value": "9"
+    },
+    {
+      "label": "Recovered guests",
+      "value": "31"
+    },
+    {
+      "label": "Verified jurisdictions",
+      "value": "7 states"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Referral basis"
+    },
+    {
+      "type": "paragraph",
+      "text": "FUID linked nine municipal incidents after a Richmond transit officer forwarded a brass room key stamped WRENFIELD and 714. Comparable keys had been retained as unclaimed property in Duluth, Tulsa, Reno, Newark, Spokane, and Baltimore. Each incident involved one or more people leaving a building identified as the Wrenfield Hotel at an address that did not contain a licensed hotel before or after the event."
+    },
+    {
+      "type": "heading",
+      "text": "Site behavior"
+    },
+    {
+      "type": "paragraph",
+      "text": "Verified appearances lasted from 47 minutes to 11 hours. Witnesses described a seven-story masonry hotel fitted into service alleys, vacant lots, or the space between two occupied buildings. At six sites, the available frontage was less than one-third the reported width of the lobby. Utility companies recorded no new electrical, water, telephone, or fire-alarm connection. After each disappearance, walls, pavement, refuse, and property lines returned to their prior condition without demolition debris."
+    },
+    {
+      "type": "paragraph",
+      "text": "Traffic video from Newark shows three guests step through a revolving door at 05:12. The camera view is partly blocked by a passing bus for four seconds. When the view clears, the guests are standing beside a blank party wall and there is no door. Separate storefront cameras confirm that no vehicle or construction equipment entered the block."
+    },
+    {
+      "type": "heading",
+      "text": "Guest condition"
+    },
+    {
+      "type": "paragraph",
+      "text": "Recovered guests could state their names and home addresses but commonly misidentified the city, date, or season. Twenty-six reported spending between one and four nights at the hotel. Recorded absence at the manifestation site ranged from 18 minutes to 6 hours. The guests did not describe a missing interval; they described meals, sleep, elevator trips, and ordinary conversations that could not fit within the elapsed time. Orientation generally returned after six to twelve hours of rest."
+    },
+    {
+      "type": "paragraph",
+      "text": "All retained keys are cut differently but fit no tested commercial lock. Key sleeves list the local manifestation address, even where the address falls inside another parcel or between two consecutive street numbers. Receipts use correct local tax rates and weather descriptions but identify no corporate owner, telephone exchange, or bank account."
+    },
+    {
+      "type": "callout",
+      "label": "Public guidance",
+      "text": "A building presenting itself as the Wrenfield Hotel should be treated as an unverified structure. Do not enter to locate a guest. Contact local emergency services and document the street frontage from a safe public position."
+    },
+    {
+      "type": "heading",
+      "text": "Finding"
+    },
+    {
+      "type": "paragraph",
+      "text": "The reports are supported by independent witnesses, consistent physical property, and municipal records. No ordinary hotel chain, traveling production, fraud scheme, or temporary construction method accounts for the repeated building, the unavailable parcels, or the discrepancy between guest experience and elapsed time. The case remains open for passive notification and records comparison."
+    }
+  ]
+}

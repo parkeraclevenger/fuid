@@ -37,3 +37,8 @@ All meaningful project changes are recorded here. Dates use `YYYY-MM-DD`.
 - Completed Milestone 8 with expanded draft templates, a validated content/reference/puzzle-dependency report, and a production asset-size report.
 - Split page routes and separated React/router, validation, and archive data into cacheable chunks, reducing the application entry from 521.54 kB to 17.10 kB while documenting the remaining eager-catalog tradeoff.
 - Added a least-privilege GitHub Actions workflow that runs the complete verification gate on pull requests and deploys the exact tested `dist/` artifact to GitHub Pages after pushes to `main`.
+- Published the repository and verified the production site at `https://parkeraclevenger.github.io/fuid/`.
+- Added “The Wrenfield Hotel,” a six-record nationwide transient-building investigation involving disoriented guests, impossible hotel parcels, persistent switchboard records, and a controlled service level connecting appearances across place and time.
+- Added the Office of Records Analysis and Nadia Merritt credential trail, with released credential clues and department-bound Wrenfield records that remain unavailable to the Lena Ortez session.
+- Added the Wrenfield absent-levels correlation and a second phrase-recovery puzzle that restores the “Eighth Basement” service-lift operation.
+- Limited internal puzzle visibility to active sessions that can access every clue record, preserving employee-specific archive boundaries while retaining profile-wide progress.

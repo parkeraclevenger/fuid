@@ -1,0 +1,12 @@
+{
+  "id": "discovery.wrenfield-absent-levels",
+  "caseId": "case.us-2017-031",
+  "label": "Analyst correlation",
+  "title": "A destination below absent floors",
+  "summary": "Public floor comparisons record a staff-only B8 control and transfer sleeves marked EIGHTH BASEMENT. A separately collected guest interview repeats the same destination as the night clerk's exit instruction, although every surveyed manifestation lacks basements one through seven and has no physical volume for an eighth.",
+  "requiredDocumentIds": [
+    "document.us-2017-031-field-report-01",
+    "document.us-2017-031-memorandum-02",
+    "document.us-2017-031-internal-memorandum-01"
+  ]
+}

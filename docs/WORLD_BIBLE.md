@@ -18,6 +18,7 @@ Facts below are established unless marked **tentative**. When a public record in
 ## Public organization
 
 - Office of Field Investigations (OFI): receives referrals, conducts interviews and site work, and assembles public case records.
+- Office of Records Analysis (ORA): compares incidents across jurisdictions, reconciles records that cannot be assigned to one field office, and manages controlled pattern-review files.
 - Other departments are not yet canon. Add them only with content that needs them.
 
 ## Classification and status vocabulary
@@ -63,6 +64,7 @@ Additional terms require a schema and world-bible update before use.
 - 1997-11-05 through 1997-11-12: Irene Bell documents ordinary elk-scale hoofprints that face back toward the culvert after the track sequence resumes beyond it. Interior dust, webs, and a survey thread remain intact.
 - 1997-12-04: A controlled timing comparison records a cool form already inside the culvert before the east witness reports the animal entering. Antler tips appear at the west rim without a visible head or body.
 - 1998-01-09: FUID prohibits further mineral-block lures near the road after two blocks disappear without tracks or snow disturbance. Camera observation ends without a usable image and the case closes unresolved.
+- 1998-02-17: The earliest verified Wrenfield Hotel manifestation is documented in Duluth. Later record comparison identifies nine appearances across seven states and 31 recovered guests.
 - 2004-11-18: A maintenance crew reports repeated road-distance discrepancies on a service road near Bellwether Reservoir, Colorado.
 - 2004-11-19: OFI opens case `FUID-CO-2004-014`, “The Bellwether Mile.”
 - 2004-11-22: Field staff document the initial route survey. The public record remains open for monitoring.
@@ -80,6 +82,11 @@ Additional terms require a schema and world-bible update before use.
 - 2013-04-24 through 2013-04-26: Celia Wren observes the animal sorting recovered flags by color, returning an inspection tag separately, and entering a culvert with no tested water connection to its later emergence point.
 - 2013-05-02: FUID issues low-risk conduct guidance. “Ledgerback” remains an unofficial staff nickname; the case stays open for quarterly noninvasive monitoring.
 - 2013-05-06: A controlled pump-house supplement records the animal visible in Canal 3C while its three-click call is captured inside a locked control cabinet. Expired tags stored in a sealed drawer are later found sorted inside the cabinet, including one wet with canal water.
+- 2017-10-17: Maribel Sosa calls Baltimore dispatch from Wrenfield room 714 approximately 25 hours before entering the city and before the hotel is reported at the address. A Newark property card had listed the same future occupancy five months earlier.
+- 2017-10-18: ORA opens `FUID-US-2017-031` after linking matching Wrenfield keys, receipts, guest confusion, and impossible hotel parcels across seven states.
+- 2018-01-29: Controlled guest comparison establishes recurring elevator controls L through 7 and B8, an absent first-floor button, and an “eighth basement” exit instruction independently remembered by a Newark guest.
+- 2019-04-14: A tethered camera cart enters the Wrenfield service lift during a Baltimore manifestation. The B8 corridor contains doors showing prior manifestation cities at their historical dates and a view of the lobby team approximately 23 minutes ahead.
+- 2019-04-16: The operation is sealed from the routine Wrenfield registry. Personnel entry into the service lift or any city-marked doorway is prohibited.
 - 2019-05-07: A disconnected civil-defense siren in Ash Creek Township, Nebraska, begins a series of Tuesday activations.
 - 2019-06-11: Omar Dale observes an activation and traces it to a failed irrigation-valve suppression diode, an abandoned telephone pair, and a degraded siren relay.
 - 2019-07-03: The Ash Creek case closes as explained after the undocumented conductor is removed and no further activation occurs.
@@ -94,6 +101,7 @@ Additional terms require a schema and world-bible update before use.
 - Saint Orison Parish, Louisiana: fictional parish whose Canal 3C and Pump House Three are used by an unidentified amphibious animal.
 - Bellglass County, Georgia: fictional agricultural county containing the abandoned peach orchard associated with externally intact hollow fruit and the Orchard Visitor reports.
 - Morrow Cut, West Virginia: fictional highway rock cut containing exploratory bore MC-B7. No mapped mine working or connected void reaches the bore.
+- Wrenfield Hotel: a transient lodging structure documented at incompatible addresses in seven states. Its public exterior consistently appears seven stories tall; its internal B8 service destination has no verified physical volume beneath any site.
 - Mara Venn: FUID field investigator who authored the initial survey report. Department and employee record will be formalized when employee entities are introduced.
 - Lena Ortez: active OFI acting administrative officer, directory ID `lortez`, clearance 2. She authored the Service Road 6 reimbursement and marker-replacement memoranda and holds access to the Records Review Console.
 - Jonah Rusk: special investigator who conducted the 1986 Harrow Station reconciliation.
@@ -104,6 +112,8 @@ Additional terms require a schema and world-bible update before use.
 - Irene Bell: field investigator responsible for the Lantern Ridge survey and lure restrictions.
 - Miriam Saye: field investigator responsible for the Bellglass Orchard examination, controlled night watch, and final disposition.
 - Elias Kade: field investigator responsible for the Morrow Cut acoustic survey, final instrument descent, and closure review.
+- Nadia Merritt: active ORA interjurisdictional records analyst, directory ID `nmerritt`, clearance 3. She consolidated the Wrenfield pattern and manages its assigned controlled records.
+- Soren Bell: records operations liaison responsible for the Wrenfield switchboard review and the controlled service-lift instrument operation.
 
 ## Intentional uncertainties
 
@@ -124,7 +134,10 @@ Additional terms require a schema and world-bible update before use.
 - The recorded instruction “leave the last one” and the warm final fruit are canon. The voice is not identified as the animal, a person, or a shared witness effect.
 - The Morrow Cut voices, anticipatory gate sequence, sealed-capsule condensation, and recovered primary teeth are canon. The teeth do not match site personnel or the missing-person references available at the time, but they are not canonically linked to a crime, death, mine disaster, or another FUID case.
 - Bellglass and Morrow Cut have no canonical connection to each other or to the earlier archive. Repeated boundary and sequence motifs are thematic contrast, not evidence of one cause.
+- The Wrenfield manifestations, 31 recovered guests, matching property, inconsistent elapsed stays, and B8 service corridor are canon. The hotel has no identified owner, fixed location, construction mechanism, or verified ordinary entrance sequence.
+- The B8 corridor appears to connect prior manifestations across location and event order, but the records do not establish that every guest passes through it or that the hotel controls who arrives and leaves.
+- Wrenfield is not canonically connected to Harrow, Bellwether, Morrow Cut, or any other FUID case. Similar sequence and spatial motifs are not evidence of a shared cause.
 
 ## Tone and anomaly range
 
-The archive should preserve contrast. Ash Creek demonstrates an ordinary explanation; Bellwether emphasizes measurement and observation; Saint Orison and Lantern Ridge provide unusual-animal fieldwork; Bellglass adds an uncanny cryptid with concrete biological evidence; Harrow and Morrow Cut include direct, frightening contact events of different kinds. Future cases should continue mixing low-risk oddity, procedural unease, physically impossible evidence, and occasional credible fear. Do not reduce every anomaly to contradictory paperwork, and do not make every severe event part of one conspiracy.
+The archive should preserve contrast. Ash Creek demonstrates an ordinary explanation; Bellwether emphasizes measurement and observation; Saint Orison and Lantern Ridge provide unusual-animal fieldwork; Bellglass adds an uncanny cryptid with concrete biological evidence; Harrow and Morrow Cut include direct, frightening contact events of different kinds; Wrenfield adds spatial dislocation and a hazardous place that behaves with procedural intent. Future cases should continue mixing low-risk oddity, procedural unease, physically impossible evidence, and occasional credible fear. Do not reduce every anomaly to contradictory paperwork, and do not make every severe event part of one conspiracy.

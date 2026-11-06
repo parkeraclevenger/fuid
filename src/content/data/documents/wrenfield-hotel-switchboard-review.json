@@ -1,0 +1,84 @@
+{
+  "id": "document.us-2017-031-internal-field-report-01",
+  "slug": "wrenfield-hotel-switchboard-review-01",
+  "documentNumber": "FUID-US-2017-031-FR-INT-01",
+  "type": "field-report",
+  "title": "Switchboard Origin and Occupancy Review",
+  "abstract": "Controlled analysis of emergency calls attributed to Wrenfield rooms and an occupancy card recovered before its listed guest arrived.",
+  "createdDate": "2018-03-07",
+  "byline": {
+    "name": "Soren Bell",
+    "role": "Records Operations Liaison"
+  },
+  "caseId": "case.us-2017-031",
+  "departmentId": "department.records-analysis",
+  "access": {
+    "kind": "restricted",
+    "minClearance": 3,
+    "departments": ["department.records-analysis"],
+    "grants": ["archive.wrenfield"]
+  },
+  "search": {
+    "indexable": false,
+    "keywords": []
+  },
+  "classificationMarking": "FUID INTERNAL // CONTROLLED",
+  "distribution": ["Office of Records Analysis", "FUID Telecommunications Review", "Records Review Console"],
+  "metadata": [
+    {
+      "label": "Calls examined",
+      "value": "14"
+    },
+    {
+      "label": "Attributed rooms",
+      "value": "218, 407, 612, 714"
+    },
+    {
+      "label": "Control basis",
+      "value": "Unreleased caller audio and anticipated guest identity"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Call routing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fourteen calls associated with five manifestations entered municipal emergency systems through local landline exchanges. At every address, the assigned copper pair was disconnected or belonged to an adjacent property. Dispatch displays nevertheless supplied the printed Wrenfield address and a room extension. Return calls reached an ordinary intercept recording except during the active manifestation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Most callers requested directions, the date, or confirmation of the city. Background audio contains a bell at 14-second intervals and a voice announcing room numbers in descending order. The voice is not directed at the caller and continues through dispatch questions. In three calls, the announced sequence reaches the caller's room immediately before the line disconnects."
+    },
+    {
+      "type": "heading",
+      "text": "Baltimore call 17-44"
+    },
+    {
+      "type": "paragraph",
+      "text": "At 01:26 on October 17, 2017, a caller from room 714 stated that the lobby was empty and that someone had been knocking from inside the wardrobe for approximately one hour. Dispatch instructed the caller to leave the room. The caller replied, “I did. This is the room they gave me after I left.” The line remained open while the caller walked down a corridor. Fourteen door latches can be heard opening in sequence behind the caller."
+    },
+    {
+      "type": "paragraph",
+      "text": "At 01:31, the caller gave the name Maribel Sosa and reported seeing police lights through the lobby doors. Ms. Sosa emerged at 02:04, disoriented but unharmed. The call recording is time-stamped one day before Ms. Sosa entered Baltimore by intercity bus and approximately 25 hours before the hotel was first reported at the address. Telecommunications staff verified the system clock against three unrelated calls."
+    },
+    {
+      "type": "heading",
+      "text": "Occupancy card"
+    },
+    {
+      "type": "paragraph",
+      "text": "A switchboard message card found beside the Newark guests lists Ms. Sosa in room 714, gives the Baltimore manifestation address, and bears a clerk's notation that she is “not yet arrived—do not wake.” The card was entered into Newark property five months before the Baltimore call. Ink, paper, and impressions are consistent with other Wrenfield stationery."
+    },
+    {
+      "type": "callout",
+      "label": "Handling restriction",
+      "text": "Do not contact a person named on Wrenfield occupancy material before an independent manifestation report. Premature contact may contaminate witness history and has no demonstrated protective value."
+    },
+    {
+      "type": "paragraph",
+      "text": "The switchboard traffic indicates that at least part of the hotel's internal record system persists across locations and does not preserve ordinary event order. No public warning should identify anticipated guests or room numbers."
+    }
+  ]
+}

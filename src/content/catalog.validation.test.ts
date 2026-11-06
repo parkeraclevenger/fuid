@@ -48,18 +48,20 @@ const document: FuidDocument = {
 
 describe("deployed content catalog", () => {
   it("loads the public archive and resolves all relationships", () => {
-    expect(catalog.cases).toHaveLength(7);
-    expect(catalog.documents).toHaveLength(27);
-    expect(catalog.employees).toHaveLength(1);
-    expect(catalog.accounts).toHaveLength(1);
-    expect(catalog.discoveries).toHaveLength(5);
-    expect(catalog.puzzles).toHaveLength(1);
+    expect(catalog.departments).toHaveLength(2);
+    expect(catalog.cases).toHaveLength(8);
+    expect(catalog.documents).toHaveLength(33);
+    expect(catalog.employees).toHaveLength(2);
+    expect(catalog.accounts).toHaveLength(2);
+    expect(catalog.discoveries).toHaveLength(6);
+    expect(catalog.puzzles).toHaveLength(2);
     const bellwether = catalog.getCaseBySlug("bellwether-mile");
     expect(bellwether?.caseNumber).toBe("FUID-CO-2004-014");
     expect(bellwether?.relatedDocumentIds).toHaveLength(5);
     expect(catalog.getCaseBySlug("harrow-station-empty-desk")?.relatedDocumentIds).toHaveLength(5);
     expect(catalog.getCaseBySlug("bellglass-orchard-visitor")?.relatedDocumentIds).toHaveLength(4);
     expect(catalog.getCaseBySlug("morrow-cut-choir")?.relatedDocumentIds).toHaveLength(4);
+    expect(catalog.getCaseBySlug("wrenfield-hotel")?.relatedDocumentIds).toHaveLength(6);
     expect(catalog.getDocument(bellwether?.relatedDocumentIds[0] ?? "")?.caseId).toBe(
       bellwether?.id,
     );

@@ -16,7 +16,7 @@ test("public archive flow remains navigable and refresh-safe", async ({ page }) 
 
   await page.getByRole("link", { name: "Browse public investigations" }).click();
   await expect(page).toHaveURL(/#\/investigations$/);
-  await expect(page.locator(".case-card")).toHaveCount(7);
+  await expect(page.locator(".case-card")).toHaveCount(8);
   await page.getByRole("link", { name: "The Bellwether Mile" }).click();
   await expect(page.getByRole("heading", { name: "The Bellwether Mile" })).toBeVisible();
   await expect(page.locator(".document-row")).toHaveCount(4);
@@ -63,7 +63,7 @@ test("released-record clues unlock the unreleased record registry", async ({ pag
   await page.goto("/#/employee-resources");
   await page.getByText("Need help locating your credentials?").click();
   await expect(page.getByText("Bellwether Mile reimbursement memorandum", { exact: false })).toBeVisible();
-  await expect(page.getByRole("link", { name: /Open the relevant released memorandum/ })).toBeVisible();
+  await expect(page.getByRole("link", { name: /Open the Bellwether memorandum/ })).toBeVisible();
   await page.getByLabel("Directory ID").fill("lortez");
   await page.getByLabel("Passphrase").fill("documented route variance");
   await page.getByRole("button", { name: "Access employee resources" }).click();
@@ -176,6 +176,58 @@ test("Bellglass and Morrow Cut build distinct public-to-controlled discoveries",
     page.getByRole("heading", { name: "Final Instrument Descent and Capsule Examination" }),
   ).toBeVisible();
   await expect(page.getByRole("heading", { name: "The bore reports arrivals before the gate" })).toBeVisible();
+});
+
+test("Wrenfield public clues unlock its assigned account and service-level recovery", async ({ page }) => {
+  await page.goto("/#/investigations/wrenfield-hotel");
+  await expect(page.getByRole("heading", { name: "The Wrenfield Hotel" })).toBeVisible();
+  await expect(page.locator(".document-row")).toHaveCount(3);
+
+  await page.goto("/#/records/wrenfield-hotel-pattern-assessment-01");
+  await expect(page.getByText("31", { exact: true })).toBeVisible();
+  await page.goto("/#/records/wrenfield-hotel-address-floor-study-02");
+  await expect(page.getByText("EIGHTH BASEMENT", { exact: false }).first()).toBeVisible();
+  await page.goto("/#/records/wrenfield-hotel-property-routing-memorandum-01");
+  await expect(page.getByText("NMERRITT", { exact: true })).toBeVisible();
+  await expect(page.getByText("unassigned room variance", { exact: false })).toBeVisible();
+
+  await page.goto("/#/employee-resources");
+  await page.getByText("Need help locating your credentials?").click();
+  await expect(page.getByRole("link", { name: /Open the Wrenfield memorandum/ })).toBeVisible();
+  await page.getByLabel("Directory ID").fill("nmerritt");
+  await page.getByLabel("Passphrase").fill("unassigned room variance");
+  await page.getByRole("button", { name: "Access employee resources" }).click();
+
+  await expect(page.getByRole("heading", { name: "Unreleased record registry" })).toBeVisible();
+  await expect(page.locator(".internal-record-table__row")).toHaveCount(2);
+  await expect(page.getByText("FUID-US-2017-031-M-INT-01", { exact: true })).toBeVisible();
+  await expect(page.getByText("FUID-US-2017-031-FR-INT-01", { exact: true })).toBeVisible();
+  await expect(page.getByText("FUID-CO-2004-014-M-INT-01", { exact: true })).toHaveCount(0);
+
+  await page
+    .locator(".internal-record-table__row")
+    .filter({ hasText: "FUID-US-2017-031-M-INT-01" })
+    .getByRole("link", { name: "OPEN" })
+    .click();
+  await expect(page.getByRole("heading", { name: "A destination below absent floors" })).toBeVisible();
+  await page.getByRole("link", { name: /View in record queue/ }).click();
+
+  await expect(page.getByRole("heading", { name: "A recovery task is available" })).toBeVisible();
+  await page.getByRole("link", { name: "Open index recovery" }).click();
+  await page.getByRole("link", { name: /Open recovery task/ }).click();
+
+  await page.getByLabel("Recovered index term").fill("seventh basement");
+  await page.getByRole("button", { name: "Restore index entry" }).click();
+  await expect(page.getByRole("alert")).toContainText("Index term not recognized");
+  await page.getByLabel("Recovered index term").fill("eighth basement");
+  await page.getByRole("button", { name: "Restore index entry" }).click();
+
+  await expect(page.getByRole("heading", { name: "Misfiled record recovered" })).toBeVisible();
+  await page.getByRole("link", { name: /Open FUID-US-2017-031-FR-INT-02/ }).click();
+  await expect(
+    page.getByRole("heading", { name: "Service-Lift Instrument Recovery: Eighth Basement" }),
+  ).toBeVisible();
+  await expect(page.getByText("Thirty-two doors were open", { exact: false })).toBeVisible();
 });
 
 test("unknown public routes fail clearly without looking like a clue", async ({ page }) => {

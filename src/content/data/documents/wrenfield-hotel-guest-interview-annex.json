@@ -1,0 +1,86 @@
+{
+  "id": "document.us-2017-031-internal-memorandum-01",
+  "slug": "wrenfield-hotel-guest-interview-annex-01",
+  "documentNumber": "FUID-US-2017-031-M-INT-01",
+  "type": "memorandum",
+  "title": "Controlled Annex: Guest Reorientation Interviews",
+  "abstract": "Controlled comparison of guest memories, interior landmarks, and post-departure confusion following Wrenfield manifestations.",
+  "createdDate": "2018-01-29",
+  "from": {
+    "name": "Nadia Merritt",
+    "role": "Interjurisdictional Records Analyst"
+  },
+  "to": ["Office of Records Analysis", "FUID Medical Liaison"],
+  "cc": ["Records Review Console"],
+  "subject": "Controlled Annex: Guest Reorientation Interviews",
+  "caseId": "case.us-2017-031",
+  "departmentId": "department.records-analysis",
+  "access": {
+    "kind": "restricted",
+    "minClearance": 3,
+    "departments": ["department.records-analysis"],
+    "grants": ["archive.wrenfield"]
+  },
+  "search": {
+    "indexable": false,
+    "keywords": []
+  },
+  "classificationMarking": "FUID INTERNAL // CONTROLLED",
+  "metadata": [
+    {
+      "label": "Interview group",
+      "value": "12 guests from 5 manifestations"
+    },
+    {
+      "label": "Control basis",
+      "value": "Medical observations and identifying travel history"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "This annex compares interviews removed from the public assessment because they contain medical observations and travel details. Interviews were conducted separately. No subject was shown another guest's statement, an elevator sketch, or retained Wrenfield property before providing an account."
+    },
+    {
+      "type": "heading",
+      "text": "Orientation pattern"
+    },
+    {
+      "type": "paragraph",
+      "text": "All twelve subjects knew their names. Nine could not identify the city in which they were found, seven selected a date between two and five days later than the actual date, and four insisted they had checked out after sunrise while local records placed their recovery before 03:00. None showed evidence of intoxicants, head injury, carbon-monoxide exposure, or a shared medication. Symptoms resolved after sleep and did not recur away from the hotel."
+    },
+    {
+      "type": "heading",
+      "text": "Interior accounts"
+    },
+    {
+      "type": "paragraph",
+      "text": "Subject C recalled waking at 03:14 to find every door on the seventh floor open. Each room was dark and apparently unoccupied, but every telephone rang once as the subject passed. The subject entered the elevator without luggage and found the luggage already waiting in the lobby. A receipt in the luggage records checkout at 03:08."
+    },
+    {
+      "type": "paragraph",
+      "text": "Subject F described daylight outside a fourth-floor window during the Tulsa manifestation. The street below contained snow, an elevated train, and a station clock reading 8:40. When asked whether the view appeared unusual, the subject said only that the room was quiet because “that city had already closed.” Tulsa weather was clear and 29°C. No elevated railway operates at the site."
+    },
+    {
+      "type": "paragraph",
+      "text": "Subject J reported asking the night clerk how to leave after the revolving door opened repeatedly into the same lobby. The clerk directed the subject to the service lift and said, “If the morning does not arrive, wait on the eighth basement.” The subject entered the public elevator instead, pressed L, and was found seated beside a blank wall in Newark."
+    },
+    {
+      "type": "heading",
+      "text": "Shared omissions"
+    },
+    {
+      "type": "paragraph",
+      "text": "No subject remembers arriving at a front desk from the street. Their accounts begin at check-in, in an elevator, or inside an assigned room. All remember leaving through the lobby even when cameras show emergence from an alley or solid wall. When asked to describe the clerk, eight subjects described a face clearly but produced mutually incompatible age, voice, and sex. Four became unable to remember the question while answering it."
+    },
+    {
+      "type": "callout",
+      "label": "Interview restriction",
+      "text": "Do not prompt future witnesses with the terms B8 or eighth basement. Record the guest's exact floor language before asking for an elevator sketch."
+    },
+    {
+      "type": "paragraph",
+      "text": "The consistency of the interior landmarks is not explained by the subjects' temporary disorientation. Continue short medical observation, ordinary reunification services, and independent floor-plan collection."
+    }
+  ]
+}

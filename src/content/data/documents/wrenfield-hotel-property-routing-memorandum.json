@@ -1,0 +1,67 @@
+{
+  "id": "document.us-2017-031-memorandum-01",
+  "slug": "wrenfield-hotel-property-routing-memorandum-01",
+  "documentNumber": "FUID-US-2017-031-M-01",
+  "type": "memorandum",
+  "title": "Guest Property and Unassigned-Room Routing",
+  "abstract": "Administrative procedure for receiving Wrenfield guest property when no licensed hotel or valid room assignment can be identified.",
+  "createdDate": "2017-11-02",
+  "from": {
+    "name": "Nadia Merritt",
+    "role": "Interjurisdictional Records Analyst"
+  },
+  "to": ["FUID Regional Records Liaisons", "Participating Municipal Property Units"],
+  "cc": ["Office of Field Investigations"],
+  "subject": "Guest Property and Unassigned-Room Routing",
+  "caseId": "case.us-2017-031",
+  "departmentId": "department.records-analysis",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Wrenfield property", "room key", "guest receipt", "unassigned room", "Nadia Merritt"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "metadata": [
+    {
+      "label": "Directory reference",
+      "value": "NMERRITT"
+    },
+    {
+      "label": "Routing series",
+      "value": "ORA-LDG-6"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Municipal partners may encounter room keys, receipts, luggage tags, toiletries, or other property bearing the Wrenfield name. Accept the property under the local agency's ordinary found-property rules, record the recovery location and time, and forward a copy of the inventory to the Office of Records Analysis. Physical transfer to FUID is not required unless requested."
+    },
+    {
+      "type": "heading",
+      "text": "Room and address fields"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not replace an invalid hotel address with the nearest licensed property. Enter the address exactly as printed and note the parcel conflict separately. A room number may be recorded even when the witness cannot identify a floor or when the room number exceeds the apparent height of the building."
+    },
+    {
+      "type": "callout",
+      "label": "Legacy credential routing",
+      "text": "Archived Wrenfield worksheets use the memorandum author's directory reference and the filing phrase “unassigned room variance.” The phrase applies when a reported room cannot be matched to a licensed property."
+    },
+    {
+      "type": "heading",
+      "text": "Guest property"
+    },
+    {
+      "type": "paragraph",
+      "text": "Return ordinary personal property to a verified owner after photographing hotel markings. Retain Wrenfield keys, key sleeves, receipts, and switchboard message cards as case material. Do not attempt to test a recovered key in occupied buildings, and do not mail property to an address printed on Wrenfield stationery."
+    },
+    {
+      "type": "paragraph",
+      "text": "Guests remain entitled to their personal effects even when the lodging record cannot be reconciled. Confusion regarding a hotel address is not grounds to delay medical care, transportation, or contact with family."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "puzzle.wrenfield-index-recovery",
+  "slug": "wrenfield-index-recovery",
+  "caseId": "case.us-2017-031",
+  "title": "Wrenfield service-level index recovery",
+  "prompt": "A sealed field operation was indexed under the two-word destination printed on transfer sleeves and repeated by a guest as the night clerk's exit instruction. The intermediate levels do not exist in any surveyed building. Enter that destination to restore the operation record.",
+  "clueDocumentIds": [
+    "document.us-2017-031-memorandum-02",
+    "document.us-2017-031-internal-memorandum-01"
+  ],
+  "prerequisiteDiscoveryIds": ["discovery.wrenfield-absent-levels"],
+  "answerNormalization": "phrase-v1",
+  "answerHashes": ["4cd42760d42ac8241ad662fc5df1e45e1cbb0ce76f73e27641c3eb5ae1e5a37a"],
+  "resultGrant": "archive.wrenfield-basement",
+  "unlockDocumentIds": ["document.us-2017-031-internal-field-report-02"],
+  "successMessage": "Index term accepted. The service-lift operation has been restored to the Wrenfield Hotel record group."
+}

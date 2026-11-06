@@ -7,8 +7,8 @@ const index = buildPublicSearchIndex(catalog);
 
 describe("public search index", () => {
   it("indexes explicitly public, indexable cases and documents", () => {
-    expect(index.filter((entry) => entry.kind === "case")).toHaveLength(7);
-    expect(index.filter((entry) => entry.kind === "document")).toHaveLength(20);
+    expect(index.filter((entry) => entry.kind === "case")).toHaveLength(8);
+    expect(index.filter((entry) => entry.kind === "document")).toHaveLength(23);
     expect(index.some((entry) => entry.id === "document.co-2004-014-internal-memorandum-01")).toBe(
       false,
     );
@@ -21,6 +21,9 @@ describe("public search index", () => {
     expect(index.some((entry) => entry.id === "document.mt-1997-019-internal-memorandum-01")).toBe(
       false,
     );
+    expect(
+      index.some((entry) => entry.id === "document.us-2017-031-internal-memorandum-01"),
+    ).toBe(false);
   });
 
   it("ranks an exact record number ahead of related keyword matches", () => {

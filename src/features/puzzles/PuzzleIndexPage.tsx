@@ -1,13 +1,17 @@
 import { Link } from "react-router-dom";
 
 import { catalog } from "../../content/catalog";
+import { useAuth } from "../access/AuthContext";
 import { useProgress } from "../progress/ProgressContext";
-import { isPuzzleAvailable } from "./puzzleEngine";
+import { canAccessPuzzleSources, isPuzzleAvailable } from "./puzzleEngine";
 
 export function PuzzleIndexPage() {
+  const { session } = useAuth();
   const { progress } = useProgress();
   const visiblePuzzles = catalog.puzzles.filter(
-    (puzzle) => isPuzzleAvailable(puzzle, progress) || progress.solvedPuzzleIds.includes(puzzle.id),
+    (puzzle) =>
+      canAccessPuzzleSources(puzzle, session) &&
+      (isPuzzleAvailable(puzzle, progress) || progress.solvedPuzzleIds.includes(puzzle.id)),
   );
 
   return (

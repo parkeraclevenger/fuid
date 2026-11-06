@@ -142,6 +142,11 @@ export function EmployeeResourcesPage() {
                 <summary>Need help locating your credentials?</summary>
                 <div>
                   <p>
+                    Legacy accounts use a released memorandum's <strong>Directory reference</strong>
+                    and a filing phrase identified inside that same record.
+                  </p>
+                  <h3>Bellwether records account</h3>
+                  <p>
                     Open the Bellwether Mile reimbursement memorandum written by Lena Ortez. Her
                     <strong> Directory reference</strong> is the directory ID.
                   </p>
@@ -150,7 +155,16 @@ export function EmployeeResourcesPage() {
                     temporary passphrase. Enter the words without quotation marks.
                   </p>
                   <Link to="/records/bellwether-mileage-memorandum-01">
-                    Open the relevant released memorandum →
+                    Open the Bellwether memorandum →
+                  </Link>
+                  <h3>Wrenfield assigned account</h3>
+                  <p>
+                    The released Wrenfield guest-property routing memorandum contains the assigned
+                    analyst's directory reference and identifies the applicable filing phrase under
+                    <strong> Legacy credential routing</strong>.
+                  </p>
+                  <Link to="/records/wrenfield-hotel-property-routing-memorandum-01">
+                    Open the Wrenfield memorandum →
                   </Link>
                 </div>
               </details>

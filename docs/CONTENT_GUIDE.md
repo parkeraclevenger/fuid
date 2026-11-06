@@ -67,6 +67,8 @@ Employee files live in `src/content/data/employees/` and contain a stable ID, lo
 
 Add these entities only for an authored access flow. Never collect a visitor's real name, email, government identifier, or actual password. The public sign-in page stays in-world, so every credential must be recoverable from released archive material and documented in `PUZZLE_GUIDE.md`.
 
+Profile grants persist as player progress across account changes. If a controlled storyline must remain exclusive to the active employee, require both its account grant and that employee's department on every controlled document. Any puzzle in that storyline must include at least one such controlled source record; the puzzle UI verifies source access for the current session before displaying the task.
+
 ## Add a discovery
 
 Discovery files live in `src/content/data/discoveries/`. A discovery is a short analyst correlation that becomes available only after every ID in `requiredDocumentIds` has been reviewed. It includes a stable ID, related case, restrained label, title, and summary. All required documents must belong to the same case.
