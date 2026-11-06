@@ -1,0 +1,73 @@
+{
+  "id": "document.ne-2019-021-field-report-02",
+  "slug": "ash-creek-remediation-certificate-02",
+  "documentNumber": "FUID-NE-2019-021-FR-02",
+  "type": "field-report",
+  "title": "Electrical Remediation and Circuit Verification Certificate",
+  "abstract": "Public completion record for removal of the undocumented siren conductor and verification that the irrigation controls no longer energize the relay.",
+  "createdDate": "2019-07-08",
+  "byline": {
+    "name": "Omar Dale",
+    "role": "Field Investigator"
+  },
+  "caseId": "case.ne-2019-021",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Ash Creek remediation", "siren circuit removal", "irrigation controller", "electrical verification", "relay repair"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "distribution": ["Public Records Reading Room", "Ash Creek Township", "County Engineering"],
+  "metadata": [
+    {
+      "label": "Work completed",
+      "value": "July 2, 2019"
+    },
+    {
+      "label": "Verification period",
+      "value": "July 2–8, 2019"
+    },
+    {
+      "label": "Responsible electrician",
+      "value": "County facilities license E-4471"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Removed components"
+    },
+    {
+      "type": "paragraph",
+      "text": "County staff disconnected and removed the undocumented conductor between irrigation panel I-3 and abandoned telephone pair 22-B. The failed suppression diode on valve output 4 and the degraded civil-defense relay were replaced. Pair 22-B was cut back, capped, labeled out of service, and separated from energized conductors at both facilities."
+    },
+    {
+      "type": "heading",
+      "text": "Functional testing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Valve output 4 was operated 36 times across the verification period, including seven cycles at 14:17. The irrigation valve responded normally. No measurable voltage reached the siren relay and no siren movement, hum, or partial activation occurred. The siren's manual local test remained functional."
+    },
+    {
+      "type": "paragraph",
+      "text": "A temporary recreation of the former connection reproduced relay pickup when the valve coil was de-energized, confirming the mechanism identified in the site examination. The temporary leads were removed immediately after the supervised test."
+    },
+    {
+      "type": "heading",
+      "text": "Disposition"
+    },
+    {
+      "type": "paragraph",
+      "text": "The removed relay, diode, and conductor segment were photographed and returned to County Engineering for training use. They are not anomalous evidence and require no federal retention. Updated electrical drawings have been filed with the township and water district."
+    },
+    {
+      "type": "callout",
+      "label": "Certification",
+      "text": "The tested fault path has been eliminated. The Ash Creek siren may remain in local manual service under the township's ordinary emergency-warning program."
+    }
+  ]
+}

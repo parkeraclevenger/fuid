@@ -9,16 +9,16 @@ The archive contains two credential trails, six cross-record discoveries, and tw
 ## Credential trail: Lena Ortez records access
 
 - **Stable ID:** `credential.lena-ortez`
-- **Associated records:** Bellwether mileage reimbursement memorandum, employee resources page, Records Review Console, and six initially available controlled records.
+- **Associated records:** Bellwether mileage reimbursement memorandum, employee resources page, Records Review Console, and thirteen initially available OFI controlled records.
 - **Intended reasoning:** the employee-resources hint directs the visitor to the Bellwether reimbursement memorandum written by Lena Ortez. The memorandum's metadata names directory reference `LORTEZ`; its terminology notice identifies the exact phrase “documented route variance.”
 - **Clue locations:** both credential values remain in the public Bellwether mileage memorandum. A progressive disclosure on the employee-resources page explains which record to open, which metadata value becomes the directory ID, and which labeled phrase becomes the passphrase. It includes a direct link to the memorandum.
 - **Accepted username:** `lortez` after trimming surrounding whitespace and case-folding to lowercase.
 - **Accepted passphrase:** `documented route variance` after trimming surrounding whitespace and case-folding to lowercase.
 - **Prerequisites:** none beyond public archive access.
-- **Result:** creates a persistent local session for employee `employee.lena-ortez`, grants `archive.internal`, permits the `records-review` application, and reveals the initial controlled records for Bellwether, Harrow, Saint Orison, Lantern Ridge, Bellglass Orchard, and Morrow Cut. Harrow's later property-storage report still requires its separate puzzle grant.
+- **Result:** creates a persistent local session for employee `employee.lena-ortez`, grants `archive.internal`, permits the `records-review` application, and reveals thirteen initial controlled records across Bellwether, Harrow, Saint Orison, Lantern Ridge, Bellglass Orchard, Morrow Cut, and Ash Creek. Harrow's two property-storage follow-ups still require the separate puzzle grant.
 - **Alternate path:** visitors may discover the memo naturally through Bellwether or follow the direct hint link from Employee Resources. Direct navigation to an internal route displays a session-required state rather than controlled text.
 - **Accessibility:** clues are ordinary selectable text and labeled metadata, not color, audio, hover, or image-dependent. Inputs have visible labels and errors are announced in text.
-- **Tests:** unit tests cover normalized success and failure; desktop and mobile browser tests cover the progressive hint, login, all six initial registry entries, public-search exclusion, and session restoration after refresh.
+- **Tests:** unit tests cover normalized success and failure; desktop and mobile browser tests cover the progressive hint, login, the thirteen-entry initial OFI registry, public-search exclusion, and session restoration after refresh.
 
 ## Credential trail: Nadia Merritt Wrenfield access
 
@@ -54,8 +54,8 @@ These are authored correlations, not answer-entry puzzles. They persist by stabl
 - **Prompt:** recover the two-word location remembered by personnel but absent from all verified site plans.
 - **Clue records:** `document.or-1986-011-field-report-01` and `document.or-1986-011-internal-memorandum-01` both name the location and explicitly establish that it cannot be verified.
 - **Accepted solution:** `lower tower` using `phrase-v1` normalization: Unicode NFKC, lowercase, punctuation converted to spaces, surrounding whitespace removed, and repeated whitespace collapsed.
-- **Result:** marks the puzzle solved, grants `archive.harrow-appendix`, and reveals `document.or-1986-011-internal-field-report-02`.
-- **Hidden record:** “Property Storage Incident and Relief Call Transcript,” a controlled 1994 report concerning an unpowered recovered telephone, a voice identifying itself as Vale, physical movement in an empty aisle, and an unexplained inventory impression.
+- **Result:** marks the puzzle solved, grants `archive.harrow-appendix`, and reveals `document.or-1986-011-internal-field-report-02` plus `document.or-1986-011-internal-memorandum-02`.
+- **Hidden records:** “Property Storage Incident and Relief Call Transcript” documents an unpowered telephone, a voice identifying itself as Vale, and movement in an empty aisle. “Overnight Warehouse Incident Log and Inventory Impression” reconstructs an invisible walking-speed sensor path, a 71.4-kilogram exit-mat activation behind a closed door, and writing impressed upward through an inventory pad.
 - **Failure behavior:** a wrong answer retains the task and directs the reader back to location language in the listed records. There is no penalty, timer, or attempt limit.
 - **Accessibility:** the prompt, source links, form label, error, and success state are semantic text. The solution does not depend on color, audio playback, or handwriting recognition.
 - **Persistence:** solved puzzle ID and result grant are stored in the versioned local profile; the unlocked record remains accessible after refresh and through validated export/import.

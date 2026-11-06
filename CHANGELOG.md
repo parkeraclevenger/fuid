@@ -42,3 +42,6 @@ All meaningful project changes are recorded here. Dates use `YYYY-MM-DD`.
 - Added the Office of Records Analysis and Nadia Merritt credential trail, with released credential clues and department-bound Wrenfield records that remain unavailable to the Lena Ortez session.
 - Added the Wrenfield absent-levels correlation and a second phrase-recovery puzzle that restores the “Eighth Basement” service-lift operation.
 - Limited internal puzzle visibility to active sessions that can access every clue record, preserving employee-specific archive boundaries while retaining profile-wide progress.
+- Added sixteen substantial records across all eight investigations, bringing the archive to forty-nine documents with an even split of eight new public and eight new controlled entries.
+- Expanded the existing document families into varied in-world forms including shift and incident logs, evidence inventories, audio worksheets, medical and health bulletins, calibration and remediation certificates, quarantine paperwork, and engineering closure reports without adding UI or schema features.
+- Extended the Harrow recovery grant to restore both the relief-call report and its companion warehouse sensor-and-inventory log.

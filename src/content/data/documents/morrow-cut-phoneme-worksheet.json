@@ -1,0 +1,78 @@
+{
+  "id": "document.wv-2008-009-internal-memorandum-01",
+  "slug": "morrow-cut-phoneme-worksheet-01",
+  "documentNumber": "FUID-WV-2008-009-M-INT-01",
+  "type": "memorandum",
+  "title": "Controlled Phoneme and Speaker-Fragment Comparison",
+  "abstract": "Controlled comparison of bore speech with site recordings, including voice fragments that precede their apparent source utterances.",
+  "createdDate": "2008-03-03",
+  "from": {
+    "name": "Elias Kade",
+    "role": "Field Investigator"
+  },
+  "to": ["Federal Audio Examination Unit", "OFI Appalachian Desk"],
+  "cc": ["Records Review Console"],
+  "subject": "Controlled Phoneme and Speaker-Fragment Comparison",
+  "caseId": "case.wv-2008-009",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "restricted",
+    "minClearance": 2,
+    "departments": ["department.field-investigations"],
+    "grants": ["archive.internal"]
+  },
+  "search": {
+    "indexable": false,
+    "keywords": []
+  },
+  "classificationMarking": "FUID INTERNAL // CONTROLLED",
+  "metadata": [
+    {
+      "label": "Source reels",
+      "value": "MC-B7-02 through MC-B7-11"
+    },
+    {
+      "label": "Comparison voices",
+      "value": "11 site personnel"
+    },
+    {
+      "label": "Control basis",
+      "value": "Employee voiceprints and anticipatory speech fragments"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Speaker result"
+    },
+    {
+      "type": "paragraph",
+      "text": "The coordinated bore speech does not contain stable individual speakers. Pitch, breath, and vocal-tract characteristics change within words. At least nine short segments match site personnel more closely than the unidentified background voices, but no complete word can be assigned to one person. The effect resembles speech assembled from overlapping fragments rather than a group speaking in unison."
+    },
+    {
+      "type": "heading",
+      "text": "Timing comparison"
+    },
+    {
+      "type": "paragraph",
+      "text": "Seven matching fragments occur after the corresponding employee speech and could reflect delayed pickup or contamination. Three occur before the apparent source. The clearest is the second syllable of Investigator Kade's surname at 21:06:14, which matches Kade's radio check at 21:23:51 in pitch transition, mouth click, and a brief channel whistle. The radio check had not occurred when the bore recording was made."
+    },
+    {
+      "type": "paragraph",
+      "text": "A fragment in the word Mercer matches a cough recorded from Mercer the following morning. The same cough is faintly audible beneath the word as though spoken through it. Mercer was off site during both recordings and denied prior throat irritation. No edit, tape splice, copied leader, or timecode discontinuity was found."
+    },
+    {
+      "type": "heading",
+      "text": "Final breathing segment"
+    },
+    {
+      "type": "paragraph",
+      "text": "The eleven minutes of breathing recorded after capsule power removal contains six repeating intervals. The intervals do not remain synchronized and cannot be reduced to one loop. None matches the respiratory pattern of the three personnel present at recovery. Audio level does not change while the capsule is raised 61 meters."
+    },
+    {
+      "type": "callout",
+      "label": "Analytical limitation",
+      "text": "The matches do not establish that personnel produced the bore speech or that future sound was recorded. They establish only that several unreleased fragments strongly resemble speech and bodily sounds documented later on the same evidence set."
+    }
+  ]
+}

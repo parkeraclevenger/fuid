@@ -1,0 +1,67 @@
+{
+  "id": "document.la-2013-006-memorandum-02",
+  "slug": "saint-orison-health-advisory-02",
+  "documentNumber": "FUID-LA-2013-006-M-02",
+  "type": "memorandum",
+  "title": "Wildlife Health and Incidental Contact Advisory",
+  "abstract": "Public health guidance for drainage personnel working near the unidentified Saint Orison animal and its returned materials.",
+  "createdDate": "2013-06-03",
+  "from": {
+    "name": "Celia Wren",
+    "role": "Field Investigator"
+  },
+  "to": ["Saint Orison Parish Drainage Authority", "Parish Health Unit"],
+  "cc": ["Louisiana Wildlife Liaison"],
+  "subject": "Wildlife Health and Incidental Contact Advisory",
+  "caseId": "case.la-2013-006",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Saint Orison health", "drainage animal safety", "wildlife contact", "canal water", "returned flags"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "metadata": [
+    {
+      "label": "Advisory scope",
+      "value": "Occupational precaution"
+    },
+    {
+      "label": "Known human illness",
+      "value": "None associated with the case"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "No illness, bite, scratch, or direct contact has been attributed to the unidentified drainage animal. This advisory applies ordinary wetland and wildlife precautions while monitoring continues. It does not designate the canal system as contaminated or establish that the animal carries a communicable disease."
+    },
+    {
+      "type": "heading",
+      "text": "Work practices"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wear gloves when removing flags, tags, fish remains, or other objects returned from the water. Wash exposed skin with soap and potable water. Cover existing cuts before canal work. Do not hand-feed, corner, touch, tranquilize, or attempt to lift the animal from a culvert."
+    },
+    {
+      "type": "paragraph",
+      "text": "An employee who is bitten or scratched should receive ordinary wound care and report the incident through parish occupational health. An employee who hears clicking from inside a closed electrical cabinet should leave the cabinet closed, step outside the building, and notify the supervisor; this is an equipment-control instruction, not a medical symptom."
+    },
+    {
+      "type": "heading",
+      "text": "Water testing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Routine bacterial and chemical samples from Canal 3C remain within the historical range for the drainage network. No unusual toxin, parasite load, or amphibian pathogen has been identified. Continue the parish sampling schedule without creating a separate public-health closure."
+    },
+    {
+      "type": "callout",
+      "label": "Naming reminder",
+      "text": "Ledgerback is an informal staff nickname. It should not appear as a species identification on medical, wildlife, or workers' compensation forms."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "document.mt-1997-019-field-report-02",
+  "slug": "lantern-ridge-snowplow-statement-02",
+  "documentNumber": "FUID-MT-1997-019-FR-02",
+  "type": "field-report",
+  "title": "Road Closure Log and Snowplow Operator Statement",
+  "abstract": "Public road log and independent operator account from the final verified Lantern Ridge crossing before controlled monitoring began.",
+  "createdDate": "1997-11-21",
+  "byline": {
+    "name": "Irene Bell",
+    "role": "Field Investigator"
+  },
+  "caseId": "case.mt-1997-019",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Lantern Ridge snowplow", "road closure", "long elk witness", "mile 48", "culvert crossing"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "distribution": ["Public Records Reading Room", "Montana Highway District 4", "OFI Northern Desk"],
+  "metadata": [
+    {
+      "label": "Observation",
+      "value": "November 4, 1997 · 04:36 MST"
+    },
+    {
+      "label": "Road condition",
+      "value": "Closed to public traffic · 7 cm fresh snow"
+    },
+    {
+      "label": "Witness vehicle",
+      "value": "District plow 4-17"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Closure record"
+    },
+    {
+      "type": "paragraph",
+      "text": "Highway 48 was closed from 03:50 to 05:20 for drifting snow. No civilian vehicle passed either barricade. Plow 4-17 entered from the east at 04:22 and was the only moving highway vehicle in the closure. Radio and mileage logs place it 0.6 kilometer east of the mile 48 culvert at the time of the observation."
+    },
+    {
+      "type": "heading",
+      "text": "Operator statement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Operator H. Cress saw an elk-like animal standing broadside across both lanes. The body cleared the plow hood and the antlers extended above the windshield. Cress stopped at approximately 35 meters and switched between low beam, high beam, and the roof work lights. The animal's eyes did not reflect under any setting."
+    },
+    {
+      "type": "paragraph",
+      "text": "The animal turned its head toward the west culvert while its body remained broadside. Cress described the first step as normal and the remaining movement as “the road going past it.” The animal reached the north ditch without an observed change in leg position, lowered its antlers, and entered the culvert opening. The opening is 1.2 meters high."
+    },
+    {
+      "type": "heading",
+      "text": "Immediate track check"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cress remained in the cab and notified dispatch. Highway staff arrived at 04:58. Ordinary elk-scale tracks crossed the east lane and ended at the north culvert mouth. No drag mark, antler strike, disturbed snow above the opening, or track leading away was present. Cress's plow video was obscured by windblown snow and shows only a dark vertical form for four frames."
+    },
+    {
+      "type": "callout",
+      "label": "Witness limitation",
+      "text": "The operator's height estimate is visual and occurred under poor weather conditions. The track measurements are substantially smaller than the reported animal. Both observations are retained without forcing them into one scale estimate."
+    }
+  ]
+}

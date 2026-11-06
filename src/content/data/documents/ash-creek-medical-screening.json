@@ -1,0 +1,74 @@
+{
+  "id": "document.ne-2019-021-internal-memorandum-01",
+  "slug": "ash-creek-medical-screening-01",
+  "documentNumber": "FUID-NE-2019-021-M-INT-01",
+  "type": "memorandum",
+  "title": "Employee Exposure and Hearing Screening Summary",
+  "abstract": "Controlled occupational-health summary for employees present during siren activations and electrical fault testing.",
+  "createdDate": "2019-06-13",
+  "from": {
+    "name": "Omar Dale",
+    "role": "Field Investigator"
+  },
+  "to": ["Ash Creek Township Safety Officer", "FUID Medical Liaison"],
+  "cc": ["Records Review Console"],
+  "subject": "Employee Exposure and Hearing Screening Summary",
+  "caseId": "case.ne-2019-021",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "restricted",
+    "minClearance": 2,
+    "departments": ["department.field-investigations"],
+    "grants": ["archive.internal"]
+  },
+  "search": {
+    "indexable": false,
+    "keywords": []
+  },
+  "classificationMarking": "FUID INTERNAL // CONTROLLED",
+  "metadata": [
+    {
+      "label": "Employees screened",
+      "value": "5"
+    },
+    {
+      "label": "Screening window",
+      "value": "June 11–13, 2019"
+    },
+    {
+      "label": "Control basis",
+      "value": "Employee medical information"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Five township and county employees who were within 100 meters of a siren activation received voluntary hearing and electrical-exposure screening. Names and individual audiograms remain with the employing agencies and are not reproduced in this case summary."
+    },
+    {
+      "type": "heading",
+      "text": "Findings"
+    },
+    {
+      "type": "paragraph",
+      "text": "Four employees had no reported symptoms or threshold change. One employee standing beside the siren cabinet reported ringing in both ears and demonstrated a temporary high-frequency threshold shift. Repeat testing after 48 hours returned to the employee's documented baseline. No burn, shock injury, arrhythmia, confusion, memory disturbance, or unusual neurological finding was reported."
+    },
+    {
+      "type": "paragraph",
+      "text": "The measured sound level during controlled activation is sufficient to account for the temporary hearing effect. The low-energy control voltage found on the abandoned telephone pair is not sufficient to create a separate electrical exposure at the observer positions."
+    },
+    {
+      "type": "heading",
+      "text": "Recommendations"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maintain the existing exclusion radius and hearing protection requirement for all future manual siren tests. Do not station personnel inside the cabinet fence during activation. No continuing medical surveillance is indicated beyond the township's ordinary hearing-conservation program."
+    },
+    {
+      "type": "callout",
+      "label": "Privacy control",
+      "text": "This summary is controlled because it derives from employee health records, not because the screening identified an unexplained effect."
+    }
+  ]
+}

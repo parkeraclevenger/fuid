@@ -8,7 +8,7 @@ const index = buildPublicSearchIndex(catalog);
 describe("public search index", () => {
   it("indexes explicitly public, indexable cases and documents", () => {
     expect(index.filter((entry) => entry.kind === "case")).toHaveLength(8);
-    expect(index.filter((entry) => entry.kind === "document")).toHaveLength(23);
+    expect(index.filter((entry) => entry.kind === "document")).toHaveLength(31);
     expect(index.some((entry) => entry.id === "document.co-2004-014-internal-memorandum-01")).toBe(
       false,
     );

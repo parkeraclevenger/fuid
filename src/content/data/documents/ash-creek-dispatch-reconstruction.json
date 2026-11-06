@@ -1,0 +1,76 @@
+{
+  "id": "document.ne-2019-021-internal-field-report-01",
+  "slug": "ash-creek-dispatch-reconstruction-01",
+  "documentNumber": "FUID-NE-2019-021-FR-INT-01",
+  "type": "field-report",
+  "title": "Dispatch Audio and Line-Coupling Reconstruction",
+  "abstract": "Controlled technical reconstruction linking irrigation valve commands, abandoned telephone-pair voltage, and the repeated 14:17 siren activation.",
+  "createdDate": "2019-06-14",
+  "byline": {
+    "name": "Omar Dale",
+    "role": "Field Investigator"
+  },
+  "caseId": "case.ne-2019-021",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "restricted",
+    "minClearance": 2,
+    "departments": ["department.field-investigations"],
+    "grants": ["archive.internal"]
+  },
+  "search": {
+    "indexable": false,
+    "keywords": []
+  },
+  "classificationMarking": "FUID INTERNAL // CONTROLLED",
+  "distribution": ["OFI Plains Desk", "County Engineering", "Records Review Console"],
+  "metadata": [
+    {
+      "label": "Reconstruction date",
+      "value": "June 13, 2019"
+    },
+    {
+      "label": "Fault path",
+      "value": "I-3 valve output 4 → pair 22-B → siren relay K-2"
+    },
+    {
+      "label": "Control basis",
+      "value": "Critical-infrastructure routing and employee radio traffic"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Dispatch correlation"
+    },
+    {
+      "type": "paragraph",
+      "text": "County recordings place every reported Tuesday siren event between 14:17:06 and 14:17:10. Irrigation logs show valve output 4 de-energizing at 14:17:05 under the weekly flush schedule. The one-second delay and four-second relay hold are consistent across all seven events. No manual siren command was entered."
+    },
+    {
+      "type": "heading",
+      "text": "Bench reconstruction"
+    },
+    {
+      "type": "paragraph",
+      "text": "A matched valve coil and failed suppression diode were connected to 60 meters of the recovered telephone pair and an equivalent siren relay. De-energizing the coil produced a transient between 41 and 49 volts on the pair. The degraded relay closed for 3.8 seconds, long enough to begin the siren motor cycle. A serviceable diode or relay prevented activation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The faint speech reported beneath one dispatch recording was reproduced when a county road radio transmitted beside the unshielded pair. The words are ordinary road-maintenance traffic from channel 3, delayed by recorder buffering. They contain no reference to the siren, the Tuesday schedule, or an unknown speaker."
+    },
+    {
+      "type": "heading",
+      "text": "Historical routing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Facilities drawings show pair 22-B served the former civil-defense control point until 1983. During a 1991 irrigation upgrade, the pair was reused as a pull line and left electrically connected at both ends. The undocumented conductor between the valve panel and pair is consistent with that work period. No evidence indicates deliberate activation or recent alteration."
+    },
+    {
+      "type": "callout",
+      "label": "Finding",
+      "text": "The timing, voltage, relay behavior, and reported background audio are reproduced by the documented electrical fault. No unexplained remainder was identified."
+    }
+  ]
+}

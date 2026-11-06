@@ -1,0 +1,73 @@
+{
+  "id": "document.wv-2008-009-field-report-02",
+  "slug": "morrow-cut-grout-completion-report-02",
+  "documentNumber": "FUID-WV-2008-009-FR-02",
+  "type": "field-report",
+  "title": "Bore Grout Placement and Closure Completion Report",
+  "abstract": "Public engineering record for the measured fill, surface cap, and post-work acoustic checks at Morrow Cut bore MC-B7.",
+  "createdDate": "2008-02-25",
+  "byline": {
+    "name": "Elias Kade",
+    "role": "Field Investigator"
+  },
+  "caseId": "case.wv-2008-009",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Morrow Cut grout", "MC-B7 closure", "bore fill", "highway stabilization", "acoustic monitoring"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "distribution": ["Public Records Reading Room", "West Virginia Division of Highways", "OFI Appalachian Desk"],
+  "metadata": [
+    {
+      "label": "Placement date",
+      "value": "February 23, 2008"
+    },
+    {
+      "label": "Grout volume",
+      "value": "552 liters"
+    },
+    {
+      "label": "Finished cap",
+      "value": "MC-B7-C · flush concrete and survey pin"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Preparation"
+    },
+    {
+      "type": "paragraph",
+      "text": "The bore camera, microphone line, weighted tape, and retained drill spoil were removed before closure. The upper 57.2 meters remained open and continuous. The compacted obstruction at the measured terminus was not disturbed. Highway personnel established traffic control and verified that no drain, utility, mine opening, or occupied structure would receive the grout."
+    },
+    {
+      "type": "heading",
+      "text": "Placement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Low-shrink cement grout was pumped from the terminus upward through a tremie line. The placed volume was within 1.6 percent of the calculated open-bore capacity. Return grout reached the collar without loss, pressure drop, or indication of a lateral void. The tremie was withdrawn in measured stages and the surface was capped flush with the slope."
+    },
+    {
+      "type": "paragraph",
+      "text": "Two contact microphones remained on the surrounding sandstone during placement. Pump, hose, and aggregate noise were recorded as expected. No coordinated speech, counting, name repetition, or response to worker conversation was detected. Personnel were instructed not to address the bore while it remained open."
+    },
+    {
+      "type": "heading",
+      "text": "Verification"
+    },
+    {
+      "type": "paragraph",
+      "text": "After cure, ultrasonic and hammer testing found no unfilled section within the measurable column. The survey pin was tied to the highway control network, photographed, and covered by a locked steel plate. A thirty-day visual check is assigned to the highway district; FUID will conduct quarterly acoustic checks for one year."
+    },
+    {
+      "type": "callout",
+      "label": "Site restriction",
+      "text": "Do not drill, core, remove the cap, or place a listening device against MC-B7-C without written FUID and highway authorization."
+    }
+  ]
+}

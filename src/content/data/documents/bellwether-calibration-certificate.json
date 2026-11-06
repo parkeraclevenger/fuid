@@ -1,0 +1,75 @@
+{
+  "id": "document.co-2004-014-memorandum-03",
+  "slug": "bellwether-calibration-certificate-03",
+  "documentNumber": "FUID-CO-2004-014-M-03",
+  "type": "memorandum",
+  "title": "Survey Instrument Calibration and Marker Custody Certificate",
+  "abstract": "Public certification of the instruments, control points, and confirmed 6-B marker used during Bellwether route monitoring.",
+  "createdDate": "2005-04-18",
+  "from": {
+    "name": "Lena Ortez",
+    "role": "Acting Administrative Officer"
+  },
+  "to": ["Tri-County Water Authority", "OFI Mountain Desk"],
+  "cc": ["Federal Records Center"],
+  "subject": "Survey Instrument Calibration and Marker Custody Certificate",
+  "caseId": "case.co-2004-014",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Bellwether calibration", "marker 6-B", "survey wheel", "chain of custody", "Service Road 6"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "metadata": [
+    {
+      "label": "Calibration date",
+      "value": "April 14, 2005"
+    },
+    {
+      "label": "Confirmed marker",
+      "value": "6-B · county asset SR6-114"
+    },
+    {
+      "label": "Control course",
+      "value": "Reservoir maintenance yard · 1,000 feet"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Instrument checks"
+    },
+    {
+      "type": "paragraph",
+      "text": "The two measuring wheels, vehicle odometer transponder, laser rangefinder, and survey tape assigned to the Bellwether route were compared against the maintenance-yard control course before and after the April monitoring pass. Maximum observed error was 0.18 percent. No instrument drift, loose counter gear, altered tire circumference, or unit-conversion fault was found."
+    },
+    {
+      "type": "heading",
+      "text": "Marker verification"
+    },
+    {
+      "type": "paragraph",
+      "text": "County asset SR6-114 remains the only physical post confirmed as marker 6-B. Its paint layers, fasteners, stamped inventory number, and concrete footing match 1998 installation records. The post was photographed and surveyed in place. It was not removed, replaced, or duplicated during this inspection."
+    },
+    {
+      "type": "paragraph",
+      "text": "A replacement post prepared by the Water Authority remained sealed in stores under tag TA-05-61. The seal number and gross weight were unchanged at the end of the monitoring day. No second 6-B post has been recovered for comparison."
+    },
+    {
+      "type": "heading",
+      "text": "Control measurements"
+    },
+    {
+      "type": "paragraph",
+      "text": "All instruments agreed on the maintenance-yard course and on three public-road control segments outside the case area. Within the signed Service Road 6 interval, the instruments reproduced the previously reported variance without agreeing on a fixed added distance. Calibration therefore does not resolve the route discrepancy, but it excludes the tested equipment and the confirmed marker as sufficient causes."
+    },
+    {
+      "type": "callout",
+      "label": "Certification",
+      "text": "The instruments are suitable for continued monitoring. Future reports shall identify the confirmed physical post as SR6-114 and reserve the term second 6-B for an observed but unrecovered marker."
+    }
+  ]
+}

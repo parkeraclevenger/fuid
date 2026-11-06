@@ -106,15 +106,17 @@ export function PuzzlePage() {
               <p className="internal-kicker">Index restored</p>
               <h2 id="recovery-complete-title">Misfiled record recovered</h2>
               <p>{puzzle.successMessage}</p>
-              {unlockedDocuments.map((document) => (
-                <Link
-                  className="internal-button"
-                  to={`/internal/archive/records/${document.slug}`}
-                  key={document.id}
-                >
-                  Open {document.documentNumber}
-                </Link>
-              ))}
+              <div className="index-recovery__actions">
+                {unlockedDocuments.map((document) => (
+                  <Link
+                    className="internal-button"
+                    to={`/internal/archive/records/${document.slug}`}
+                    key={document.id}
+                  >
+                    Open {document.documentNumber}
+                  </Link>
+                ))}
+              </div>
             </section>
           ) : (
             <form className="index-recovery__form" onSubmit={handleSubmit}>

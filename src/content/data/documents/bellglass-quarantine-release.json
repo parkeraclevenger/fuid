@@ -1,0 +1,63 @@
+{
+  "id": "document.ga-1971-002-memorandum-03",
+  "slug": "bellglass-quarantine-release-03",
+  "documentNumber": "FUID-GA-1971-002-M-03",
+  "type": "memorandum",
+  "title": "Agricultural Quarantine Release and Orchard Access Certificate",
+  "abstract": "Public release of temporary agricultural controls after no communicable pest or plant disease was identified at Bellglass Orchard.",
+  "createdDate": "1972-02-02",
+  "from": {
+    "name": "Miriam Saye",
+    "role": "Field Investigator"
+  },
+  "to": ["Bellglass County Agricultural Office", "Property Owner of Record"],
+  "cc": ["County Health Officer"],
+  "subject": "Agricultural Quarantine Release and Orchard Access Certificate",
+  "caseId": "case.ga-1971-002",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Bellglass quarantine", "orchard release", "peach disease", "agricultural inspection", "orchard access"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "metadata": [
+    {
+      "label": "Control period",
+      "value": "August 5, 1971–February 2, 1972"
+    },
+    {
+      "label": "Lots released",
+      "value": "Bellglass parcel 14-A except retained evidence rows"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "County restrictions imposed during examination of the hollow fruit are released. Laboratory culture, insect trapping, soil review, and inspection of neighboring orchards found no communicable plant disease, invasive insect, chemical contaminant, or ordinary wildlife condition requiring continued quarantine."
+    },
+    {
+      "type": "heading",
+      "text": "Retained controls"
+    },
+    {
+      "type": "paragraph",
+      "text": "Six preserved fruit, track casts, shed recordings, and row maps remain federal case material. Trees N-17 and N-23 may be pruned or removed after the county photographs their trunks and confirms the evidence tags have been cleared. No restriction applies to unrelated parcels."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fruit remaining on the affected rows should not enter commerce because its internal condition cannot be determined by surface inspection. This is a lot-specific quality precaution, not a declaration that the fruit is infectious or poisonous. Fallen fruit may be buried on site under county supervision."
+    },
+    {
+      "type": "callout",
+      "label": "Public access",
+      "text": "The property remains private. Release of federal controls does not authorize trespass, specimen hunting, night observation, or removal of marked soil and wood."
+    },
+    {
+      "type": "paragraph",
+      "text": "The investigation remains closed unresolved. Any future fruit showing an intact exterior and an emptied seed cavity should be photographed in place and referred through the county agricultural office before disposal."
+    }
+  ]
+}

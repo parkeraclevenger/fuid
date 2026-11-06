@@ -1934,7 +1934,25 @@ a:hover {
   background: #edf6ef;
 }
 
+.index-recovery__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+.index-recovery__actions .internal-button {
+  display: inline-block;
+}
+
 @media (max-width: 48rem) {
+  .index-recovery__actions {
+    flex-direction: column;
+  }
+
+  .index-recovery__actions .internal-button {
+    text-align: center;
+  }
+
   .hero__grid,
   .two-column,
   .guidance-strip,

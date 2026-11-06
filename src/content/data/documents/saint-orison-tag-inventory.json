@@ -1,0 +1,78 @@
+{
+  "id": "document.la-2013-006-internal-memorandum-01",
+  "slug": "saint-orison-tag-inventory-01",
+  "documentNumber": "FUID-LA-2013-006-M-INT-01",
+  "type": "memorandum",
+  "title": "Controlled Evidence Inventory: Returned Survey Tags",
+  "abstract": "Controlled inventory and material examination of tags removed from a secured pump-house cabinet after the remote signal event.",
+  "createdDate": "2013-05-14",
+  "from": {
+    "name": "Celia Wren",
+    "role": "Field Investigator"
+  },
+  "to": ["OFI Gulf Desk", "FUID Materials Examination"],
+  "cc": ["Records Review Console"],
+  "subject": "Controlled Evidence Inventory: Returned Survey Tags",
+  "caseId": "case.la-2013-006",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "restricted",
+    "minClearance": 2,
+    "departments": ["department.field-investigations"],
+    "grants": ["archive.internal"]
+  },
+  "search": {
+    "indexable": false,
+    "keywords": []
+  },
+  "classificationMarking": "FUID INTERNAL // CONTROLLED",
+  "metadata": [
+    {
+      "label": "Items inventoried",
+      "value": "17 aluminum tags, 6 flag wires, 1 cabinet key"
+    },
+    {
+      "label": "Recovery location",
+      "value": "Pump House Three control cabinet"
+    },
+    {
+      "label": "Control basis",
+      "value": "Secured-infrastructure access and unreleased material findings"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Cabinet condition"
+    },
+    {
+      "type": "paragraph",
+      "text": "The control cabinet was locked when opened at 02:18 on May 4. Tamper lacquer across both hinge screws was continuous. Dust on the upper shelf showed no hand, tool, or animal track. Seventeen expired tags stood on edge inside the empty breaker-map slot, sorted by stamped inspection year and then by canal number."
+    },
+    {
+      "type": "heading",
+      "text": "Tag condition"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sixteen tags were dry and carried soil, corrosion, and plant residue consistent with their former field locations. Tag 3C-22 was wet on both faces and deposited 4.6 milliliters of clear water in its evidence tray. Microscopy found the same diatom mix collected from Canal 3C that night. The cabinet interior, shelf, and adjacent tags were dry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Edges of the tags carry paired shallow grooves spaced 18 to 21 millimeters apart. The marks are not cuts and contain no transferable tooth material. Their spacing is consistent across tags of different ages but does not match the pliers, rack hooks, or known handling tools at the pump house."
+    },
+    {
+      "type": "heading",
+      "text": "Custody reconciliation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Parish records place all seventeen tags in a sealed disposal drawer before the event. The drawer seal was intact but the drawer was empty when opened. The cabinet key remained on the night operator's belt during the recorded signal and was surrendered immediately afterward. No duplicate key is logged."
+    },
+    {
+      "type": "callout",
+      "label": "Handling instruction",
+      "text": "Store tag 3C-22 separately. Do not return evidence tags to the drainage network, reproduce the three-click signal, or leave sorted metal objects inside Pump House Three."
+    }
+  ]
+}

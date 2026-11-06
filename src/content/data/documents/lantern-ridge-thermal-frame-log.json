@@ -1,0 +1,76 @@
+{
+  "id": "document.mt-1997-019-internal-field-report-01",
+  "slug": "lantern-ridge-thermal-frame-log-01",
+  "documentNumber": "FUID-MT-1997-019-FR-INT-01",
+  "type": "field-report",
+  "title": "Controlled Thermal Frame Sequence Log",
+  "abstract": "Controlled frame-by-frame comparison of the east witness recording, interior culvert sensors, and west-rim thermal form.",
+  "createdDate": "1997-12-06",
+  "byline": {
+    "name": "Irene Bell",
+    "role": "Field Investigator"
+  },
+  "caseId": "case.mt-1997-019",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "restricted",
+    "minClearance": 2,
+    "departments": ["department.field-investigations"],
+    "grants": ["archive.internal"]
+  },
+  "search": {
+    "indexable": false,
+    "keywords": []
+  },
+  "classificationMarking": "FUID INTERNAL // CONTROLLED",
+  "distribution": ["OFI Northern Desk", "FUID Imaging Review", "Records Review Console"],
+  "metadata": [
+    {
+      "label": "Sequence",
+      "value": "LR-THERM-12 · 02:11:08–02:11:31"
+    },
+    {
+      "label": "Sensors",
+      "value": "East camera, culvert array, west camera"
+    },
+    {
+      "label": "Control basis",
+      "value": "Unreleased timing and unsupported body-form imagery"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Frame sequence"
+    },
+    {
+      "type": "paragraph",
+      "text": "02:11:08 — East camera records an antlered head lowering toward the culvert. The visible surface temperature is 31°C. Interior sensor 3 already shows a 7°C form occupying the center of the pipe 4.6 meters from the east mouth. No continuous thermal shape connects the two readings."
+    },
+    {
+      "type": "paragraph",
+      "text": "02:11:12 — East antlers pass below the concrete rim. Interior sensors 3, 2, and 1 register the cool form in that order, moving west while its narrow end remains oriented east. Dust-beam and tension-thread monitors show no interruption. Audio contains one hoof impact at the east mouth and no contact inside the pipe."
+    },
+    {
+      "type": "paragraph",
+      "text": "02:11:18 — Two warm antler tips appear above the west rim. The west camera shows no head, neck, or body beneath them. Their spacing increases from 42 to 71 centimeters while the tips remain vertical. Interior sensor 1 continues to show the cool form facing east."
+    },
+    {
+      "type": "paragraph",
+      "text": "02:11:23 — West antlers leave the frame. Snow impressions begin 1.3 meters beyond the culvert and proceed west. Each print is oriented east. The final interior reading clears at 02:11:31, eight seconds after the last visible exterior movement."
+    },
+    {
+      "type": "heading",
+      "text": "Clock verification"
+    },
+    {
+      "type": "paragraph",
+      "text": "All three recorders received the same hardwired timing pulse before and after the event. Maximum clock separation was 0.03 second. Reversing a camera clock cannot place the interior form after the east entry without also placing the west antlers before both."
+    },
+    {
+      "type": "callout",
+      "label": "Interpretive limit",
+      "text": "The sequence documents separated observations. It does not establish that one body occupied the east road, pipe interior, and west shoulder, or that the animal moved backward through the culvert."
+    }
+  ]
+}

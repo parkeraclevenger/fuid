@@ -19,7 +19,7 @@ test("public archive flow remains navigable and refresh-safe", async ({ page }) 
   await expect(page.locator(".case-card")).toHaveCount(8);
   await page.getByRole("link", { name: "The Bellwether Mile" }).click();
   await expect(page.getByRole("heading", { name: "The Bellwether Mile" })).toBeVisible();
-  await expect(page.locator(".document-row")).toHaveCount(4);
+  await expect(page.locator(".document-row")).toHaveCount(5);
 
   await page.getByRole("link", { name: /Mileage Reconciliation Procedures/ }).click();
   await expect(page.getByRole("heading", { name: "Mileage Reconciliation Procedures for Service Road 6" })).toBeVisible();
@@ -42,8 +42,8 @@ test("public search uses explicit metadata and record-type filters", async ({ pa
   await page.getByLabel("Search terms or record number").fill("Bellwether");
   await page.getByLabel("Record type").selectOption("document");
   await page.getByRole("button", { name: "Search records" }).click();
-  await expect(page.getByRole("heading", { name: "4 records found" })).toBeVisible();
-  await expect(page.locator(".search-result")).toHaveCount(4);
+  await expect(page.getByRole("heading", { name: "5 records found" })).toBeVisible();
+  await expect(page.locator(".search-result")).toHaveCount(5);
 
   await page.getByLabel("Search terms or record number").fill("FUID-NE-2019-021");
   await page.getByLabel("Record type").selectOption("all");
@@ -69,7 +69,7 @@ test("released-record clues unlock the unreleased record registry", async ({ pag
   await page.getByRole("button", { name: "Access employee resources" }).click();
 
   await expect(page.getByRole("heading", { name: "Unreleased record registry" })).toBeVisible();
-  await expect(page.locator(".internal-record-table__row")).toHaveCount(6);
+  await expect(page.locator(".internal-record-table__row")).toHaveCount(13);
   await expect(page.getByText("FUID-CO-2004-014-M-INT-01", { exact: true })).toBeVisible();
   await expect(page.getByText("FUID-OR-1986-011-M-INT-01", { exact: true })).toBeVisible();
   await expect(page.getByText("FUID-LA-2013-006-FR-INT-01", { exact: true })).toBeVisible();
@@ -123,6 +123,9 @@ test("cross-record review reveals and preserves the Harrow index-recovery puzzle
   await page.getByRole("button", { name: "Restore index entry" }).click();
 
   await expect(page.getByRole("heading", { name: "Misfiled record recovered" })).toBeVisible();
+  await expect(
+    page.getByRole("link", { name: /Open FUID-OR-1986-011-M-INT-02/ }),
+  ).toBeVisible();
   await page.getByRole("link", { name: /Open FUID-OR-1986-011-FR-INT-02/ }).click();
   await expect(
     page.getByRole("heading", { name: "Property Storage Incident and Relief Call Transcript" }),
@@ -137,7 +140,7 @@ test("cross-record review reveals and preserves the Harrow index-recovery puzzle
 test("Bellglass and Morrow Cut build distinct public-to-controlled discoveries", async ({ page }) => {
   await page.goto("/#/investigations/bellglass-orchard-visitor");
   await expect(page.getByRole("heading", { name: "The Bellglass Orchard Visitor" })).toBeVisible();
-  await expect(page.locator(".document-row")).toHaveCount(3);
+  await expect(page.locator(".document-row")).toHaveCount(4);
   await page.goto("/#/records/bellglass-orchard-field-report-01");
   await expect(page.getByText("Tracks began and ended at tree trunks", { exact: false })).toBeVisible();
   await page.goto("/#/records/bellglass-orchard-evidence-memorandum-01");
@@ -145,7 +148,7 @@ test("Bellglass and Morrow Cut build distinct public-to-controlled discoveries",
 
   await page.goto("/#/investigations/morrow-cut-choir");
   await expect(page.getByRole("heading", { name: "The Morrow Cut Choir" })).toBeVisible();
-  await expect(page.locator(".document-row")).toHaveCount(3);
+  await expect(page.locator(".document-row")).toHaveCount(4);
   await page.goto("/#/records/morrow-cut-field-report-01");
   await expect(page.getByText("said “Kade, Mercer, Ives”", { exact: false })).toBeVisible();
   await page.goto("/#/records/morrow-cut-acoustic-memorandum-01");
@@ -181,7 +184,7 @@ test("Bellglass and Morrow Cut build distinct public-to-controlled discoveries",
 test("Wrenfield public clues unlock its assigned account and service-level recovery", async ({ page }) => {
   await page.goto("/#/investigations/wrenfield-hotel");
   await expect(page.getByRole("heading", { name: "The Wrenfield Hotel" })).toBeVisible();
-  await expect(page.locator(".document-row")).toHaveCount(3);
+  await expect(page.locator(".document-row")).toHaveCount(4);
 
   await page.goto("/#/records/wrenfield-hotel-pattern-assessment-01");
   await expect(page.getByText("31", { exact: true })).toBeVisible();

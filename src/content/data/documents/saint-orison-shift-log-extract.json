@@ -1,0 +1,61 @@
+{
+  "id": "document.la-2013-006-field-report-02",
+  "slug": "saint-orison-shift-log-extract-02",
+  "documentNumber": "FUID-LA-2013-006-FR-02",
+  "type": "field-report",
+  "title": "Canal Crew Shift Log Extract",
+  "abstract": "Public time-stamped drainage crew observations documenting routine encounters and survey-flag returns after the initial Saint Orison investigation.",
+  "createdDate": "2013-05-10",
+  "byline": {
+    "name": "Celia Wren",
+    "role": "Field Investigator"
+  },
+  "caseId": "case.la-2013-006",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Saint Orison shift log", "Ledgerback", "survey flags", "Canal 3C", "drainage crew"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "distribution": ["Public Records Reading Room", "Saint Orison Parish Drainage Authority", "OFI Gulf Desk"],
+  "metadata": [
+    {
+      "label": "Log period",
+      "value": "April 27–May 9, 2013"
+    },
+    {
+      "label": "Reporting crews",
+      "value": "Canal maintenance shifts A and C"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Selected entries"
+    },
+    {
+      "type": "paragraph",
+      "text": "APR 27 · 06:40 — Crew A found six expired orange survey flags laid parallel on the Pump House Three apron. Flags had been removed from Canal 2A the prior week and placed in a lidded disposal drum. Drum remained closed. Animal observed at the Canal 3C trash rack at 07:05 and did not approach the crew."
+    },
+    {
+      "type": "paragraph",
+      "text": "APR 30 · 14:12 — Crew C stopped mower work when the animal surfaced beside marker 3C-17. It pushed one blue inspection flag onto the bank, waited until the operator collected it, and submerged. No charge, vocalization, or contact occurred. Work resumed after 20 minutes."
+    },
+    {
+      "type": "paragraph",
+      "text": "MAY 4 · 01:43 — Night operator heard three clicks and a rising chirp from Pump House Three while the animal was visible in Canal 3C. Operator remained outside and notified FUID. Separate controlled recording retained."
+    },
+    {
+      "type": "paragraph",
+      "text": "MAY 8 · 09:20 — Two yellow flags and one metal inspection tag were found at the east gate in order of printed date, oldest first. The animal surfaced approximately 40 meters away and remained stationary until the items were removed."
+    },
+    {
+      "type": "callout",
+      "label": "Supervisor note",
+      "text": "Crews complied with non-feeding and no-pursuit guidance. No injury, equipment damage, blocked flow, or aggressive behavior was reported during the log period."
+    }
+  ]
+}

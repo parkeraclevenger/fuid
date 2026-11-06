@@ -1,0 +1,75 @@
+{
+  "id": "document.us-2017-031-memorandum-03",
+  "slug": "wrenfield-reorientation-bulletin-03",
+  "documentNumber": "FUID-US-2017-031-M-03",
+  "type": "memorandum",
+  "title": "Emergency Reception and Reorientation Bulletin",
+  "abstract": "Public clinical guidance for emergency departments receiving confused travelers after a reported Wrenfield Hotel departure.",
+  "createdDate": "2018-02-08",
+  "from": {
+    "name": "Leona Pike, M.D.",
+    "role": "FUID Medical Liaison"
+  },
+  "to": ["Participating Emergency Departments", "Municipal Emergency Coordinators"],
+  "cc": ["Office of Records Analysis"],
+  "subject": "Emergency Reception and Reorientation Bulletin",
+  "caseId": "case.us-2017-031",
+  "departmentId": "department.records-analysis",
+  "access": {
+    "kind": "public"
+  },
+  "search": {
+    "indexable": true,
+    "keywords": ["Wrenfield medical guidance", "dazed hotel guest", "reorientation", "emergency department", "missing time"]
+  },
+  "classificationMarking": "PUBLIC RELEASE",
+  "metadata": [
+    {
+      "label": "Bulletin series",
+      "value": "ORA-MED-4"
+    },
+    {
+      "label": "Observed recovery period",
+      "value": "6–12 hours in most cases"
+    },
+    {
+      "label": "Report destination",
+      "value": "Office of Records Analysis"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Initial care"
+    },
+    {
+      "type": "paragraph",
+      "text": "Treat immediate medical needs before attempting to reconcile the reported hotel. Obtain ordinary vital signs, blood glucose, toxicology when clinically indicated, and a brief neurological examination. Wrenfield exposure has not produced a distinctive laboratory finding. Do not assume intoxication solely because the patient gives the wrong city, date, or duration of travel."
+    },
+    {
+      "type": "heading",
+      "text": "Interview conditions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask the patient to describe the last place they remember without supplying the hotel name. Record the answer before showing identification, transit tickets, weather information, or a clock. Do not challenge a detailed account merely because the described stay exceeds the verified absence. Contradiction during the first hour has increased distress without improving orientation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Four patients reported seeing the assigned hotel room when closing their eyes despite remaining awake and responsive. This effect ended after natural sleep. Keep lighting steady, explain the current location in short intervals, and permit the patient to keep their eyes open. Sedation is not indicated for this report alone."
+    },
+    {
+      "type": "heading",
+      "text": "Property and discharge"
+    },
+    {
+      "type": "paragraph",
+      "text": "Photograph Wrenfield keys, receipts, message cards, and toiletries before placing them in a paper property envelope. Do not test keys in hospital doors. Personal clothing and luggage may be returned after ordinary screening. The patient may be discharged when oriented to person and current place, medically stable, and connected with a verified contact or safe transportation."
+    },
+    {
+      "type": "callout",
+      "label": "Emergency limitation",
+      "text": "FUID does not operate a medical response service. Contact local emergency services for active hazards and use this bulletin only after the traveler is in a safe care setting."
+    }
+  ]
+}

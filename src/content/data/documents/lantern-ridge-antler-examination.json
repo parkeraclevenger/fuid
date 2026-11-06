@@ -1,0 +1,70 @@
+{
+  "id": "document.mt-1997-019-internal-memorandum-02",
+  "slug": "lantern-ridge-antler-examination-02",
+  "documentNumber": "FUID-MT-1997-019-M-INT-02",
+  "type": "memorandum",
+  "title": "Antler Residue and Snow-Cast Examination",
+  "abstract": "Controlled examination of keratin fibers and unsupported antler impressions collected at the west culvert rim.",
+  "createdDate": "1997-12-12",
+  "from": {
+    "name": "Irene Bell",
+    "role": "Field Investigator"
+  },
+  "to": ["FUID Materials Examination", "OFI Northern Desk"],
+  "cc": ["Records Review Console"],
+  "subject": "Antler Residue and Snow-Cast Examination",
+  "caseId": "case.mt-1997-019",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "restricted",
+    "minClearance": 2,
+    "departments": ["department.field-investigations"],
+    "grants": ["archive.internal"]
+  },
+  "search": {
+    "indexable": false,
+    "keywords": []
+  },
+  "classificationMarking": "FUID INTERNAL // CONTROLLED",
+  "metadata": [
+    {
+      "label": "Evidence lots",
+      "value": "MT-97-LR-14 through MT-97-LR-18"
+    },
+    {
+      "label": "Collection point",
+      "value": "West rim and first exterior track"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Rim residue"
+    },
+    {
+      "type": "paragraph",
+      "text": "Four amber fibers were recovered from fresh scratches on the west concrete rim. Microscopy identifies layered keratin broadly consistent with antler material. The fibers contain no viable cells and yield no DNA profile. Mineral content is elevated but not sufficient to classify the material as fossilized or chemically preserved."
+    },
+    {
+      "type": "paragraph",
+      "text": "The scratches begin on the underside of the rim and continue upward across the outer face. Their direction is consistent with antlers rising from inside the culvert. The marks are 68 centimeters apart at their widest point. No corresponding head, shoulder, or body impression exists in the snow beneath them."
+    },
+    {
+      "type": "heading",
+      "text": "Snow cast"
+    },
+    {
+      "type": "paragraph",
+      "text": "A plaster cast was taken from the first paired track west of the culvert. It is ordinary elk scale and points east despite the track sequence proceeding west. While curing, two narrow depressions formed in the unset top surface 69 centimeters apart. Photographs taken immediately before pouring show undisturbed snow at those positions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The depressions stop halfway through the plaster and do not reach the original hoof impression. No tool, falling object, or antler was present during the guarded cure. The finished cast remained at ambient temperature and has not changed in storage."
+    },
+    {
+      "type": "callout",
+      "label": "Storage instruction",
+      "text": "Store the cast flat with nothing placed above it. Do not fit recovered antler material to the depressions or use the cast as a lure during field monitoring."
+    }
+  ]
+}

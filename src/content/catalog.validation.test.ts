@@ -50,18 +50,21 @@ describe("deployed content catalog", () => {
   it("loads the public archive and resolves all relationships", () => {
     expect(catalog.departments).toHaveLength(2);
     expect(catalog.cases).toHaveLength(8);
-    expect(catalog.documents).toHaveLength(33);
+    expect(catalog.documents).toHaveLength(49);
     expect(catalog.employees).toHaveLength(2);
     expect(catalog.accounts).toHaveLength(2);
     expect(catalog.discoveries).toHaveLength(6);
     expect(catalog.puzzles).toHaveLength(2);
     const bellwether = catalog.getCaseBySlug("bellwether-mile");
     expect(bellwether?.caseNumber).toBe("FUID-CO-2004-014");
-    expect(bellwether?.relatedDocumentIds).toHaveLength(5);
-    expect(catalog.getCaseBySlug("harrow-station-empty-desk")?.relatedDocumentIds).toHaveLength(5);
-    expect(catalog.getCaseBySlug("bellglass-orchard-visitor")?.relatedDocumentIds).toHaveLength(4);
-    expect(catalog.getCaseBySlug("morrow-cut-choir")?.relatedDocumentIds).toHaveLength(4);
-    expect(catalog.getCaseBySlug("wrenfield-hotel")?.relatedDocumentIds).toHaveLength(6);
+    expect(bellwether?.relatedDocumentIds).toHaveLength(6);
+    expect(catalog.getCaseBySlug("harrow-station-empty-desk")?.relatedDocumentIds).toHaveLength(6);
+    expect(catalog.getCaseBySlug("bellglass-orchard-visitor")?.relatedDocumentIds).toHaveLength(6);
+    expect(catalog.getCaseBySlug("morrow-cut-choir")?.relatedDocumentIds).toHaveLength(6);
+    expect(catalog.getCaseBySlug("saint-orison-drainage-animal")?.relatedDocumentIds).toHaveLength(6);
+    expect(catalog.getCaseBySlug("lantern-ridge-long-elk")?.relatedDocumentIds).toHaveLength(6);
+    expect(catalog.getCaseBySlug("ash-creek-siren")?.relatedDocumentIds).toHaveLength(6);
+    expect(catalog.getCaseBySlug("wrenfield-hotel")?.relatedDocumentIds).toHaveLength(7);
     expect(catalog.getDocument(bellwether?.relatedDocumentIds[0] ?? "")?.caseId).toBe(
       bellwether?.id,
     );

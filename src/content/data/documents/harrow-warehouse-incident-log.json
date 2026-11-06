@@ -1,0 +1,86 @@
+{
+  "id": "document.or-1986-011-internal-memorandum-02",
+  "slug": "harrow-warehouse-incident-log-02",
+  "documentNumber": "FUID-OR-1986-011-M-INT-02",
+  "type": "memorandum",
+  "title": "Overnight Warehouse Incident Log and Inventory Impression",
+  "abstract": "Controlled reconstruction of aisle sensors, staff log entries, and the altered inventory sheet following the Harrow relief call.",
+  "createdDate": "1994-03-20",
+  "from": {
+    "name": "Ada Keene",
+    "role": "Regional Property Specialist"
+  },
+  "to": ["Regional Property Management Unit", "OFI Northwest Desk"],
+  "cc": ["Records Review Console"],
+  "subject": "Overnight Warehouse Incident Log and Inventory Impression",
+  "caseId": "case.or-1986-011",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "restricted",
+    "minClearance": 2,
+    "departments": ["department.field-investigations"],
+    "grants": ["archive.internal", "archive.harrow-appendix"]
+  },
+  "search": {
+    "indexable": false,
+    "keywords": []
+  },
+  "classificationMarking": "FUID INTERNAL // CONTROLLED",
+  "metadata": [
+    {
+      "label": "Log window",
+      "value": "March 19, 1994 · 01:45–04:30"
+    },
+    {
+      "label": "Property lot",
+      "value": "OR-86-HR-4"
+    },
+    {
+      "label": "Control basis",
+      "value": "Personnel identity, sensor records, and altered property form"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Staffing and seals"
+    },
+    {
+      "type": "paragraph",
+      "text": "Three employees were present: Keene at the property desk, Officer Marsh at the west entrance, and clerk Phelps in receiving. The Harrow aisle seal was inspected at 01:47 and 04:18 and remained intact. No key was removed from the control cabinet. Door contacts, loading-bay chains, and roof alarms recorded no opening."
+    },
+    {
+      "type": "heading",
+      "text": "Sensor sequence"
+    },
+    {
+      "type": "paragraph",
+      "text": "At 02:13, the desk telephone stored in lot OR-86-HR-4 rang without power or line service. Forty-three seconds after the empty chair moved into the aisle, ceiling sensors registered a walking-speed sequence from the Harrow lot toward the west personnel exit. The camera image shows no corresponding person. Each sensor cleared in order rather than simultaneously."
+    },
+    {
+      "type": "paragraph",
+      "text": "The west exit pressure mat registered 71.4 kilograms for two seconds at 02:15:09. Its door contact remained closed and Officer Marsh, standing inside the door, observed no movement. The mat passed a load test at 04:42. No similar activation appears elsewhere in the thirty-day log."
+    },
+    {
+      "type": "heading",
+      "text": "Inventory form"
+    },
+    {
+      "type": "paragraph",
+      "text": "The top inventory sheet remained clipped to Keene's board throughout the call. At 03:58, clerk Phelps found an impression on the pink carbon copy beneath it reading R. VALE — RELIEVED 03/19/94. The text reads correctly only from the reverse side, as if pressure had been applied from below the pad. The top sheet contains no corresponding writing or indentation."
+    },
+    {
+      "type": "paragraph",
+      "text": "A fourth signature line appears beneath the three employee initials on the carbon copy. The line is blank but compresses the paper with the same pressure as the reversed text. Laboratory examination found no added graphite, ink, heat, solvent, or substituted sheet."
+    },
+    {
+      "type": "callout",
+      "label": "Storage instruction",
+      "text": "Retain the complete form pad flat and sealed. Do not place blank carbon forms, ringing devices, or employee sign-out sheets inside aisle OR-86-HR-4."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sensor path is consistent with a person leaving the Harrow aisle and reaching the west door. No visible person, opened barrier, or missing staff member corresponds to that path. The lot remains sealed pending director-level disposition."
+    }
+  ]
+}

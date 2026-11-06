@@ -6,16 +6,16 @@ FUID is a browser-based interactive mystery presented as the public archive of a
 
 ## Current status
 
-Milestones 7 and 8 established a measured authoring/performance workflow on top of the durable progress and puzzle foundation. The subsequent Wrenfield expansion demonstrates that a new case can reuse those systems without a bespoke feature:
+Milestones 7 and 8 established a measured authoring/performance workflow on top of the durable progress and puzzle foundation. Subsequent archive expansions demonstrate that new cases and document forms can reuse those systems without bespoke features:
 
 - a responsive public agency shell;
 - a homepage;
 - a public investigations index;
-- eight schema-validated investigations and thirty-three related documents;
-- distinct field-report and memorandum presentations;
+- eight schema-validated investigations and forty-nine related documents;
+- reusable field-report and memorandum presentations supporting logs, transcripts, evidence inventories, medical bulletins, certificates, and technical reviews;
 - public search with explicit index visibility and record-type filtering;
 - two employee sign-ins with progressive credential hints, centralized department/grant checks, and an internal records console;
-- ten controlled records across seven investigations that are excluded from public listings and search;
+- eighteen controlled records across all eight investigations that are excluded from public listings and search;
 - a versioned local profile that preserves sign-in, reviewed records, correlations, grants, and solved index tasks;
 - validated progress export/import with a supported migration fixture;
 - six cross-record analyst correlations and two index-recovery puzzles;
@@ -27,7 +27,7 @@ Milestones 7 and 8 established a measured authoring/performance workflow on top 
 - route-level loading and cacheable vendor, validation, and archive-data chunks;
 - content, helper, desktop-browser, and mobile-browser tests.
 
-Progress is stored in one versioned browser-local profile and may be exported or imported from Employee Resources. The puzzle engine intentionally supports only the authored index-recovery shape proven by the current Harrow flow. See `docs/ROADMAP.md`.
+Progress is stored in one versioned browser-local profile and may be exported or imported from Employee Resources. The puzzle engine intentionally supports only the authored index-recovery shape proven by the Harrow and Wrenfield flows. See `docs/ROADMAP.md`.
 
 ## Requirements
 

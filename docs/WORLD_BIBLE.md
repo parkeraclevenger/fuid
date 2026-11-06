@@ -51,6 +51,7 @@ Additional terms require a schema and world-bible update before use.
 - 1971-08-06 through 1971-08-09: Miriam Saye documents discontinuous tracks ending at solid trunks, a three-tap exchange between separated trees, and consistent witness descriptions of the Bellglass Orchard Visitor.
 - 1971-08-10 through 1971-08-11: A controlled night watch observes the figure narrow against an illuminated tree without passing behind it. Chewing and a close recorded voice originate inside a locked packing shed while a sealed fruit crate loses and regains weight; eleven fruit are found hollow.
 - 1971-08-13: Laboratory examination establishes that scoring begins inside split peach pits without an entry path through the fruit skin, stem, or blossom end.
+- 1971-08-15: Audio comparison confirms the packing-shed phrase “leave the last one” reaches the exterior microphone before the closer interior microphone. No witness voice matches it, and the record does not identify the speaker as the observed animal.
 - 1972-01-14: FUID closes the Bellglass investigation unresolved after orchard clearance reveals no den, passage, or structural route and six months pass without a confirmed recurrence.
 - 1986-08-27: End-of-season inventory at Harrow Ridge Fire Station identifies a fourth work position and shift entries for R. Vale despite authorization for three observers.
 - 1986-09-02 through 1986-09-04: Jonah Rusk reconciles the station records, inventories the unassigned property, and surveys a maintained path that ends at monument HR-0 without reaching the “lower tower” recalled by station staff.
@@ -59,10 +60,11 @@ Additional terms require a schema and world-bible update before use.
 - 1994-03-07: Property Management receives an unsigned, unpostmarked request to “hold my desk until fire season” that names the public property-lot number but provides no private identifying detail.
 - 1994-03-18: Evelyn Shaw retains the letter with the Harrow file but declines to reopen the investigation. The property remains held because of the duplicate asset number, not because a claimant was verified.
 - 1994-03-19: At 02:13, Regional Property Specialist Ada Keene hears an unpowered telephone stored inside the Harrow desk ring. A recorded voice identifies itself as Vale at the “lower tower,” states that relief is 2,776 days overdue, and tells Keene not to let the other three see her leave. The empty chair moves on warehouse video; a second voice counts down beneath the line noise; the handset is warm and wet afterward.
-- 1994-03-20: A reversed carbon impression reading “R. VALE — RELIEVED 03/19/94” appears on the aisle inventory sheet. Lot OR-86-HR-4 remains sealed with instructions not to answer ringing devices or acknowledge relief status.
+- 1994-03-20: A reversed carbon impression reading “R. VALE — RELIEVED 03/19/94” appears upward through the aisle inventory pad. Warehouse sensors preserve an unseen walking-speed path from the Harrow aisle to a closed exit, where a pressure mat briefly registers 71.4 kilograms. Lot OR-86-HR-4 remains sealed with instructions not to answer ringing devices or acknowledge relief status.
 - 1997-10-31 through 1997-11-04: Highway and wildlife personnel report an exceptionally tall elk-like animal near Lantern Ridge, Montana, entering a culvert too small for its described height.
 - 1997-11-05 through 1997-11-12: Irene Bell documents ordinary elk-scale hoofprints that face back toward the culvert after the track sequence resumes beyond it. Interior dust, webs, and a survey thread remain intact.
 - 1997-12-04: A controlled timing comparison records a cool form already inside the culvert before the east witness reports the animal entering. Antler tips appear at the west rim without a visible head or body.
+- 1997-12-12: Examination identifies four keratin fibers in upward scratches on the west rim. A guarded plaster cast of the first west-side track develops paired depressions in its upper surface while curing, without a corresponding object above it.
 - 1998-01-09: FUID prohibits further mineral-block lures near the road after two blocks disappear without tracks or snow disturbance. Camera observation ends without a usable image and the case closes unresolved.
 - 1998-02-17: The earliest verified Wrenfield Hotel manifestation is documented in Duluth. Later record comparison identifies nine appearances across seven states and 31 recovered guests.
 - 2004-11-18: A maintenance crew reports repeated road-distance discrepancies on a service road near Bellwether Reservoir, Colorado.
@@ -73,15 +75,18 @@ Additional terms require a schema and world-bible update before use.
 - 2005-02-21: Mara Venn files the first quarterly monitoring report and recommends continued observation.
 - 2005-03-04: Mara Venn files a controlled endpoint-observation addendum after marker 6-B persists in the rear mirror during three route-variance events. The public archive does not index this addendum.
 - 2005-04-11: Lena Ortez denies a request to replace the confirmed 6-B post while monitoring remains active; no second physical marker has been recovered.
+- 2005-04-18: Calibration against four control courses clears the Bellwether measuring instruments and confirmed physical marker as sufficient causes of the route variance. The unrecovered second 6-B remains an observation rather than a second asset.
 - 2008-02-11: A Morrow Cut highway crew opens exploratory bore MC-B7 and hears coordinated human voices counting and repeating crew surnames from an unmapped void.
 - 2008-02-14 through 2008-02-20: Elias Kade reproduces the voices under controlled conditions. Camera, range, geological, gas, and acoustic surveys find no person-sized opening, connected working, or conventional transmission path.
 - 2008-02-21: During the final instrument descent, the bore places Mercer and Ives at the north gate nine minutes before their unannounced vehicle arrives, then addresses Kade beside the microphone at the measured terminus.
 - 2008-02-22: An intact sealed capsule is recovered with interior condensation and six human primary teeth beneath its recorder. The bore is permanently filled to its calculated volume.
+- 2008-03-03: Controlled audio comparison finds that several bore-speech fragments resemble later site recordings, including part of Kade's surname matching a radio check made seventeen minutes afterward. The post-power breathing segment contains six unsynchronized intervals.
 - 2009-02-24: One-year monitoring finds no recurrence. Morrow Cut closes unresolved with original audio, teeth, and instrument package retained.
 - 2013-04-19: Saint Orison Parish drainage staff report a large amphibious animal moving through the flood-control network and returning expired survey flags to Pump House Three.
 - 2013-04-24 through 2013-04-26: Celia Wren observes the animal sorting recovered flags by color, returning an inspection tag separately, and entering a culvert with no tested water connection to its later emergence point.
 - 2013-05-02: FUID issues low-risk conduct guidance. “Ledgerback” remains an unofficial staff nickname; the case stays open for quarterly noninvasive monitoring.
 - 2013-05-06: A controlled pump-house supplement records the animal visible in Canal 3C while its three-click call is captured inside a locked control cabinet. Expired tags stored in a sealed drawer are later found sorted inside the cabinet, including one wet with canal water.
+- 2013-05-14: Evidence inventory confirms the wet tag carries Canal 3C diatoms while the cabinet and adjacent tags remain dry. Paired grooves recur on tags of different ages but do not match parish handling tools.
 - 2017-10-17: Maribel Sosa calls Baltimore dispatch from Wrenfield room 714 approximately 25 hours before entering the city and before the hotel is reported at the address. A Newark property card had listed the same future occupancy five months earlier.
 - 2017-10-18: ORA opens `FUID-US-2017-031` after linking matching Wrenfield keys, receipts, guest confusion, and impossible hotel parcels across seven states.
 - 2018-01-29: Controlled guest comparison establishes recurring elevator controls L through 7 and B8, an absent first-floor button, and an “eighth basement” exit instruction independently remembered by a Newark guest.
@@ -89,6 +94,7 @@ Additional terms require a schema and world-bible update before use.
 - 2019-04-16: The operation is sealed from the routine Wrenfield registry. Personnel entry into the service lift or any city-marked doorway is prohibited.
 - 2019-05-07: A disconnected civil-defense siren in Ash Creek Township, Nebraska, begins a series of Tuesday activations.
 - 2019-06-11: Omar Dale observes an activation and traces it to a failed irrigation-valve suppression diode, an abandoned telephone pair, and a degraded siren relay.
+- 2019-06-14: Bench reconstruction reproduces the activation timing and faint dispatch-recording speech through the documented electrical path and ordinary road-radio coupling. No unexplained audio or medical effect remains.
 - 2019-07-03: The Ash Creek case closes as explained after the undocumented conductor is removed and no further activation occurs.
 - 2020-07-07: A one-year post-closure review confirms no recurrence. Ash Creek remains fully explained, with no concealed anomalous finding.
 
@@ -124,15 +130,20 @@ Additional terms require a schema and world-bible update before use.
 - The three Harrow witnesses' controlled statements are canon. Their memories conflict internally but were recorded independently; no witness can describe Vale or place all four observers together.
 - The unsigned 1994 Harrow claimant letter is inconclusive and contains no verified private knowledge. It does not establish that R. Vale returned or wrote it.
 - The March 19 property-storage incident is canon and represents a direct physical anomaly, not merely a record contradiction. The caller's identity, origin, knowledge of Keene, and meaning of “relief” remain unresolved.
+- The warehouse sensor path, closed-door pressure-mat activation, and reversed carbon impression are canon. They do not establish that a visible person left the aisle or that any employee was physically relieved.
 - No canonical connection exists between Harrow Station and Bellwether Reservoir.
 - The Ash Creek siren is fully explained and is not a hidden paranormal event. It demonstrates that FUID sometimes reaches an ordinary finding.
+- Ash Creek's controlled medical and dispatch records are withheld for employee privacy and infrastructure detail only. They contain no suppressed anomalous finding.
 - The Saint Orison drainage animal is a real, physically observed but taxonomically unidentified animal. Its flag-sorting behavior and culvert route are unresolved. “Ledgerback” is unofficial and does not establish a species.
 - The pump-cabinet signal and rearranged tags are established observations. The record does not establish whether the animal produced the remote signal or entered the cabinet.
 - The Lantern Ridge track and temperature observations are canon, but the animal's reported height and means of culvert passage are unverified. It has no canonical connection to the Saint Orison animal or any other case.
 - The controlled timing discrepancy and unsupported antler tips are canon observations, not proof that the animal occupied two locations or traveled backward in time.
+- The Lantern Ridge keratin fibers and paired plaster depressions are canon physical evidence. They do not establish the animal's size, species, or a mechanism for the unsupported antler observations.
 - The Bellglass Visitor was physically observed but never fully photographed or taxonomically identified. Its apparent narrowing against a tree, discontinuous tracks, and the interior-first alteration of fruit are canon; the record does not establish that it moved through trees or solid material.
 - The recorded instruction “leave the last one” and the warm final fruit are canon. The voice is not identified as the animal, a person, or a shared witness effect.
+- The reversed arrival order between the Bellglass interior and exterior audio channels is canon, but it does not establish where the voice originated.
 - The Morrow Cut voices, anticipatory gate sequence, sealed-capsule condensation, and recovered primary teeth are canon. The teeth do not match site personnel or the missing-person references available at the time, but they are not canonically linked to a crime, death, mine disaster, or another FUID case.
+- The later-matching Morrow speech fragments and six breathing intervals are canon analytical findings. They do not prove future recording, six speakers, or a relationship between the breathing and the six teeth.
 - Bellglass and Morrow Cut have no canonical connection to each other or to the earlier archive. Repeated boundary and sequence motifs are thematic contrast, not evidence of one cause.
 - The Wrenfield manifestations, 31 recovered guests, matching property, inconsistent elapsed stays, and B8 service corridor are canon. The hotel has no identified owner, fixed location, construction mechanism, or verified ordinary entrance sequence.
 - The B8 corridor appears to connect prior manifestations across location and event order, but the records do not establish that every guest passes through it or that the hotel controls who arrives and leaves.

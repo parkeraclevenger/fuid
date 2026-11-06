@@ -87,7 +87,7 @@ Public search is implemented as a small index derived once at application startu
 
 Queries are normalized and require every query token to match. Ranking favors exact record numbers, exact titles, then title, keyword, and summary matches. Content-type filtering is deterministic. Deliberately unindexed records are explicit metadata, never random omissions.
 
-For the current archive, in-memory search across 31 explicitly indexable case/document entries is adequate and avoids another dependency. The same query engine can later receive an already-authorized internal dataset. A build-emitted index, fuzzy-search library, or lazy detail chunks will be introduced only after measured archive size or query quality justifies them.
+For the current archive, in-memory search across 39 explicitly indexable case/document entries is adequate and avoids another dependency. The same query engine can later receive an already-authorized internal dataset. A build-emitted index, fuzzy-search library, or lazy detail chunks will be introduced only after measured archive size or query quality justifies them.
 
 ## Persistence strategy
 
@@ -123,7 +123,7 @@ The verification gate is:
 
 The authoring helper creates `.draft.json` files outside the deployable content glob for cases, departments, public field reports, public memoranda, controlled field reports, discoveries, and phrase puzzles. This lets an author work from a structurally representative template without breaking every build before the draft is complete. `pnpm report:content` validates first, then prints case coverage, public/restricted and searchable counts, unresolved references, and puzzle dependency chains.
 
-Production routes load lazily. Vite separates archive JSON, Zod, and React/router code into cacheable chunks, while individual pages remain small route chunks. After the Wrenfield expansion, the former 521.54 kB monolithic application entry is 27.72 kB; the largest chunks are React/router at 313.64 kB, archive data at 111.49 kB, and validation at 87.28 kB. Combined JavaScript and CSS are 598.80 kB uncompressed. This improves caching and avoids one monolithic entry but does not claim to eliminate initial catalog availability: progress/reference validation still uses the complete catalog. `pnpm report:bundle` records future changes.
+Production routes load lazily. Vite separates archive JSON, Zod, and React/router code into cacheable chunks, while individual pages remain small route chunks. After the forty-nine-document expansion, the former 521.54 kB monolithic application entry is 28.80 kB; the largest chunks are React/router at 313.64 kB, archive data at 156.71 kB, and validation at 87.28 kB. Combined JavaScript and CSS are 644.31 kB uncompressed. This improves caching and avoids one monolithic entry but does not claim to eliminate initial catalog availability: progress/reference validation still uses the complete catalog. `pnpm report:bundle` records future changes.
 
 ## Complexity deliberately deferred
 

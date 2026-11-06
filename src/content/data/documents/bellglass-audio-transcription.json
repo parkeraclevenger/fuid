@@ -1,0 +1,74 @@
+{
+  "id": "document.ga-1971-002-internal-memorandum-01",
+  "slug": "bellglass-audio-transcription-01",
+  "documentNumber": "FUID-GA-1971-002-M-INT-01",
+  "type": "memorandum",
+  "title": "Packing-Shed Audio Transcription and Voice Comparison",
+  "abstract": "Controlled timecode transcription and channel comparison of the packing-shed recording obtained during the Bellglass night watch.",
+  "createdDate": "1971-08-15",
+  "from": {
+    "name": "Miriam Saye",
+    "role": "Field Investigator"
+  },
+  "to": ["OFI Southeast Desk", "Federal Audio Examination Unit"],
+  "cc": ["Records Review Console"],
+  "subject": "Packing-Shed Audio Transcription and Voice Comparison",
+  "caseId": "case.ga-1971-002",
+  "departmentId": "department.field-investigations",
+  "access": {
+    "kind": "restricted",
+    "minClearance": 2,
+    "departments": ["department.field-investigations"],
+    "grants": ["archive.internal"]
+  },
+  "search": {
+    "indexable": false,
+    "keywords": []
+  },
+  "classificationMarking": "FUID INTERNAL // CONTROLLED",
+  "metadata": [
+    {
+      "label": "Recording window",
+      "value": "August 11, 1971 · 01:46:10–01:49:02"
+    },
+    {
+      "label": "Channels",
+      "value": "Shed interior, east door, orchard row N"
+    },
+    {
+      "label": "Control basis",
+      "value": "Unreleased voice content and witness identifiers"
+    }
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "Relevant transcription"
+    },
+    {
+      "type": "paragraph",
+      "text": "01:47:03 — Three knocks occur inside the locked shed, evenly spaced at 0.8 second. Investigator Saye answers with three knocks on the east door. 01:47:07 — A second three-knock sequence sounds from the northwest wall, where stacked crates prevent interior access. Orchard observers report the pale figure stationary beside tree N-23."
+    },
+    {
+      "type": "paragraph",
+      "text": "01:47:19 — Chewing begins on the interior microphone. Crate BG-6 loses 4.1 kilograms on the floor scale. 01:47:31 — An adult voice, low and close to the microphone, says, “Leave the last one.” No witness speaks. The chewing stops. Crate weight returns in two steps, and one impact is heard inside the nailed lid."
+    },
+    {
+      "type": "heading",
+      "text": "Channel comparison"
+    },
+    {
+      "type": "paragraph",
+      "text": "The phrase reaches the exterior door microphone 6 milliseconds before the interior microphone despite being 18 decibels louder inside. Cable length, recorder speed, and channel labels were verified. Reversing the channel assignment would correct the arrival order but would place every witness statement and door knock on the wrong recorder."
+    },
+    {
+      "type": "paragraph",
+      "text": "No voice comparison was obtained from the observed animal. The phrase does not match Saye, the property owner, either county inspector, or the two watch volunteers. Breath noise precedes the first word, but no respiration is audible before or after the phrase."
+    },
+    {
+      "type": "callout",
+      "label": "Release restriction",
+      "text": "Do not publish the spoken phrase or use it during field playback. The recording provides no basis to invite a reply, repeat the knock sequence, or treat the voice as a verified communication from the observed animal."
+    }
+  ]
+}

@@ -88,6 +88,8 @@ Completed with seven investigations and twenty-seven documents after the request
 
 Post-completion expansion: “The Wrenfield Hotel” brings the archive to eight investigations and thirty-three documents. It adds a nationwide transient-building case, a second employee credential trail, two account-specific controlled records, a sixth analyst correlation, and a second phrase-recovery puzzle with a final hidden record. The existing content, access, progress, and puzzle boundaries were reused; the only general change limits puzzle visibility to sessions that can read their source records.
 
+Second post-completion expansion: sixteen records bring the archive to forty-nine documents, with every case holding six or seven substantial records. The additions are split evenly between eight public and eight controlled documents and vary their administrative purpose—shift logs, audio worksheets, medical guidance, evidence inventories, calibration and remediation certificates, engineering closure reports, and technical transcripts—while continuing to use the two validated document families. No renderer, schema, route, account, puzzle mechanic, or new cross-case connection was added.
+
 ### Milestone 8: authoring and performance pass — complete locally (2026-11-05)
 
 - add case/document generation templates;
@@ -95,7 +97,7 @@ Post-completion expansion: “The Wrenfield Hotel” brings the archive to eight
 - split detail payloads or indexes only if measurements justify it;
 - add reference and puzzle dependency reports for authors.
 
-Completed with draft templates for both document families, controlled records, discoveries, and puzzles; a validated content/reference/puzzle-dependency report; a production asset report; lazy route modules; and cacheable React/router, validation, and archive-data chunks. After the Wrenfield expansion, the original 521.54 kB application entry is 27.72 kB. The largest chunk is React/router at 313.64 kB, followed by archive data at 111.49 kB and validation at 87.28 kB. Combined JavaScript/CSS is 598.80 kB uncompressed. A deeper summary/detail catalog split remains deferred because it would complicate synchronous progress/reference validation without a demonstrated user-facing need.
+Completed with draft templates for both document families, controlled records, discoveries, and puzzles; a validated content/reference/puzzle-dependency report; a production asset report; lazy route modules; and cacheable React/router, validation, and archive-data chunks. After the forty-nine-document expansion, the original 521.54 kB application entry is 28.80 kB. The largest chunk is React/router at 313.64 kB, followed by archive data at 156.71 kB and validation at 87.28 kB. Combined JavaScript/CSS is 644.31 kB uncompressed. A deeper summary/detail catalog split remains deferred because it would complicate synchronous progress/reference validation without a demonstrated user-facing need.
 
 ## Phase 4 — Release hardening
 
